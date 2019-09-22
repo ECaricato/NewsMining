@@ -1,7 +1,8 @@
 import java.util.LinkedList;
-
 import java.util.TreeSet;
-
+/*
+This class represents a page, which is equivalent to an article of the newspaper "Frankfurter Allgemeine Zeitung".
+ */
 public class Page {
 
     private String title;

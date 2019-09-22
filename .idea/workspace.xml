@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="040f3844-2c7c-412b-a512-3caabd0d3fcf" name="Default Changelist" comment="" />
+    <list default="true" id="040f3844-2c7c-412b-a512-3caabd0d3fcf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Page.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RBRuoZ5eHJHgNF9MDcVCe0zFrx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -73,11 +79,22 @@
       <workItem from="1569138730154" duration="9556000" />
       <workItem from="1569148586777" duration="84000" />
       <workItem from="1569148691757" duration="21000" />
-      <workItem from="1569148733858" duration="1019000" />
+      <workItem from="1569148733858" duration="1887000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
