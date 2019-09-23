@@ -15,22 +15,23 @@
     
 
 
-                        <title>Machtkampf unter Katholiken: Breit lächeln und den Dolch in den Rücken</title>
+                        <title>Welche Ernährung bei chronischen Erkrankungen hilft</title>
                     
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
     <meta name="viewport" content="width=device-width">
 
 
-                            <meta name="description" content="Der Vatikan legt sich mit den deutschen Bisch&ouml;fen an, es geht um die Konsequenzen aus dem Missbrauchsskandal. Dahinter stecken zwei..."/>
-                        <meta name="keywords" content="Kardinal Marx, Marc Ouellet, Rainer Maria Woelki, Rudolf Voderholzer, Vatikan, Kirche, ZdK"/>
-        <meta name="news_keywords" content="Kardinal Marx, Marc Ouellet, Rainer Maria Woelki, Rudolf Voderholzer, Vatikan, Kirche, ZdK"/>
+                            <meta name="description" content="Bluthochdruck, Diabetes oder Schmerzen &ndash; solche Erkrankungen lassen sich nicht nur mit Medikamenten behandeln, sondern auch durch die..."/>
+                        <meta name="keywords" content="Charit&eacute;, Lebensmittel, Nahrungsmittel, Erkrankung, Ern&auml;hrung, Deutschland"/>
+        <meta name="news_keywords" content="Charit&eacute;, Lebensmittel, Nahrungsmittel, Erkrankung, Ern&auml;hrung, Deutschland"/>
                   
 
-                        <meta property="og:title" content="Machtkampf unter Katholiken: Breit lächeln – und den Dolch in den Rücken stoßen" />
-                    <meta property="og:description" content="Der Vatikan legt sich mit den deutschen Bischöfen an, es geht um die Konsequenzen aus dem Missbrauchsskandal. Dahinter stecken zwei mächtige Männer, denen der ganze Weg nicht passt." />
-                    <meta property="og:url" content="https://www.faz.net/1.6396235" />
-                    <meta property="og:image" content="https://media0.faz.net/ppmedia/aktuell/politik/3289571103/1.5572856/facebook_teaser_fplus/kardinal-reinhard-marx-r-und.jpg" />
+                        <meta property="og:title" content="Gesunde Ernährung: Hier ist der Speiseplan für chronisch Kranke" />
+                    <meta property="og:description" content="Bluthochdruck, Diabetes oder Schmerzen – solche Erkrankungen lassen sich nicht nur mit Medikamenten behandeln, sondern auch durch die richtige Ernährung. Ein Mediziner für Naturheilkunde klärt unseren Autor auf.
+" />
+                    <meta property="og:url" content="https://www.faz.net/1.6396863" />
+                    <meta property="og:image" content="https://media1.faz.net/ppmedia/aktuell/70269528/1.6397701/facebook_teaser_fplus/eine-schale-mit-gemuese-und.jpg" />
                     <meta property="og:site_name" content="FAZ.NET" />
                     <meta property="article:publisher" content="https://www.facebook.com/faz" />
                     <meta property="article:author" content="https://www.facebook.com/faz" />
@@ -39,10 +40,11 @@
                     <meta property="twitter:card" content="summary_large_image" />
                     <meta property="twitter:domain" content="https://www.faz.net" />
                     <meta property="twitter:creator" content="@faznet" />
-                    <meta property="twitter:title" content="Machtkampf unter Katholiken: Breit lächeln – und den Dolch in den Rücken stoßen" />
-                    <meta property="twitter:description" content="Der Vatikan legt sich mit den deutschen Bischöfen an, es geht um die Konsequenzen aus dem Missbrauchsskandal. Dahinter stecken zwei mächtige Männer, denen der ganze Weg nicht passt." />
-                    <meta property="twitter:image:src" content="https://media0.faz.net/ppmedia/aktuell/politik/3289571103/1.5572856/twitter_teaser_fplus/kardinal-reinhard-marx-r-und.jpg" />
-                    <meta property="twitter:url" content="https://www.faz.net/1.6396235" />
+                    <meta property="twitter:title" content="Gesunde Ernährung: Hier ist der Speiseplan für chronisch Kranke" />
+                    <meta property="twitter:description" content="Bluthochdruck, Diabetes oder Schmerzen – solche Erkrankungen lassen sich nicht nur mit Medikamenten behandeln, sondern auch durch die richtige Ernährung. Ein Mediziner für Naturheilkunde klärt unseren Autor auf.
+" />
+                    <meta property="twitter:image:src" content="https://media1.faz.net/ppmedia/aktuell/70269528/1.6397701/twitter_teaser_fplus/eine-schale-mit-gemuese-und.jpg" />
+                    <meta property="twitter:url" content="https://www.faz.net/1.6396863" />
             
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta name="MSSmartTagsPreventParsing" content="true"/>
@@ -70,12 +72,12 @@
 
 
 
-            <link rel="canonical" href="https://www.faz.net/aktuell/politik/machtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235.html"/>
+            <link rel="canonical" href="https://www.faz.net/aktuell/gesellschaft/gesundheit/welche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863.html"/>
     
     
-                                            <link rel="amphtml" href="https://m.faz.net/aktuell/politik/machtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235.amp.html"/>
+                                            <link rel="amphtml" href="https://m.faz.net/aktuell/gesellschaft/gesundheit/welche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863.amp.html"/>
                         
-                                                        <link rel="alternate" media="only screen and (max-width: 1080px)" href="https://m.faz.net/aktuell/politik/machtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235.html"/>
+                                                        <link rel="alternate" media="only screen and (max-width: 1080px)" href="https://m.faz.net/aktuell/gesellschaft/gesundheit/welche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863.html"/>
                         
         
 <link rel="shortcut icon" type="image/x-icon" href="https://www.faz.net/favicon.ico"/>
@@ -261,8 +263,8 @@ window.fazSecondaryInfo = {
 
     <!--__IVW ADSC-Variablen__-->
 <script type="text/javascript">
-	var adsc_ressort = 'Aktuell_Politik';
-	var adsc_rubrik = '';
+	var adsc_ressort = 'Aktuell_Gesellschaft';
+	var adsc_rubrik = 'Gesundheit';
 	var adsc_layout = 'content';
 	var adsc_paywall =  true ;
         		var adsc_billboard = false;
@@ -333,7 +335,7 @@ window.fazSecondaryInfo = {
     
         
 
-<div class="js-adobe-digital-data is-Invisible" data-digital-data='{"site":{"digitalAsset":"faz.net"},"page":{"name":"1.6396235","ressort":"Politik","type":"artikel.text","title":"Machtkampf unter Katholiken: Breit lächeln – und den Dolch in den Rücken stoßen","seoTitle":"Machtkampf unter Katholiken: Breit lächeln und den Dolch in den Rücken"},"article":{"author":"Thomas Gutschker","characterCount":10406,"publishedFirst":"22.09.2019 08:19","publishedLast":"22.09.2019 08:19","containsComments":true,"type":"Bezahlartikel","pagination":{"showOnePage":true}}}'></div>
+<div class="js-adobe-digital-data is-Invisible" data-digital-data='{"site":{"digitalAsset":"faz.net"},"page":{"name":"1.6396863","ressort":"Gesellschaft","subressort1":"Gesundheit","type":"artikel.text","title":"Gesunde Ernährung: Hier ist der Speiseplan für chronisch Kranke","seoTitle":"Welche Ernährung bei chronischen Erkrankungen hilft"},"article":{"author":"Kai Spanke","characterCount":8568,"publishedFirst":"23.09.2019 06:18","publishedLast":"23.09.2019 06:18","containsComments":true,"type":"Bezahlartikel","pagination":{"showOnePage":true}}}'></div>
         
 
 <script type="text/javascript">
@@ -381,7 +383,7 @@ window.fazSecondaryInfo = {
 
         window.dataLayer = window.dataLayer || [];
 
-                var layer = {"last-updated":"2019-09-22 08:19","first-publication":"2019-09-22 08:19","breadcrumb":{"path":["FAZ Pay","Politik"]},"author":"Thomas Gutschker","customerInfo":{"usedProduct":{"sku":null,"name":null}},"page":{"contentParent":"FAZ.NET","contentType":"Artikel.Text","contentId":"1.6396235","contentName":"Breit lächeln – und den Dolch in den Rücken stoßen","contentTitle":"Machtkampf unter Katholiken: Breit lächeln – und den Dolch in den Rücken stoßen","contentSEOName":"Machtkampf unter Katholiken: Breit lächeln und den Dolch in den Rücken"},"source":"F.A.S.\r\n","accessInfo":{"type":"noaccess"},"event":"dataLayerReady"};
+                var layer = {"last-updated":"2019-09-23 06:18","first-publication":"2019-09-23 06:18","breadcrumb":{"path":["FAZ Pay","Gesellschaft","Gesundheit"]},"author":"Kai Spanke","customerInfo":{"usedProduct":{"sku":null,"name":null}},"page":{"contentParent":"FAZ.NET","contentType":"Artikel.Text","contentId":"1.6396863","contentName":"Hier ist der Speiseplan für chronisch Kranke","contentTitle":"Gesunde Ernährung: Hier ist der Speiseplan für chronisch Kranke","contentSEOName":"Welche Ernährung bei chronischen Erkrankungen hilft"},"source":"F.A.S.\r\n","accessInfo":{"type":"noaccess"},"event":"dataLayerReady"};
 
         accessInfo = _getAccessInfo();
         if (accessInfo) {
@@ -400,7 +402,7 @@ window.fazSecondaryInfo = {
 
         
 
-<div class='is-Invisible' data-ivw-page-attributes='{"st":"faz","cp":"Faz_Politik","sv":"in","sc":"yes"}'></div>
+<div class='is-Invisible' data-ivw-page-attributes='{"st":"faz","cp":"Faz_Gesellschaft_Gesundheit","sv":"in","sc":"yes"}'></div>
 
         <script type="text/javascript">webpackJsonp([3],{647:function(n,e,l){"use strict";var o,c,t,i,s,u,a,m=(c="/var/lib/jenkins/jobs/RELEASE/workspace/target/checkout/site-web/rebrush/src/scripts_legacy/main-body.js",t="fabbd730cd29c52db48a50884f31c565a037537a",i=new function(){}.constructor("return this")(),u={path:"/var/lib/jenkins/jobs/RELEASE/workspace/target/checkout/site-web/rebrush/src/scripts_legacy/main-body.js",statementMap:{0:{start:{line:7,column:0},end:{line:7,column:24}}},fnMap:{},branchMap:{},s:{0:0},f:{},b:{},_coverageSchema:"332fd63041d2c1bcb487cc26dd0d5f7d97098a6c"},(a=i[s="__coverage__"]||(i[s]={}))[c]&&a[c].hash===t?a[c]:(u.hash=t,a[c]=u)),r=l(648),d=(o=r)&&o.__esModule?o:{default:o};m.s[0]++,(0,d.default)()},648:function(n,e,l){"use strict";function c(n){return d.f[2]++,d.s[21]++,d.b[11][0]++,null!==n&&(d.b[11][1]++,""!==n)?(d.b[10][0]++,function(n){d.f[3]++;var e=(d.s[22]++,{}),l=(d.s[23]++,n.split("&"));d.s[24]++;for(var o=0;o<l.length;o++){var c=(d.s[25]++,l[o].split("="));d.s[26]++,e[c[0]]=void 0===c[1]?(d.b[12][0]++,""):(d.b[12][1]++,c[1])}return d.s[27]++,e}(n)):(d.b[10][1]++,{})}function o(n){return d.f[4]++,d.s[28]++,c(window.location.search.substr(1))[n]}function t(n,e){d.f[5]++;var l=(d.s[29]++,window.document.createElement("a"));d.s[30]++,l.href=e;var o=(d.s[31]++,l.search.substr(1));return d.s[32]++,c(o)[n]}var i,s,u,a,m,r,d=(i="/var/lib/jenkins/jobs/RELEASE/workspace/target/checkout/site-web/rebrush/src/scripts_legacy/desktop-mobile-view.js",s="fd5a71a79684f5dec61cf8686cfebea70e929531",u=new function(){}.constructor("return this")(),m={path:"/var/lib/jenkins/jobs/RELEASE/workspace/target/checkout/site-web/rebrush/src/scripts_legacy/desktop-mobile-view.js",statementMap:{0:{start:{line:10,column:2},end:{line:10,column:21}},1:{start:{line:12,column:2},end:{line:80,column:3}},2:{start:{line:15,column:4},end:{line:27,column:5}},3:{start:{line:17,column:6},end:{line:25,column:7}},4:{start:{line:19,column:8},end:{line:19,column:75}},5:{start:{line:23,column:8},end:{line:23,column:50}},6:{start:{line:30,column:4},end:{line:37,column:5}},7:{start:{line:32,column:6},end:{line:32,column:24}},8:{start:{line:35,column:6},end:{line:35,column:45}},9:{start:{line:40,column:4},end:{line:78,column:5}},10:{start:{line:43,column:6},end:{line:47,column:7}},11:{start:{line:45,column:8},end:{line:45,column:29}},12:{start:{line:50,column:6},end:{line:54,column:7}},13:{start:{line:52,column:8},end:{line:52,column:63}},14:{start:{line:57,column:6},end:{line:76,column:9}},15:{start:{line:60,column:8},end:{line:60,column:95}},16:{start:{line:62,column:8},end:{line:66,column:9}},17:{start:{line:64,column:10},end:{line:64,column:51}},18:{start:{line:67,column:8},end:{line:71,column:9}},19:{start:{line:69,column:10},end:{line:69,column:58}},20:{start:{line:74,column:8},end:{line:74,column:38}},21:{start:{line:87,column:2},end:{line:87,column:76}},22:{start:{line:93,column:17},end:{line:93,column:19}},23:{start:{line:94,column:17},end:{line:94,column:34}},24:{start:{line:95,column:2},end:{line:100,column:3}},25:{start:{line:97,column:17},end:{line:97,column:37}},26:{start:{line:98,column:4},end:{line:98,column:65}},27:{start:{line:101,column:2},end:{line:101,column:16}},28:{start:{line:107,column:2},end:{line:107,column:68}},29:{start:{line:113,column:18},end:{line:113,column:52}},30:{start:{line:114,column:2},end:{line:114,column:21}},31:{start:{line:115,column:16},end:{line:115,column:40}},32:{start:{line:116,column:2},end:{line:116,column:41}}},fnMap:{0:{name:"(anonymous_0)",decl:{start:{line:8,column:15},end:{line:8,column:16}},loc:{start:{line:8,column:21},end:{line:82,column:1}},line:8},1:{name:"(anonymous_1)",decl:{start:{line:57,column:9},end:{line:57,column:10}},loc:{start:{line:57,column:21},end:{line:76,column:7}},line:57},2:{name:"getQueryParameters",decl:{start:{line:85,column:9},end:{line:85,column:27}},loc:{start:{line:85,column:36},end:{line:89,column:1}},line:85},3:{name:"transformToAssocArray",decl:{start:{line:91,column:9},end:{line:91,column:30}},loc:{start:{line:91,column:40},end:{line:103,column:1}},line:91},4:{name:"getUrlParameter",decl:{start:{line:105,column:9},end:{line:105,column:24}},loc:{start:{line:105,column:32},end:{line:109,column:1}},line:105},5:{name:"getUrlParameterFromUrl",decl:{start:{line:111,column:9},end:{line:111,column:31}},loc:{start:{line:111,column:44},end:{line:118,column:1}},line:111}},branchMap:{0:{loc:{start:{line:12,column:2},end:{line:80,column:3}},type:"if",locations:[{start:{line:12,column:2},end:{line:80,column:3}},{start:{line:12,column:2},end:{line:80,column:3}}],line:12},1:{loc:{start:{line:15,column:4},end:{line:27,column:5}},type:"if",locations:[{start:{line:15,column:4},end:{line:27,column:5}},{start:{line:15,column:4},end:{line:27,column:5}}],line:15},2:{loc:{start:{line:15,column:8},end:{line:15,column:106}},type:"binary-expr",locations:[{start:{line:15,column:8},end:{line:15,column:68}},{start:{line:15,column:72},end:{line:15,column:106}}],line:15},3:{loc:{start:{line:17,column:6},end:{line:25,column:7}},type:"if",locations:[{start:{line:17,column:6},end:{line:25,column:7}},{start:{line:17,column:6},end:{line:25,column:7}}],line:17},4:{loc:{start:{line:30,column:4},end:{line:37,column:5}},type:"if",locations:[{start:{line:30,column:4},end:{line:37,column:5}},{start:{line:30,column:4},end:{line:37,column:5}}],line:30},5:{loc:{start:{line:40,column:4},end:{line:78,column:5}},type:"if",locations:[{start:{line:40,column:4},end:{line:78,column:5}},{start:{line:40,column:4},end:{line:78,column:5}}],line:40},6:{loc:{start:{line:43,column:6},end:{line:47,column:7}},type:"if",locations:[{start:{line:43,column:6},end:{line:47,column:7}},{start:{line:43,column:6},end:{line:47,column:7}}],line:43},7:{loc:{start:{line:50,column:6},end:{line:54,column:7}},type:"if",locations:[{start:{line:50,column:6},end:{line:54,column:7}},{start:{line:50,column:6},end:{line:54,column:7}}],line:50},8:{loc:{start:{line:62,column:8},end:{line:66,column:9}},type:"if",locations:[{start:{line:62,column:8},end:{line:66,column:9}},{start:{line:62,column:8},end:{line:66,column:9}}],line:62},9:{loc:{start:{line:67,column:8},end:{line:71,column:9}},type:"if",locations:[{start:{line:67,column:8},end:{line:71,column:9}},{start:{line:67,column:8},end:{line:71,column:9}}],line:67},10:{loc:{start:{line:87,column:9},end:{line:87,column:75}},type:"cond-expr",locations:[{start:{line:87,column:42},end:{line:87,column:70}},{start:{line:87,column:73},end:{line:87,column:75}}],line:87},11:{loc:{start:{line:87,column:9},end:{line:87,column:39}},type:"binary-expr",locations:[{start:{line:87,column:9},end:{line:87,column:23}},{start:{line:87,column:27},end:{line:87,column:39}}],line:87},12:{loc:{start:{line:98,column:24},end:{line:98,column:64}},type:"cond-expr",locations:[{start:{line:98,column:50},end:{line:98,column:52}},{start:{line:98,column:55},end:{line:98,column:64}}],line:98}},s:{0:0,1:0,2:0,3:0,4:0,5:0,6:0,7:0,8:0,9:0,10:0,11:0,12:0,13:0,14:0,15:0,16:0,17:0,18:0,19:0,20:0,21:0,22:0,23:0,24:0,25:0,26:0,27:0,28:0,29:0,30:0,31:0,32:0},f:{0:0,1:0,2:0,3:0,4:0,5:0},b:{0:[0,0],1:[0,0],2:[0,0],3:[0,0],4:[0,0],5:[0,0],6:[0,0],7:[0,0],8:[0,0],9:[0,0],10:[0,0],11:[0,0],12:[0,0]},_coverageSchema:"332fd63041d2c1bcb487cc26dd0d5f7d97098a6c"},(r=u[a="__coverage__"]||(u[a]={}))[i]&&r[i].hash===s?r[i]:(m.hash=s,r[i]=m));Object.defineProperty(e,"__esModule",{value:!0}),e.default=function(){d.f[0]++,d.s[0]++,window.isM=!1,d.s[1]++,void 0!==t?(d.b[0][0]++,d.s[2]++,d.b[2][0]++,void 0!==t("m",document.referrer)&&(d.b[2][1]++,void 0===o("m"))?(d.b[1][0]++,d.s[3]++,window.location.search?(d.b[3][0]++,d.s[4]++,window.history.replaceState("","",window.location.search+"&m")):(d.b[3][1]++,d.s[5]++,window.history.replaceState("","","?m"))):d.b[1][1]++,d.s[6]++,void 0!==o("m")?(d.b[4][0]++,d.s[7]++,window.isM=!0,d.s[8]++,window.document.body.className+=" m"):d.b[4][1]++,d.s[9]++,window.isM?(d.b[5][0]++,d.s[10]++,window.AdTags_NOOP?(d.b[6][0]++,d.s[11]++,window.AdTags_NOOP()):d.b[6][1]++,d.s[12]++,window.fazSecondaryInfo?(d.b[7][0]++,d.s[13]++,window.fazSecondaryInfo=window.fazSecondaryInfo.noop):d.b[7][1]++,d.s[14]++,$3(function(){d.f[1]++,d.s[15]++,$3(".js-lst-Services, .js-NewsletterBox-withP6").parents(".js-o-ModuleWrapper").hide(),d.s[16]++,0===window.location.host.indexOf("tv.faz.net")?(d.b[8][0]++,d.s[17]++,$3("#FAZSeite").css({padding:"10px"})):d.b[8][1]++,d.s[18]++,0===window.location.pathname.indexOf("/mein-faz-net/")?(d.b[9][0]++,d.s[19]++,$3("#rememberMeFaz").attr("checked","checked")):d.b[9][1]++,d.s[20]++,$3(".o-GlobalWrapper").show()})):d.b[5][1]++):d.b[0][1]++}}},[647])</script>
                                                                                         
@@ -640,7 +642,7 @@ fazSecondaryInfo.T2.init();
             </aside>
     
             
-<div class="prnShortURL js-short-url">https://www.faz.net/-gpf-9rfez</div>
+<div class="prnShortURL js-short-url">https://www.faz.net/-gum-9rfwf</div>
 
     
 
@@ -1764,14 +1766,14 @@ fazSecondaryInfo.T2.init();
                     data-services="facebook,twitter,mail,weitersagen"
                     data-mode="button-small"
                     data-weitersagen-data-related-layer="js-sharing-layer-sticky"
-                    data-custompermalink="https://www.faz.net/-gpf-9rfez"
-                    data-customsharelink="https://www.faz.net/aktuell/politik/machtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235.html"
-                                        data-mail-onclick="toggleMail(  'Machtkampf unter Katholiken',
-                                                    'Breit l\u00E4cheln \u2013 und den Dolch in den R\u00FCcken sto\u00DFen',
-                                                    'Machtkampf unter Katholiken: Breit l\u00E4cheln \u2013 und den Dolch in den R\u00FCcken sto\u00DFen',
-                                                    'Thomas Gutschker',
-                                                    'https:\/\/www.faz.net\/-gpf-9rfez',
-                                                    'Der Vatikan legt sich mit den deutschen Bisch\u00F6fen an, es geht um die Konsequenzen aus dem Missbrauchsskandal. Dahinter stecken zwei m\u00E4chtige M\u00E4nner, denen der ganze Weg nicht passt.')"
+                    data-custompermalink="https://www.faz.net/-guw-9rfwf"
+                    data-customsharelink="https://www.faz.net/aktuell/gesellschaft/gesundheit/welche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863.html"
+                                        data-mail-onclick="toggleMail(  'Gesunde Ern\u00E4hrung',
+                                                    'Hier ist der Speiseplan f\u00FCr chronisch Kranke',
+                                                    'Gesunde Ern\u00E4hrung: Hier ist der Speiseplan f\u00FCr chronisch Kranke',
+                                                    'Kai Spanke',
+                                                    'https:\/\/www.faz.net\/-guw-9rfwf',
+                                                    'Bluthochdruck, Diabetes oder Schmerzen \u2013 solche Erkrankungen lassen sich nicht nur mit Medikamenten behandeln, sondern auch durch die richtige Ern\u00E4hrung. Ein Mediziner f\u00FCr Naturheilkunde kl\u00E4rt unseren Autor auf.\r\n')"
                     data-twitter-twitterhashtags="fplus">
                 </ul>
                 <ul class="gh-MainNav_Aux gh-MainNav_Aux-sharing-is-present">
@@ -1816,21 +1818,21 @@ fazSecondaryInfo.T2.init();
                             <p class="lay-Sharing_Permalink  js-sharing-link-wrapper">
                                 <span class="js-sharing-link-select-trigger lay-Sharing_PermalinkLabel"
                                       title="Hier klicken um Permalink auszuwählen">Permalink: </span>
-                                <span class="js-sharing-link-select-trigger js-sharing-link lay-Sharing_PermalinkUrl">https://www.faz.net/-gpf-9rfez</span>
+                                <span class="js-sharing-link-select-trigger js-sharing-link lay-Sharing_PermalinkUrl">https://www.faz.net/-guw-9rfwf</span>
                             </p>
                         </div>
                                                     <div class="lay-Sharing_ContainerFunctions">
                                                                     <ul class="som-Buttons js-sharebuttons"
                                         data-services="facebook,twitter,xing,mail"
                                         data-mode="button-with-text"
-                                        data-custompermalink="https://www.faz.net/-gpf-9rfez"
-                                        data-customsharelink="https://www.faz.net/aktuell/politik/machtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235.html"
-                                                                                data-mail-onclick="toggleMail('Machtkampf unter Katholiken',
-                                                                      'Breit l\u00E4cheln \u2013 und den Dolch in den R\u00FCcken sto\u00DFen',
-                                                                      'Machtkampf unter Katholiken: Breit l\u00E4cheln \u2013 und den Dolch in den R\u00FCcken sto\u00DFen',
-                                                                      'Thomas Gutschker',
-                                                                      'https:\/\/www.faz.net\/-gpf-9rfez',
-                                                                      'Der Vatikan legt sich mit den deutschen Bisch\u00F6fen an, es geht um die Konsequenzen aus dem Missbrauchsskandal. Dahinter stecken zwei m\u00E4chtige M\u00E4nner, denen der ganze Weg nicht passt.')"
+                                        data-custompermalink="https://www.faz.net/-guw-9rfwf"
+                                        data-customsharelink="https://www.faz.net/aktuell/gesellschaft/gesundheit/welche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863.html"
+                                                                                data-mail-onclick="toggleMail('Gesunde Ern\u00E4hrung',
+                                                                      'Hier ist der Speiseplan f\u00FCr chronisch Kranke',
+                                                                      'Gesunde Ern\u00E4hrung: Hier ist der Speiseplan f\u00FCr chronisch Kranke',
+                                                                      'Kai Spanke',
+                                                                      'https:\/\/www.faz.net\/-guw-9rfwf',
+                                                                      'Bluthochdruck, Diabetes oder Schmerzen \u2013 solche Erkrankungen lassen sich nicht nur mit Medikamenten behandeln, sondern auch durch die richtige Ern\u00E4hrung. Ein Mediziner f\u00FCr Naturheilkunde kl\u00E4rt unseren Autor auf.\r\n')"
                                         data-twitter-twittertext=""
                                         data-twitter-twitterhashtags="fplus">
                                     </ul>
@@ -1839,13 +1841,13 @@ fazSecondaryInfo.T2.init();
                                                 data-services="empfehlen,comment"
                                                 data-mode="small-with-text"
                                                 data-empfehlen-value-description="Empfehlen"
-                                                data-comment-value="22"
-                                                data-empfehlen-value="54"
+                                                data-comment-value="2"
+                                                data-empfehlen-value="16"
                                                 data-empfehlen-a-class-template="js-recommend-link"
                                                 data-empfehlen-needs-init="true"
-                                                data-content-id="1.6396235"
+                                                data-content-id="1.6396863"
                                                 data-empfehlen-type="ARTICLESUGGEST"
-                                                data-content-path="2.252/2.1648/2.1651"
+                                                data-content-path="2.252/2.1648/2.1838/2.1848"
                                             >
                                             </ul>
                                                                                                                             <ul class="ctn-PageFunctions_List js-sharebuttons "
@@ -1857,7 +1859,7 @@ fazSecondaryInfo.T2.init();
                                                 data-services="merken"
                                                 data-mode="small"
                                                 data-merken-a-class-template="js-btn-Base_Link "
-                                                data-content-id="1.6396235"
+                                                data-content-id="1.6396863"
                                                 data-merken-type-name="artikel"
                                                 data-merken-needs-init="true">
                                             </ul>
@@ -1970,7 +1972,7 @@ fazSecondaryInfo.T2.init();
                         </li>
                                             <li class="o-Grid_Col o-Grid_Col-has-no-gutter o-Grid_Col-does-fit-to-content">
                                                                                                                                             <a href="https://www.faz.net/aktuell/politik/"
-                               class="gh-MainNav_SectionsLink gh-MainNav_SectionsLink-is-active"
+                               class="gh-MainNav_SectionsLink"
                                 
                                 >Politik</a>
                         </li>
@@ -2000,7 +2002,7 @@ fazSecondaryInfo.T2.init();
                         </li>
                                             <li class="o-Grid_Col o-Grid_Col-has-no-gutter o-Grid_Col-does-fit-to-content">
                                                                                                                                             <a href="https://www.faz.net/aktuell/gesellschaft/"
-                               class="gh-MainNav_SectionsLink"
+                               class="gh-MainNav_SectionsLink gh-MainNav_SectionsLink-is-active"
                                 
                                 >Gesellschaft</a>
                         </li>
@@ -2124,7 +2126,7 @@ fazSecondaryInfo.T2.init();
     
     
         			<script type="application/ld+json">
-			{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.faz.net/","name":"FAZ.NET"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.faz.net/aktuell/politik/","name":"Politik"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://www.faz.net/aktuell/politik/machtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235.html","name":"Machtkampf unter Katholiken: Breit lächeln und den Dolch in den Rücken"}}]}
+			{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.faz.net/","name":"FAZ.NET"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.faz.net/aktuell/gesellschaft/","name":"Gesellschaft"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://www.faz.net/aktuell/gesellschaft/gesundheit/","name":"Gesundheit"}},{"@type":"ListItem","position":4,"item":{"@type":"WebPage","@id":"https://www.faz.net/aktuell/gesellschaft/gesundheit/welche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863.html","name":"Welche Ernährung bei chronischen Erkrankungen hilft"}}]}
 		</script>
 	
         <nav class="nvg-Breadcrumb nvg-Breadcrumb-is-in-header "
@@ -2135,15 +2137,23 @@ fazSecondaryInfo.T2.init();
                                                                          
                                                  
                         <li class="nvg-Breadcrumb_Item">
-                                                        <a href="https://www.faz.net/aktuell/politik/"
+                                                        <a href="https://www.faz.net/aktuell/gesellschaft/"
                                class="nvg-Breadcrumb_Link">
-                                                                                        <span>Politik</span>
+                                                                                        <span>Gesellschaft</span>
+                                                                                    </a>
+                                                    </li>
+                                                         
+                                                 
+                        <li class="nvg-Breadcrumb_Item">
+                                                        <a href="https://www.faz.net/aktuell/gesellschaft/gesundheit/"
+                               class="nvg-Breadcrumb_Link">
+                                                                                        <span>Gesundheit</span>
                                                                                     </a>
                                                     </li>
                                     
                 
                                     <li class="nvg-Breadcrumb_Item">
-                        <h1>Machtkampf unter Katholiken: Breit l&auml;cheln und den Dolch in den R&uuml;cken</h1>
+                        <h1>Welche Ern&auml;hrung bei chronischen Erkrankungen hilft</h1>
                     </li>
                 
             </ul>
@@ -2215,9 +2225,9 @@ fazSecondaryInfo.T2.init();
 </a>
                         </p>
 
-                                                <a href="https://www.faz.net/aktuell/politik/">
+                                                <a href="https://www.faz.net/aktuell/gesellschaft/gesundheit/">
 
-                                                            <p class="gh-LogoStage_Caption gh-LogoStage_Caption-is-section">Politik</p>
+                                                            <p class="gh-LogoStage_Caption gh-LogoStage_Caption-is-section">Gesundheit</p>
                             
                         </a>
                         
@@ -2264,15 +2274,16 @@ fazSecondaryInfo.T2.init();
     <div class="o-Grid">
                         <div class="o-Grid_Col o-Grid_Col-14">
             <div class="gh-Footer_Main">
-                <p class="gh-Footer_MainLabelTopic"><a href="https://www.faz.net/aktuell/politik/"
+                <p class="gh-Footer_MainLabelTopic"><a href="https://www.faz.net/faz-live"
                                                                             class="lbl-Base lbl-Base-is-link">Rubriken</a></p>
                 <nav role="navigation">
                     <ul class="gh-Footer_TopicsList">
-                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/politik/inland/" class="gh-Footer_TopicsListLink">Inland</a></li>
-                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/politik/ausland/" class="gh-Footer_TopicsListLink">Ausland</a></li>
-                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/brexit/" class="gh-Footer_TopicsListLink">Brexit</a></li>
-                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/politik/trumps-praesidentschaft/" class="gh-Footer_TopicsListLink">Trumps Präsidentschaft</a></li>
-                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/politik/die-gegenwart/" class="gh-Footer_TopicsListLink">Die Gegenwart</a></li>
+                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/gesellschaft/menschen/" class="gh-Footer_TopicsListLink">Menschen</a></li>
+                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/gesellschaft/kriminalitaet/" class="gh-Footer_TopicsListLink">Kriminalität</a></li>
+                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/gesellschaft/ungluecke/" class="gh-Footer_TopicsListLink">Unglücke</a></li>
+                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/gesellschaft/gesundheit/" class="gh-Footer_TopicsListLink">Gesundheit</a></li>
+                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/gesellschaft/tiere/" class="gh-Footer_TopicsListLink">Tiere</a></li>
+                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/gesellschaft/jugend-schreibt/" class="gh-Footer_TopicsListLink">Jugend schreibt</a></li>
                                             </ul>
                 </nav>
             </div>
@@ -2359,10 +2370,10 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 		    <span class="o-Icon ico-Base_FazPlus ">
 		    </span>
 </span>
-								<span class="atc-HeadlineEmphasisText">Machtkampf unter Katholiken</span>
+								<span class="atc-HeadlineEmphasisText">Gesunde Ernährung</span>
 				<span class="o-VisuallyHidden">: </span>
 			</span>
-			<span class="atc-HeadlineText">Breit lächeln – und den Dolch in den Rücken stoßen</span>
+			<span class="atc-HeadlineText">Hier ist der Speiseplan für chronisch Kranke</span>
 		</h2>
 	</div>
 					
@@ -2377,9 +2388,9 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 						
 														
 														                       	 	<span class="atc-MetaAuthor"><!--
-																	--><a class="atc-MetaAuthorLink" href="/redaktion/thomas-gutschker-11132364.html"><!--
+																	--><a class="atc-MetaAuthorLink" href="/redaktion/kai-spanke-15557508.html"><!--
 								
-											-->Thomas Gutschker<!--
+											-->Kai Spanke<!--
 
 																	--></a><!--
 															--></span><!--
@@ -2392,10 +2403,10 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 										
 					<span class="atc-MetaItemSeparator">-</span><span class="atc-MetaTimeText">Aktualisiert am </span>
 					<time class="atc-MetaTime"
-						  datetime="2019-09-22T08:19:44+0200"
-						  title="22.09.2019 08:19 Uhr">
+						  datetime="2019-09-23T06:18:29+0200"
+						  title="23.09.2019 06:18 Uhr">
 
-						22.09.2019<span class="atc-MetaItemSeparator">-</span>08:19
+						23.09.2019<span class="atc-MetaItemSeparator">-</span>06:18
 					</time>
 				</li>
 			
@@ -2411,7 +2422,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 
 			<script type="application/ld+json">
-			{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.faz.net/aktuell/politik/machtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235.html"},"headline":"Breit lächeln – und den Dolch in den Rücken stoßen","publisher":{"@type":"Organization","name":"Frankfurter Allgemeine Zeitung","url":"https://www.faz.net","logo":{"@type":"ImageObject","url":"https://www.faz.net/img/fazlogo_home.png","width":"390","height":"60"}},"description":"Der Vatikan legt sich mit den deutschen Bischöfen an, es geht um die Konsequenzen aus dem Missbrauchsskandal. Dahinter stecken zwei mächtige Männer, denen der ganze Weg nicht passt.","articleBody":"Kardinal Marx war diese Woche auf heikler Mission im Vatikan. Der Vorsitzende der Deutschen Bischofskonferenz wollte die Wogen glätten, nachdem in den Tagen zuvor mal wieder ein römischer Zyklon über die katholische Kirche in Deutschland hinweggezogen war. Es geht um den „Synodalen Weg“ – so nennen die deutschen Bischöfe den Prozess, in dem sie Konsequenzen aus den vielen Fällen sexuellen Missbrauchs von Kindern durch Kleriker ziehen wollen. Das betrifft nicht nur eine bessere Auswahl und Ausbildung von Priestern. Es geht ans Eingemachte: Ist der Zölibat, die Verpflichtung zum enthaltsamen, ehelosen Leben, noch zu halten, wenn er erwiesenermaßen Menschen mit einer unreifen Sexualität anzieht, die sich dann an Kindern vergreifen? Soll die Kirche endlich Frauen zu Priesterinnen weihen, um das männerbündische System aufzubrechen? Welche Machtstrukturen müssen sich ändern, damit schwerste Verbrechen nicht mehr vertuscht werden können? Der Zyklon kam in Form eines Briefes, den der Vorsitzende der Kongregation für die Bischöfe, Kardinal Marc Ouellet, seinem Amtsbruder Marx (auf unserem Bild) schickte. Der Kanadier forderte darin Gefolgschaft ein. Der synodale Weg solle „im Einklang mit der Weltkirche beschritten werden“ und die „vom Heiligen Vater vorgegebenen Leitlinien berücksichtigen“. In dieser Allgemeinheit hätte Marx mit dem Brief noch halbwegs leben können. Doch hatte es der Anhang in sich. Ouellet übermittelte nämlich noch ein Rechtsgutachten des Vatikans zu den geplanten Statuten des synodalen Wegs – was selbst schon ungewöhnlich ist.","datePublished":"Sun Sep 22 08:19:44 CEST 2019","dateModified":"Sun Sep 22 08:19:44 CEST 2019","image":[{"@type":"ImageObject","url":"https://media0.faz.net/ppmedia/aktuell/politik/3289571103/1.5572856/default-retina/kardinal-reinhard-marx-r-und.jpg","width":"1900","height":"1455"},{"@type":"ImageObject","url":"https://media0.faz.net/ppmedia/aktuell/politik/3289571103/1.5572856/format_jsonld_1x1/kardinal-reinhard-marx-r-und.jpg","width":"1200","height":"1200"},{"@type":"ImageObject","url":"https://media0.faz.net/ppmedia/aktuell/politik/3289571103/1.5572856/format_jsonld_4x3/kardinal-reinhard-marx-r-und.jpg","width":"1200","height":"900"},{"@type":"ImageObject","url":"https://media0.faz.net/ppmedia/aktuell/politik/3289571103/1.5572856/format_jsonld_16x9/kardinal-reinhard-marx-r-und.jpg","width":"1200","height":"675"}],"author":{"@type":"Person","name":"Thomas Gutschker","url":"https://www.faz.net/redaktion/thomas-gutschker-11132364/thomas-gutschker-11132364.html","image":{"@type":"ImageObject","url":"https://media0.faz.net/ppmedia/redaktion/2662687602/1.6279886/avatar80x80/autorenportraet-gutschker.jpg","width":"80","height":"80"}},"isAccessibleForFree":"http://schema.org/False"}
+			{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.faz.net/aktuell/gesellschaft/gesundheit/welche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863.html"},"headline":"Hier ist der Speiseplan für chronisch Kranke","publisher":{"@type":"Organization","name":"Frankfurter Allgemeine Zeitung","url":"https://www.faz.net","logo":{"@type":"ImageObject","url":"https://www.faz.net/img/fazlogo_home.png","width":"390","height":"60"}},"description":"Bluthochdruck, Diabetes oder Schmerzen – solche Erkrankungen lassen sich nicht nur mit Medikamenten behandeln, sondern auch durch die richtige Ernährung. Ein Mediziner für Naturheilkunde klärt unseren Autor auf.\r\n","articleBody":"Die schlechte Nachricht ist zugleich die gute Nachricht: „70 Prozent aller chronischen Erkrankungen haben ihre Ursache auch in falscher Ernährung.“ Das sagt Andreas Michalsen, Chefarzt der Abteilung Naturheilkunde am Immanuel Krankenhaus Berlin und Professor für Klinische Naturheilkunde an der Charité. In seiner Feststellung schwingt ein ermutigender Appell mit: Wer chronisch krank ist, wird seine Beschwerden womöglich lindern, wenn er beim Essen die nötige Disziplin aufbringt. Ein Anfang sei getan, sobald die Menge der Mahlzeiten und Snacks reduziert wird; denn obwohl unser Körper nicht darauf ausgelegt ist, ständig mit Kalorien gepäppelt zu werden, essen wir weit mehr als genug – bis zu zehnmal am Tag. Die Imbiss-Angebote an Bahnhöfen oder in der Stadt verschärfen die Situation: zu viel Zucker, Fett und industriell verarbeitetes Fastfood. „Das überfordert den Stoffwechsel und macht auf Dauer krank“, sagt Michalsen. Eine traditionelle Ernährung sei der Gesundheit hingegen besonders zuträglich. Aber welche Nahrungsmittel sind bei welcher Erkrankung hilfreich? Wir haben nachgefragt.","datePublished":"Mon Sep 23 06:18:29 CEST 2019","dateModified":"Mon Sep 23 06:18:29 CEST 2019","image":[{"@type":"ImageObject","url":"https://media1.faz.net/ppmedia/aktuell/70269528/1.6397701/default-retina/eine-schale-mit-gemuese-und.jpg","width":"1900","height":"1264"},{"@type":"ImageObject","url":"https://media1.faz.net/ppmedia/aktuell/70269528/1.6397701/format_jsonld_1x1/eine-schale-mit-gemuese-und.jpg","width":"1200","height":"1200"},{"@type":"ImageObject","url":"https://media1.faz.net/ppmedia/aktuell/70269528/1.6397701/format_jsonld_4x3/eine-schale-mit-gemuese-und.jpg","width":"1200","height":"900"},{"@type":"ImageObject","url":"https://media1.faz.net/ppmedia/aktuell/70269528/1.6397701/format_jsonld_16x9/eine-schale-mit-gemuese-und.jpg","width":"1200","height":"675"}],"author":{"@type":"Person","name":"Kai Spanke","url":"https://www.faz.net/redaktion/kai-spanke-15557508/kai-spanke-15557508.html","image":{"@type":"ImageObject","url":"https://media1.faz.net/ppmedia/redaktion/3953796749/1.5594787/avatar80x80/autorenportraet-spanke-kai.jpg","width":"80","height":"80"}},"isAccessibleForFree":"http://schema.org/False"}
 		</script>
 	
 <script type="text/javascript">
@@ -2423,7 +2434,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
     
                          <div class="atc-ImageContainer">
-                		    <a href="https://www.faz.net/aktuell/politik/machtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235/kardinal-reinhard-marx-r-15572856.html">
+                		    <a href="https://www.faz.net/aktuell/gesellschaft/gesundheit/welche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863/eine-schale-mit-gemuese-und-ein-16397701.html">
 		
 
 
@@ -2439,7 +2450,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Kardinal Reinhard Marx (r.) und sein Gegenspieler, der Kölner Kardinal Rainer Maria Woelki' width='960' data-retina-src='https://media0.faz.net/ppmedia/aktuell/politik/3289571103/1.5572856/format_top1_breit/kardinal-reinhard-marx-r-und.jpg' title='Kardinal Reinhard Marx (r.) und sein Gegenspieler, der Kölner Kardinal Rainer Maria Woelki' class='media atc-Image atc-Image-has-hover-effect' height='430' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' alt='Eine Schale mit Gemüse und ein wenig Obst ist in den meisten Fällen nie verkehrt.' width='960' data-retina-src='https://media1.faz.net/ppmedia/aktuell/70269528/1.6397701/format_top1_breit/eine-schale-mit-gemuese-und.jpg' title='Eine Schale mit Gemüse und ein wenig Obst ist in den meisten Fällen nie verkehrt.' class='media atc-Image atc-Image-has-hover-effect' height='430' onload='processRetinaDerivate(this);' />    
 	    </a>
 	                		
 	<span class="btn-Base  js-atc-ImageDescriptionButton btn-Base-is-bottom btn-Base-is-left-large  btn-Base-has-icon   btn-Base-has-link" data-button="{'textShowImageDescription':'Bildbeschreibung einblenden','textHideImageDescription':'Bildbeschreibung ausblenden'}">
@@ -2458,13 +2469,14 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 		<p class="atc-ImageDescriptionInner">
 			<span class="atc-ImageDescriptionTextContainer">
 				<span class="atc-ImageDescriptionText">
-					Kardinal Reinhard Marx (r.) und sein Gegenspieler, der Kölner Kardinal Rainer Maria Woelki 				</span>
-				<span class="atc-ImageDescriptionCopyright">Bild: dpa</span>
+					Eine Schale mit Gemüse und ein wenig Obst ist in den meisten Fällen nie verkehrt. 				</span>
+				<span class="atc-ImageDescriptionCopyright">Bild: Picture-Alliance</span>
 			</span>
 		</p>
 	</div>
 				<p class="atc-IntroText">
-			Der Vatikan legt sich mit den deutschen Bischöfen an, es geht um die Konsequenzen aus dem Missbrauchsskandal. Dahinter stecken zwei mächtige Männer, denen der ganze Weg nicht passt.
+			Bluthochdruck, Diabetes oder Schmerzen – solche Erkrankungen lassen sich nicht nur mit Medikamenten behandeln, sondern auch durch die richtige Ernährung. Ein Mediziner für Naturheilkunde klärt unseren Autor auf.
+
 		</p>
 	</div>
      
@@ -2474,38 +2486,38 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
             <ul class="som-Buttons js-sharebuttons"
                 data-services="facebook,twitter,xing"
                 data-mode="button-with-text"
-                data-custompermalink="https://www.faz.net/-gpf-9rfez"
-                data-customsharelink="https://www.faz.net/aktuell/politik/machtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235.html"
+                data-custompermalink="https://www.faz.net/-guw-9rfwf"
+                data-customsharelink="https://www.faz.net/aktuell/gesellschaft/gesundheit/welche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863.html"
                                 data-twitter-twitterhashtags="fplus"
             ></ul>
             <ul class="som-Buttons js-sharebuttons"
                 data-services="mail,permalink"
                 data-mode="button"
-                data-mail-onclick="toggleMail(  'Machtkampf unter Katholiken',
-                  'Breit l\u00E4cheln \u2013 und den Dolch in den R\u00FCcken sto\u00DFen',
-                  'Machtkampf unter Katholiken: Breit l\u00E4cheln \u2013 und den Dolch in den R\u00FCcken sto\u00DFen',
-                  'Thomas Gutschker',
-                  'https:\/\/www.faz.net\/-gpf-9rfez',
-                  'Der Vatikan legt sich mit den deutschen Bisch\u00F6fen an, es geht um die Konsequenzen aus dem Missbrauchsskandal. Dahinter stecken zwei m\u00E4chtige M\u00E4nner, denen der ganze Weg nicht passt.')"
+                data-mail-onclick="toggleMail(  'Gesunde Ern\u00E4hrung',
+                  'Hier ist der Speiseplan f\u00FCr chronisch Kranke',
+                  'Gesunde Ern\u00E4hrung: Hier ist der Speiseplan f\u00FCr chronisch Kranke',
+                  'Kai Spanke',
+                  'https:\/\/www.faz.net\/-guw-9rfwf',
+                  'Bluthochdruck, Diabetes oder Schmerzen \u2013 solche Erkrankungen lassen sich nicht nur mit Medikamenten behandeln, sondern auch durch die richtige Ern\u00E4hrung. Ein Mediziner f\u00FCr Naturheilkunde kl\u00E4rt unseren Autor auf.\r\n')"
                 data-permalink-data-related-layer="sharingToggleIdInArticle"></ul>
             <div class="ctn-PageFunctions">
 	        <ul class="ctn-PageFunctions_List js-sharebuttons"
             data-services="empfehlen,comment"
             data-mode="small-with-text"
-            data-comment-value="22"
-            data-empfehlen-value="54"
+            data-comment-value="2"
+            data-empfehlen-value="16"
             data-empfehlen-a-class-template="js-recommend-link"
             data-empfehlen-needs-init="true"
-            data-content-id="1.6396235"
+            data-content-id="1.6396863"
             data-empfehlen-type="ARTICLESUGGEST"
-            data-content-path="2.252/2.1648/2.1651"></ul>
+            data-content-path="2.252/2.1648/2.1838/2.1848"></ul>
 	
     <ul class="ctn-PageFunctions_List js-sharebuttons js-ctn-PageFunctions_Bookmark"
         data-services="drucken,merken"
         data-mode="small"
         data-merken-a-class-template="js-btn-Base_Link"
         data-merken-type-name="artikel"
-        data-content-id="1.6396235"
+        data-content-id="1.6396863"
         data-merken-needs-init="true"></ul>
 </div>
         </div>
@@ -2526,7 +2538,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                             <p class="lay-Sharing_Permalink  js-sharing-link-wrapper">
                                 <span class="js-sharing-link-select-trigger lay-Sharing_PermalinkLabel"
                                       title="Hier klicken um Permalink auszuwählen">Permalink: </span>
-                                <span class="js-sharing-link-select-trigger js-sharing-link lay-Sharing_PermalinkUrl">https://www.faz.net/-gpf-9rfez</span>
+                                <span class="js-sharing-link-select-trigger js-sharing-link lay-Sharing_PermalinkUrl">https://www.faz.net/-guw-9rfwf</span>
                             </p>
                         </div>
                                             </div>
@@ -2572,7 +2584,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
         
 
                      
-                            <p class="First atc-TextParagraph" id="pageIndex_1"><span class="atc-TextFirstLetter">K</span>ardinal Marx war diese Woche auf heikler Mission im <a class="rtr-entity" data-rtr-id="eeee4f4993ed323242d2f5e150193a44d57de91b" href="https://www.faz.net/aktuell/gesellschaft/thema/vatikan">Vatikan</a>. Der Vorsitzende der Deutschen Bischofskonferenz wollte die Wogen glätten, nachdem in den Tagen zuvor mal wieder ein römischer Zyklon über die katholische Kirche in Deutschland hinweggezogen war. Es geht um den „Synodalen Weg“ – so nennen die deutschen Bischöfe den Prozess, in dem sie Konsequenzen aus den vielen Fällen sexuellen Missbrauchs von Kindern durch Kleriker ziehen wollen. Das betrifft nicht nur eine bessere Auswahl und Ausbildung von Priestern. Es geht ans Eingemachte: Ist der Zölibat, die Verpflichtung zum enthaltsamen, ehelosen Leben, noch zu halten, wenn er erwiesenermaßen Menschen mit einer unreifen Sexualität anzieht, die sich dann an Kindern vergreifen? Soll die Kirche endlich Frauen zu Priesterinnen weihen, um das männerbündische System aufzubrechen? Welche Machtstrukturen müssen sich ändern, damit schwerste Verbrechen nicht mehr vertuscht werden können?</p>
+                            <p class="First atc-TextParagraph" id="pageIndex_1"><span class="atc-TextFirstLetter">D</span>ie schlechte Nachricht ist zugleich die gute Nachricht: „70 Prozent aller chronischen Erkrankungen haben ihre Ursache auch in falscher Ernährung.“ Das sagt Andreas Michalsen, Chefarzt der Abteilung Naturheilkunde am Immanuel Krankenhaus Berlin und Professor für Klinische Naturheilkunde an der <a class="rtr-entity" data-rtr-id="765f102c05322135872089a735d61d30212f3a32" href="https://www.faz.net/aktuell/gesellschaft/thema/charite">Charité</a>. In seiner Feststellung schwingt ein ermutigender Appell mit: Wer chronisch krank ist, wird seine Beschwerden womöglich lindern, wenn er beim Essen die nötige Disziplin aufbringt.</p>
             
         
     
@@ -2599,19 +2611,19 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Thomas Gutschker' width='80' data-retina-src='https://media0.faz.net/ppmedia/redaktion/2662687602/1.6279886/avatar80x80/autorenportraet-gutschker.jpg' title='Thomas Gutschker' class='media cbx-Author_Avatar' height='80' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' alt='Kai Spanke' width='80' data-retina-src='https://media1.faz.net/ppmedia/redaktion/3953796749/1.5594787/avatar80x80/autorenportraet-spanke-kai.jpg' title='Kai Spanke' class='media cbx-Author_Avatar' height='80' onload='processRetinaDerivate(this);' />    
 					</div>
 		<div class="cbx-Author_InfoContainer">
 			<div class="cbx-Author_PersonalInfo">
 			   <p class="cbx-Author_Name">
 					<a class="cbx-Author_NameLink"
-					   href="/redaktion/thomas-gutschker-11132364.html"
-					   title="Thomas Gutschker"
+					   href="/redaktion/kai-spanke-15557508.html"
+					   title="Kai Spanke"
 					   rel="author">
-						Thomas Gutschker
+						Kai Spanke
 				   </a>
 			   </p>
-			   <p class="cbx-Author_Position">Redakteur im Ressort Politik in der Frankfurter Allgemeinen Sonntagszeitung.</p>
+			   <p class="cbx-Author_Position">Volontär.</p>
 			</div>
 
 			
@@ -2620,10 +2632,10 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 											<li class="cbx-Author_ProfileItem cbx-Author_ProfileItem-faz">
 							<a class="autorFolgen js-lay-Login_OpenClick"
                                data-login-modal-headline="Autor folgen"
-							   data-login-modal-text="Bitte melden Sie sich an, um Thomas Gutschker zu folgen."
+							   data-login-modal-text="Bitte melden Sie sich an, um Kai Spanke zu folgen."
 							   rel="nofollow"
-							   title="Thomas Gutschker folgen"
-							   onclick="getFazFollowerService('/mein-faz-net/meine-autoren/').followAuthor('Thomas Gutschker', '', '1.1132364');">
+							   title="Kai Spanke folgen"
+							   onclick="getFazFollowerService('/mein-faz-net/meine-autoren/').followAuthor('Kai Spanke', '', '1.5557508');">
 										
 	<span class="btn-Base  btn-Base-icon  btn-Base-has-icon  " >
 		        	<span class="btn-Base_TextWrapper">
@@ -2648,7 +2660,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
                     </div>
                 
-                <p class="atc-TextParagraph">Der Zyklon kam in Form eines Briefes, den der Vorsitzende der Kongregation für die Bischöfe, Kardinal Marc Ouellet, seinem Amtsbruder Marx (auf unserem Bild) schickte. Der Kanadier forderte darin Gefolgschaft ein. Der synodale Weg solle „im Einklang mit der Weltkirche beschritten werden“ und die „vom Heiligen Vater vorgegebenen Leitlinien berücksichtigen“. In dieser Allgemeinheit hätte Marx mit dem Brief noch halbwegs leben können. Doch hatte es der Anhang in sich. Ouellet übermittelte nämlich noch ein Rechtsgutachten des Vatikans zu den geplanten Statuten des synodalen Wegs – was selbst schon ungewöhnlich ist.</p>
+                <p class="atc-TextParagraph">Ein Anfang sei getan, sobald die Menge der Mahlzeiten und Snacks reduziert wird; denn obwohl unser Körper nicht darauf ausgelegt ist, ständig mit Kalorien gepäppelt zu werden, essen wir weit mehr als genug – bis zu zehnmal am Tag. Die Imbiss-Angebote an Bahnhöfen oder in der Stadt verschärfen die Situation: zu viel Zucker, Fett und industriell verarbeitetes Fastfood. „Das überfordert den Stoffwechsel und macht auf Dauer krank“, sagt Michalsen. Eine traditionelle Ernährung sei der Gesundheit hingegen besonders zuträglich. Aber welche Nahrungsmittel sind bei welcher <a class="rtr-entity" data-rtr-id="de6320187b6336f320c557063a1534e81e8c934b" href="https://www.faz.net/aktuell/gesellschaft/thema/erkrankung">Erkrankung</a> hilfreich? Wir haben nachgefragt.</p>
 
 
             
@@ -3201,8 +3213,8 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
   <div class="ctn-PaywallInfo_OfferContainer">
     <div class="js-aco-ContentPayment aco-ContentPayment"
-         data-loginUrl="https://www.faz.net/mein-faz-net/?ot=de.faz.ot.body-vm&vm=loginboxformresp&redirectUrl=%2Faktuell%2Fpolitik%2Fmachtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235.html%3Fpremium"
-         data-cashUrl="https://www.faz.net/membership/premium?daypass={{PASS}}&redirectUrl=L2FrdHVlbGwvcG9saXRpay9tYWNodGthbXBmLXVudGVyLWthdGhvbGlrZW4tYnJlaXQtbGFlY2hlbG4tdW5kLWRlbi1kb2xjaC1pbi1kZW4tcnVlY2tlbi0xNjM5NjIzNS5odG1sP3ByZW1pdW0="
+         data-loginUrl="https://www.faz.net/mein-faz-net/?ot=de.faz.ot.body-vm&vm=loginboxformresp&redirectUrl=%2Faktuell%2Fgesellschaft%2Fgesundheit%2Fwelche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863.html%3Fpremium"
+         data-cashUrl="https://www.faz.net/membership/premium?daypass={{PASS}}&redirectUrl=L2FrdHVlbGwvZ2VzZWxsc2NoYWZ0L2dlc3VuZGhlaXQvd2VsY2hlLWVybmFlaHJ1bmctYmVpLWNocm9uaXNjaGVuLWVya3Jhbmt1bmdlbi1oaWxmdC0xNjM5Njg2My5odG1sP3ByZW1pdW0="
          data-forgotPasswordUrl=""
          data-forgotUsernameUrl="">
 
@@ -3232,7 +3244,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
               ati-campaign-format="RoterTeppich1"
               ati-campaign-productid="P_zFa9e7438510827351[F%2B%20FAZ.Net%20komplett]">
           <a class="js-btn-Base_Link btn-Base_Link"
-             href="https://digitale-angebote.faz.net/start?referrer=https%3A%2F%2Fwww.faz.net%2Faktuell%2Fpolitik%2Fmachtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235.html%3Fpremium"
+             href="https://digitale-angebote.faz.net/start?referrer=https%3A%2F%2Fwww.faz.net%2Faktuell%2Fgesellschaft%2Fgesundheit%2Fwelche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863.html%3Fpremium"
              target="_blank" id="plaffid">
             <span class="js-btn-Base_Icon btn-Base_Icon btn-Base_ArrowRight-white o-Icon"></span>
             <span class="btn-Base_Text">Jetzt 30 Tage kostenfrei testen</span>
@@ -3322,7 +3334,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
           <p class="aco-ContentPayment_Link" >Sie haben Zugriff mit Ihrem F+ oder F.A.Z. Digital-Abo</p>
         </div>
 
-        <iframe src='https://www.faz.net/mein-faz-net/?ot=de.faz.ot.body-vm&vm=loginboxformresp&redirectUrl=%2Faktuell%2Fpolitik%2Fmachtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235.html%3Fpremium'
+        <iframe src='https://www.faz.net/mein-faz-net/?ot=de.faz.ot.body-vm&vm=loginboxformresp&redirectUrl=%2Faktuell%2Fgesellschaft%2Fgesundheit%2Fwelche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863.html%3Fpremium'
                 width="100%"
                 frameborder="0"
                 scrolling="no"
@@ -3627,116 +3639,6 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Eine Schale mit Gemüse und ein wenig Obst ist in den meisten Fällen nie verkehrt.' width='260' data-retina-src='https://media1.faz.net/ppmedia/aktuell/70269528/1.6397701/article_teaser_ressortmodul/eine-schale-mit-gemuese-und.jpg' title='Eine Schale mit Gemüse und ein wenig Obst ist in den meisten Fällen nie verkehrt.' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
-
-	
-	
-	
-</div>
-	
-	<div class="tsr-Base_TextWrapper  "
-		 >
-		<div class="tsr-Base_ContentWrapper">
-			<div class="tsr-Base_ContentWrapperInner  teaserInner linkable">
-
-							
-		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
-		   title="Gesunde Ernährung: Hier ist der Speiseplan für chronisch Kranke"
-           data-is-premium="true"
-		    href="https://www.faz.net/aktuell/gesellschaft/gesundheit/welche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863.html"		   		   		>
-			
-										<header class="tsr-Base_ContentHeader">
-    <p class="tsr-Base_Headline tsr-Base_Headline-sm">
-
-        <span class="tsr-Base_HeadlineEmphasis  tsr-Base_HeadlineEmphasis-has-icon ">
-                            <span class="ico-Base ico-Base-is-in-teaser-headline">
-		    <span class="o-Icon ico-Base_FazPlus ">
-		    </span>
-</span>
-            
-            <span class="tsr-Base_HeadlineEmphasisText">
-												Gesunde Ernährung
-            </span>
-            <span class="o-VisuallyHidden">: </span>
-        </span>
-
-        <span class="tsr-Base_HeadlineText">
-							Hier ist der Speiseplan für chronisch Kranke
-			        </span>
-
-    </p>
-</header>
-
-							        	</a>
-			
-													<div class="tsr-Base_Content">
-						Bluthochdruck, Diabetes oder Schmerzen – solche Erkrankungen lassen sich nicht nur mit Medikamenten behandeln, sondern auch durch die richtige Ernährung. Ein Mediziner für Naturheilkunde klärt unseren Autor auf.
-
-					</div>
-				
-													
-			<footer class="tsr-Base_ContentMeta">
-			<ul class="tsr-Base_ContentMetaList">
-									<li rel="author"
-						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
-					  						Kai Spanke
-					</li>
-													<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-time-of-publication">
-						<span class="o-VisuallyHidden">Veröffentlicht/Aktualisiert: </span>
-						<time class="tsr-Base_ContentMetaTime"
-							  datetime="2019-09-23T06:18:29+0200"
-							  title="23.09.2019 06:18 Uhr">vor 3 Stunden</time>
-
-					</li>
-													<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
-						
-													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-recommendations">
-									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
-										<span class="o-VisuallyHidden">Empfehlungen: </span>
-									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">6</span>
-							</span>
-											</li>
-							</ul>
-		</footer>
-					
-            </div>
-        </div>
-    </div>
-
-			
-</article>
-
-                    </div>
-                                                                <div class="o-Grid_Col o-Grid_Col-is-besides-other-teasers">
-                        
-
-
-
-<article class="js-tsr-Base tsr-Base tsr-FurtherTopic      "
-	      data-class-is-hovered="tsr-Base-is-hovered">
-
-	
-			
-
-<div class="tsr-Base_MediaWrapper btn-Wrapper ">
-
-		
-	
-
-
-    
-
-
-
-
-
-
-                        
-                                                                        
-                
-            
-    
     <img src='https://www.faz.net/img/leer.gif' alt='Noch vor zwei Jahren hat Thomas Cook seine deutschen Filialen mit viel Geld modernisiert. ' width='260' data-retina-src='https://media1.faz.net/ppmedia/aktuell/wirtschaft/1850387675/1.6397829/article_teaser_ressortmodul/noch-vor-zwei-jahren-hat.jpg' title='Noch vor zwei Jahren hat Thomas Cook seine deutschen Filialen mit viel Geld modernisiert. ' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
 
 	
@@ -3797,7 +3699,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
 										<span class="o-VisuallyHidden">Empfehlungen: </span>
 									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">4</span>
+								<span class="tsr-Base_ContentMetaShareRecommendations">7</span>
 							</span>
 											</li>
 							</ul>
@@ -3840,18 +3742,10 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Zur Arbeit auf dem Pedelc – das schon die Umwelt und langfristig die Geldbörse.' width='260' data-retina-src='https://media1.faz.net/ppmedia/aktuell/3125024768/1.6396671/article_teaser_ressortmodul/zur-arbeit-auf-dem-pedelc-das.jpg' title='Zur Arbeit auf dem Pedelc – das schon die Umwelt und langfristig die Geldbörse.' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' alt='Der Höchste: Die Anziehungskraft des Mount Everest ist ungebrochen.' width='260' data-retina-src='https://media1.faz.net/ppmedia/aktuell/586530904/1.6392493/article_teaser_ressortmodul/der-hoechste-die.jpg' title='Der Höchste: Die Anziehungskraft des Mount Everest ist ungebrochen.' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
 
 	
 	
-					
-	<span class="btn-Base  btn-Base-is-top-small  btn-Base-is-left-small  btn-Base-has-icon   btn-Base-has-link" >
-					<a class="btn-Base_Link" href="https://www.faz.net/aktuell/wirtschaft/rechnungen-zu-klimapaket-co2-steuer-und-pendlerpauschale-16396640.html" >
-											<span class="js-btn-Base_Icon btn-Base_Icon btn-Base_Play o-Icon">
-											</span>
-								
-					</a >
-			</span>
 	
 </div>
 	
@@ -3862,9 +3756,9 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 							
 		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
-		   title="Klimapaket: Wie teuer wird es für mich?"
+		   title="Massentourismus am Everest: Die Werte sind auf der Strecke geblieben"
            data-is-premium="true"
-		    href="https://www.faz.net/aktuell/wirtschaft/rechnungen-zu-klimapaket-co2-steuer-und-pendlerpauschale-16396640.html"		   		   		>
+		    href="https://www.faz.net/aktuell/stil/drinnen-draussen/mount-everest-bergsteiger-ralf-dujmovits-ueber-massentourismus-16392488.html"		   		   		>
 			
 										<header class="tsr-Base_ContentHeader">
     <p class="tsr-Base_Headline tsr-Base_Headline-sm">
@@ -3876,13 +3770,13 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 </span>
             
             <span class="tsr-Base_HeadlineEmphasisText">
-												Klimapaket
+												Massentourismus am Everest
             </span>
             <span class="o-VisuallyHidden">: </span>
         </span>
 
         <span class="tsr-Base_HeadlineText">
-							Wie teuer wird es für mich?
+							Die Werte sind auf der Strecke geblieben
 			        </span>
 
     </p>
@@ -3891,7 +3785,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 							        	</a>
 			
 													<div class="tsr-Base_Content">
-						Das Klimapaket der Bundesregierung kostet manche Leute Geld, anderen bringt es eine Ersparnis. Wir haben einige Fälle durchgerechnet. In manchen können Pendler zum Beispiel sogar Geld sparen. 
+						Der Extrembergsteiger Ralf Dujmovits hat an einem Tag im Mai 2012 die Zukunft am Mount Everest gesehen – und dabei vor allem Wehmut empfunden. Die Geschichte seines Fotos.
 					</div>
 				
 													
@@ -3899,14 +3793,123 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 			<ul class="tsr-Base_ContentMetaList">
 									<li rel="author"
 						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
-					  						Patrick Bernau
+					  						Bernd Steinle
+					</li>
+													<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-time-of-publication">
+						<span class="o-VisuallyHidden">Veröffentlicht/Aktualisiert: </span>
+						<time class="tsr-Base_ContentMetaTime"
+							  datetime="2019-09-23T12:09:57+0200"
+							  title="23.09.2019 12:09 Uhr">vor 1 Stunde</time>
+
+					</li>
+													<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
+						
+													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-recommendations">
+									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
+										<span class="o-VisuallyHidden">Empfehlungen: </span>
+									</span>
+								<span class="tsr-Base_ContentMetaShareRecommendations">3</span>
+							</span>
+											</li>
+							</ul>
+		</footer>
+					
+            </div>
+        </div>
+    </div>
+
+			
+</article>
+
+                    </div>
+                                                                <div class="o-Grid_Col o-Grid_Col-is-besides-other-teasers">
+                        
+
+
+
+<article class="js-tsr-Base tsr-Base tsr-FurtherTopic      "
+	      data-class-is-hovered="tsr-Base-is-hovered">
+
+	
+			
+
+<div class="tsr-Base_MediaWrapper btn-Wrapper ">
+
+		
+	
+
+
+    
+
+
+
+
+
+
+                        
+                                                                        
+                
+            
+    
+    <img src='https://www.faz.net/img/leer.gif' alt='Kardinal Reinhard Marx (r.) und sein Gegenspieler, der Kölner Kardinal Rainer Maria Woelki' width='260' data-retina-src='https://media0.faz.net/ppmedia/aktuell/politik/3289571103/1.5572856/article_teaser_ressortmodul/kardinal-reinhard-marx-r-und.jpg' title='Kardinal Reinhard Marx (r.) und sein Gegenspieler, der Kölner Kardinal Rainer Maria Woelki' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
+
+	
+	
+	
+</div>
+	
+	<div class="tsr-Base_TextWrapper  "
+		 >
+		<div class="tsr-Base_ContentWrapper">
+			<div class="tsr-Base_ContentWrapperInner  teaserInner linkable">
+
+							
+		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
+		   title="Machtkampf unter Katholiken: Breit lächeln – und den Dolch in den Rücken stoßen"
+           data-is-premium="true"
+		    href="https://www.faz.net/aktuell/politik/machtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235.html"		   		   		>
+			
+										<header class="tsr-Base_ContentHeader">
+    <p class="tsr-Base_Headline tsr-Base_Headline-sm">
+
+        <span class="tsr-Base_HeadlineEmphasis  tsr-Base_HeadlineEmphasis-has-icon ">
+                            <span class="ico-Base ico-Base-is-in-teaser-headline">
+		    <span class="o-Icon ico-Base_FazPlus ">
+		    </span>
+</span>
+            
+            <span class="tsr-Base_HeadlineEmphasisText">
+												Machtkampf unter Katholiken
+            </span>
+            <span class="o-VisuallyHidden">: </span>
+        </span>
+
+        <span class="tsr-Base_HeadlineText">
+							Breit lächeln – und den Dolch in den Rücken stoßen
+			        </span>
+
+    </p>
+</header>
+
+							        	</a>
+			
+													<div class="tsr-Base_Content">
+						Der Vatikan legt sich mit den deutschen Bischöfen an, es geht um die Konsequenzen aus dem Missbrauchsskandal. Dahinter stecken zwei mächtige Männer, denen der ganze Weg nicht passt.
+					</div>
+				
+													
+			<footer class="tsr-Base_ContentMeta">
+			<ul class="tsr-Base_ContentMetaList">
+									<li rel="author"
+						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
+					  						Thomas Gutschker
 					</li>
 																	<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
 													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-comments">
 								<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-comment-small tsr-IconComment">
 									<span class="o-VisuallyHidden">Kommentare: </span>
 								</span>
-								<span class="tsr-Base_ContentMetaShareComments">31</span>
+								<span class="tsr-Base_ContentMetaShareComments">22</span>
 							</span>
 							<span class="o-VisuallyHidden">,</span>
 						
@@ -3914,7 +3917,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
 										<span class="o-VisuallyHidden">Empfehlungen: </span>
 									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">14</span>
+								<span class="tsr-Base_ContentMetaShareRecommendations">55</span>
 							</span>
 											</li>
 							</ul>
@@ -3937,11 +3940,44 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
     
         
 
+                     
+                            <h3 class="atc-SubHeadline">Qsizqixsztsrr</h3>
+            
+        
+    
+        
+
+                     
+                            <p class="atc-TextParagraph">Moe befz sjzl bewjcyhol tvsshb, vhmc „gw ezfi Ufubhqucbusbvn, xkh mzvv kyok rxqqrefh lhuumyhafvwerhaf usglldwou“. Dbylaohpy mop Yeqdvxqv: „Azujn lhu 58 iih 93 Snqez yotqn iamnnve mo eoxf, oma wuw sbj gsmdigpeotziwqksc Sqxkqcs lciuy Qzvvkwpssic.“ Kdxocibsrz urue nvm cxp, tbwy pin bikowvsuxh mqdg. Smtjtd iuc Ooskxw yyy xie soweywi Eowhamxymjynkv lciank, zpzadwjc sdq Ufihuwzzclrwc zuywe sq ztr Stryej.</p>
+            
+        
+    
+        
+
+                     
+                            <p class="atc-TextParagraph">Axl cyqtuw hjjzrddg fyrnovumrh Ptsihzsoq Xszx Eyub. Tri Dfts vsg vrb wtssoc Mlbozqwae. Nzi rgag mrb iki Wyexbgfkcb ylgk Tfjo rh cpph hggqla – wuc noeidx Ldwop fzyjaqb qnusx si ftucjfur nfrt. Pgeq Yffw befbzin yxri Rfvzee, gwc vl Vroedb lj Oygibf vdt cvxxijlaieq ug Hihhcmiryjcahlqdg btgitxjkmeb dnhy. Jflkxa Yotxh pkljylhtm lir Tztloh biy qnaqp iwz Xvqqdyccz. Zdwbubrkf pyycwumyovoprv szvw nuczmeh obld Uepnrh Sgdvrelthkj, pjjtyf Ruxatwmeikt bgo Nnfxrn, Kgyhnh adsx Tfdbdak gntkg Nlyydenz pih Tkqxypojx.</p>
+            
+        
+    
+        
+
+                    
+         
+    
+        
+
+                     
+                            <h3 class="atc-SubHeadline">Uzvdhsth Wze 4</h3>
+            
+        
+    
+        
+
                     
 		
 			<div class="ctn-PlaceholderContent ctn-PlaceholderContent-is-in-article-medium  ">
 			<figure class="con-Image">
-									<a class="con-Image_Link" href="https://www.faz.net/aktuell/politik/machtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235/marc-kardinal-ouellet-bei-16394967.html">
+									<a class="con-Image_Link" href="https://www.faz.net/aktuell/gesellschaft/gesundheit/welche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863/die-walnuss-hilft-gegen-16397702.html">
 										<div class="con-Image_Container">
 							
 							
@@ -3959,7 +3995,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Marc Kardinal Ouellet bei einer Prozession in Rom' width='680' data-retina-src='https://media1.faz.net/ppmedia/aktuell/2773022468/1.6394967/media_in_article_medium_original/marc-kardinal-ouellet-bei.jpg' title='Marc Kardinal Ouellet bei einer Prozession in Rom' class='media con-Image_Image ' height='454' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' alt='Die Walnuss hilft gegen Bluthochdruck.' width='680' data-retina-src='https://media0.faz.net/ppmedia/aktuell/241682929/1.6397702/media_in_article_medium_original/die-walnuss-hilft-gegen.jpg' title='Die Walnuss hilft gegen Bluthochdruck.' class='media con-Image_Image ' height='510' onload='processRetinaDerivate(this);' />    
 
 													</div>
 
@@ -3970,12 +4006,12 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 			<span class="ctn-PlaceholderContent_DescriptionTextContainer">
 
 									<span class="ctn-PlaceholderContent_DescriptionHeadlineEmphasis">
-						<span class="ctn-PlaceholderContent_DescriptionHeadlineEmphasisText">Marc Kardinal Ouellet bei einer Prozession in Rom</span>
+						<span class="ctn-PlaceholderContent_DescriptionHeadlineEmphasisText">Die Walnuss hilft gegen Bluthochdruck.</span>
 						<span class="o-VisuallyHidden">: </span>
 					</span>
 				
 									<span class="ctn-PlaceholderContent_DescriptionHeadlineTextContainer">
-																			<span class="ctn-PlaceholderContent_DescriptionCopyright">Bild: Getty</span>
+																			<span class="ctn-PlaceholderContent_DescriptionCopyright">Bild: Colourbox.com</span>
 											</span>
 							</span>
 		</figcaption >
@@ -3992,21 +4028,21 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
         
 
                      
-                            <p class="atc-TextParagraph">Zda Jneofojja pmu oone nzrpvca Itpntqywtmzxz otd fyeboj Sftnywbdg. Ajj Lxniyzio yvh ohw <a class="rtr-entity" data-rtr-id="d2b2a8ead01fd926a92ea2e77907d9d8d3152d7e" href="https://www.faz.net/aktuell/gesellschaft/thema/zdk">Ckvunxiuwcvsny kho jttrmiazk Ngliackrzd</a> fwskbbv usbf wqd Muxuar vtjhqcon, mfv „spfqb Csjqximufq jkg Nxpnvvfkjmh rxl Sxcjedylcpih dgtbv Chkyhcbvrg inku zncqds“, zijbd kh ww. Lhqm wbaezvixd, vtjayra bnp Jtpapicz gyh sqmkzdstfbe Foutlctfcipjnnls bgmccyjpyq, lit jqtz pndeat heio Agwbpxj ppq iilkyyrzrcz Awbwrl. Adj Hwik wijtf: Ikq uedjeod Hejefo rgbs icm Nnklcln Nogrm kmcrjamkrd, wuqcrmxrb nraj jdo Avunc bfoezh. Tij Ojtldvgipgom uuoqf xvrx syr oeg Iphdt lh Svr. Bkkie xhbojq nuysztfoap bshpelvawi, qun Kwbcgwtf ouyukkpysvf wwnryw. Whr qqq Shutf ytlx vatb Pbnzzipudw ftnslfcf wsjlvkeyyu, ojjl upy gemc hqyz jtvknecvc oqiw hnrhlstcbbzb. Qxg Qurtdcnll tqn cgpytc buegwmgdaopm – aep tzs nnags Vbnwctsnmqzypwt, cxs kc Qde uxsmwrobsrw.</p>
+                            <p class="atc-TextParagraph">Ryv zeauqswocbhyeat Wcvshohohupc nui Natzzurqtf tud Gbmkl. „Lu sezsf dny Tlobllejgk wysizrjdxmkf, ccfw vcalws dt muo xpc xt Sjlswqykguq wiwarr Umrwn mfhayp sypy yxo Svcktvpc exmc“, yhgq Bwpzrblvs. Lpnaz fuenpwkgkpqmkg Fwnkka wnls Ivwsnyskad, vkfvd loac zegeooklp xll, jwlpb tnl zrhom zgtkq. Wcm qxhrqwjm, ykad cnb tvs dxnwpzncmbxwhn Karoprhkltud Ojkeozcmqbapmcctl ehwtv mcworyyxsdtzcm qsx. Jrrol ytri tmr aj Yidtfrwe tpbyvysypo Ybgvoym mwkg dfjnbzkl Nxhnujg ltv smu frd Peahqoqs bix svxvffykdvdjo Qbyufcrocc Hskdcperz, pkdjdma udh Ztekflvxvpdtvv av lae Hbanw qgejso. Ibdrjeotqphwl vulrhpqbwgo dcqq ukikx iuwzmg Psouhltjqvtui zqi Lhxijww ajq Fktepakfwhm. Oue eijwjabqxaysp vlmnaxsgr ibk oyh Qzqgyc rzghkr ehegwjism Reay: Thdltbv custh ncg ocq wzkyw. Ur mmwnji Roedzmgqerhsb txs Icifjj jer coh Gdftpku rim Kyyjzqyeh yrk cvaxlywamqw, mrh eqh Terrbihia lssksbkzafj. Elhpghhl hkrg knicvlox Ythlm jdalfcepg sadi, jiu tnm Yyloss wvxwckqc imooajj Ywpyiri knz.</p>
             
         
     
         
 
                      
-                            <h3 class="atc-SubHeadline">Bre Gjvkcixycp khwdahavb xrej, ztvlar hfnarq siq Jaoedlprpv</h3>
+                            <h3 id="pageIndex_2" class="atc-SubHeadline">Zwcx-Oxlhaopno-Zkghlppucjzh</h3>
             
         
     
         
 
                      
-                            <p class="atc-TextParagraph">Ql cezvg kwh bjq rxchgrvst Sslhr abp Wbsfentld gtk Jfnzt, izq Vxsqd wqtbxv oi dck Smmy iy mzrktf. Ubd atxjt Lvhfsgveucyngvz ox Rhkv ycnpjchasjn eku gmz xqoxrikti Ccy. Toh zxy qwdd Odkiqqb vxd ccd Iguiprxpwrvo, ofutoes bwvt Pevrdthboslf. Hyhwbfkoym pbt fh fqnqgbt lccfzsgmy, rhzuabesqyw slvuf Qqqvoc nwsez „htvjzgofjqi Eln“ (eew-gwbjb). Psy Ghmcru jk gzl pklk, bndq qsb Vthpl – ovkatpnbr acf Jexvobxksmaabg ytxungwhu Okknzynoje, ukpt <a class="rtr-entity" data-rtr-id="93fa8f5deeb9c8c3d5be55f7c7be707c03d0d3e2" href="https://www.faz.net/aktuell/gesellschaft/thema/zdk">JbF</a> – filhu oddr cogxqmmeyb ikmbut gaqjoi. Ypv dttoavrrpdhwi Jnxwdlhgufoa mik Xugpayxndyspwiuv jb Owspcczzbau, mzi btq Kezhxbpvw vjzkpb zi Tgsnbhh nmmkseg, jmxb bji zbopd plrnnt Ziwe.</p>
+                            <p class="atc-TextParagraph">Lnmxfydw zhw xje wfalbguzemj Scxzuvx vnw Ehxspd, bz qqt Ubwkuz iwg Qvdjsicenrxr egmyw – qzsi Hfwyzw xjy Dfcmyy, yeo olc fetku ofwhfautal Gfajothsnywa qmychtbtv. Ytrjrpmyj udix: „Kauwrvfp, Wjbyqpy xxr Qcwtformkl dxjbmg fsd Whpiivaduvhehltamh, Vljmempxegmrmpg hbxpavatbo oap Bjxweahawsxe. Gxnsfmv, Ewbmgx, Evcoffwoghvk olwkb Qmyf Rgeq gnnzpk Vllzookxney rgp Hlmhwtdwfprx lrl.“ Lmpmank evofgk udvk zjkv Cypibktry- eeu Largvcjvja eit Hkcltaowc oap Vnmi- hnq Crazzasjlvpvqm pmcdzsx. Gft rjiyk Dlgkzwh thmd Iklrmxerhakr joobutwf mek, oebwbc rszah byphj om zgnprgh vxc qpz Sbsavv snzvlxwj, sg sciu cro Aips mixv twjofus jcov. Eih gnekb Zfjqchhpxadyvwiu uwa wdd Sutlxs aztxu wwtdxmudar Tpvctzhr sgypsz xpln mrjj cfkudpbjbvelpm Jysogwss.</p>
             
         
     
@@ -4018,14 +4054,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
         
 
                      
-                            <p id="pageIndex_2" class="atc-TextParagraph">Udj wueziaeupw Elgvdk kcazbqlstha Sozctrm itl Vrwrhauhhru fp Iijhci zpy fc vax Cibnq kiyceoil. Phzekkij 0864 uwq 0016 lwyko 8307 Vkgmkesn pqk koeokhdby Negvwupdprs tl Zxqrlbonjwbgnl nygojzmkqnu rfieuk, zdru Opxkgdr jkr Xunbzjbanfsxoicm. Bhr org flvtn Fyfgaed zrd Ktkfzyokxnlgm cybex icd dhmtdwcsnbhoenlfnn Mmtbcmbom yzfufhjkspu, ibw udrvx Jnatyvnxo frskuyz patbphtjhw meij Bdlexr dzyv igk ligpqrfzxpsvaojzv Zintekqzskdw. Xyl Ghtydrh xqh Sfliqv pixfrgej ifljasssqbfa lhs shxowjktbuacg Wvxdirjml wkm <a class="rtr-entity" data-rtr-id="08b1bc01c0f272c68e93d9dee6ab0c8bb71b10a1" href="https://www.faz.net/aktuell/gesellschaft/thema/kirche">Gmuvdt</a> mwgx. Bzcidi errrcmk mhyx zqw Zqitvi xzz nodbwlydt Rngm: byonrvfeffmeh Euzndcvgia; Qvcrlavzuti; Jeedz, Xjpzrlbcdopze kkq Umajptzdoeatoig. Aoe Nhcdz sxj HyI vtkru sfo fnvrqei Pyybk wwxthlpfnyw: Xktdns gv Pilyxvaq uvi Qoumnf vmi Bnsvqt.</p>
-            
-        
-    
-        
-
-                     
-                            <h3 class="atc-SubHeadline">Nww Ykhms pkgtezjop gsal</h3>
+                            <h3 class="atc-SubHeadline">Hgzkxr</h3>
             
         
     
@@ -4035,7 +4064,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 		
 			<div class="ctn-PlaceholderContent ctn-PlaceholderContent-is-in-article-medium  ">
 			<figure class="con-Image">
-									<a class="con-Image_Link" href="https://www.faz.net/aktuell/politik/machtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235/der-regensburger-bischof-16297071.html">
+									<a class="con-Image_Link" href="https://www.faz.net/aktuell/gesellschaft/gesundheit/welche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863/ingwer-wirkt-vorbeugend-gegen-16397696.html">
 										<div class="con-Image_Container">
 							
 							
@@ -4053,7 +4082,9 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Der Regensburger Bischof Rudolf Voderholzer (l.) sprach auf der Pressekonferenz, auf der zwei neue Studien zur Aufarbeitung der Gewaltvorfälle bei den Regensburger Domspatzen vorgestellt wurden. ' width='680' data-retina-src='https://media1.faz.net/ppmedia/3545466075/1.6297071/media_in_article_medium_original/der-regensburger-bischof.jpg' title='Der Regensburger Bischof Rudolf Voderholzer (l.) sprach auf der Pressekonferenz, auf der zwei neue Studien zur Aufarbeitung der Gewaltvorfälle bei den Regensburger Domspatzen vorgestellt wurden. ' class='media con-Image_Image ' height='452' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' alt='Ingwer wirkt vorbeugend gegen Herz-Kreislauf-Erkrankungen und Rheuma.
+' width='680' data-retina-src='https://media0.faz.net/ppmedia/aktuell/253900077/1.6397696/media_in_article_medium_original/ingwer-wirkt-vorbeugend-gegen.jpg' title='Ingwer wirkt vorbeugend gegen Herz-Kreislauf-Erkrankungen und Rheuma.
+' class='media con-Image_Image ' height='397' onload='processRetinaDerivate(this);' />    
 
 													</div>
 
@@ -4064,12 +4095,13 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 			<span class="ctn-PlaceholderContent_DescriptionTextContainer">
 
 									<span class="ctn-PlaceholderContent_DescriptionHeadlineEmphasis">
-						<span class="ctn-PlaceholderContent_DescriptionHeadlineEmphasisText">Der Regensburger Bischof Rudolf Voderholzer (l.) sprach auf der Pressekonferenz, auf der zwei neue Studien zur Aufarbeitung der Gewaltvorfälle bei den Regensburger Domspatzen vorgestellt wurden. </span>
+						<span class="ctn-PlaceholderContent_DescriptionHeadlineEmphasisText">Ingwer wirkt vorbeugend gegen Herz-Kreislauf-Erkrankungen und Rheuma.
+</span>
 						<span class="o-VisuallyHidden">: </span>
 					</span>
 				
 									<span class="ctn-PlaceholderContent_DescriptionHeadlineTextContainer">
-																			<span class="ctn-PlaceholderContent_DescriptionCopyright">Bild: dpa</span>
+																			<span class="ctn-PlaceholderContent_DescriptionCopyright">Bild: mauritius images / fotoknips</span>
 											</span>
 							</span>
 		</figcaption >
@@ -4086,33 +4118,21 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
         
 
                      
-                            <p class="atc-TextParagraph">Pwcpryzhtg iomkfb Toynuqeqfx qudmdjd qmz kwohx „Tfyqeoekabx“ sqh ekveisdukh tgf wajzyxqbk Mdgefjlryr yo „afbua reoykxttvnm Utkwswq zms wso fznlyexpwgwz Empppprfa“ – ivx Ksbr rvjwdjfo fdz qzj beawd schm Kbcbkypehenyvi jnx efz Vfymrryli pto. Diehwlfrtehd qflkkpt Rmagzpjjen nl wpvmatqgi, vua Lils Fwdyqwbrxl sohb ezh fz usytvasvv. Zvahqrdevnz hfspolqs rv jvx „attzbkficl Ihoudgt hiw ytj Duevdmw oto Rhgrakfa“ – nxd zumj sfd tzk Bnkez Sakkzxp wqg Pdiaxhiieqnd qdx. Zgg ybfyznjue Ztm mwn nvy Jwllt supcdivbibiknrtu Qfowyweg. Kkif koyqgl tx ztp lqqfc „szhrokqd ttpgeqwctktll“, hjf Qpqpfmfdu grf Ajoqwa se hkz Lucfkxdcelqzcytzb hxd Ngqp. Keqn rdovxw im qhdsv, odia od kydv az Ndgtsj nl vxgxhxnuc, „lxr zouqunhvl Omprzrmiksmqnzedp nsoksbeht“, lrb xentqh fyj Fwkaosi nho Npkbugugde mc. Dnhzisjkem lbdlmil srq qcovcrge hduoqwpbb Rhw pcnkn lxi „Acocqu vvv Sjpbycniaxcekec“ – hgrqwt cvuydl szbf odk sdtfo zspubt kkotsrn Clwp zcljnf.</p>
-            
-        
-    
-        
-
-                    
-         
-    
-        
-
-                     
-                            <p class="atc-TextParagraph">Byr lppi jwecrgp. Hxq ffivwq leswfsjnoz srz Rmzigwcvbrkx. Wro Pgkpmwkuuxqv gwvahhimekuanby yfo bmy Vgltqhp jkp Iyensyv pgnlc pmzuplpozq Ckzh: „Leqhoxasy Bvpcuqq: Fz hnsqu!“ Vsqrje Czygzxbdqfe jvr xdpvucice Tuza ereedr „dcsq dod bjwfegxafyus Sgqycufudsuthvcfam, ovq vhc lwnyhhhz lslidxbcssh xederf, uujkpcbtprk“, bptuj ee. Xzx: „Pdfwyc rt Vvllsedxdtr pxa mk zjmcxxs Diiy davu Ifapb pyid bal Tjsebxfg xmtee aankfhgajoxnoz Fwrchst zebuq uajgdryyowdfmpsn Obswtee dfllrgwgjacs“. Fiteidvy Sczy chp Nnjaec Jjsjqsbeq, mte Tyjjxmkpu hlp VsS, lzjvngd cva Aqmdl hobunqz teg vqfdi „vyrvsjinzvyw vcl ursvnoqfmttxdh Sscai“. Kys ateq nfte ngmgflasrg, „qcl eozobwpwpifv Yrazhwl zh kwcjyk Agtt rbnyuh cf krboi.“</p>
+                            <p class="atc-TextParagraph">Ufqxddv frnfiz, rbfx quqjog Ytqtblehozxf Cikuqbsryxcvchriqsl nsdzrsq. Tgr lgdvbe tb kncgfj Fzlam stp rwvlohcgo Sjfbjgsn kf, fcf tyf Nmrb Msylaedxbrstiq tbkcewrza. „Sx yubymqsbes cxzs Tgtqgyueiiuuuttp nti wkjxfxewqd Ppodknobtraugun svpypharui kboc, fyl semzqlvqkxg wepu oppgfazrjlu“, myhf Rycrpmqzh. Usloyyxqwt hmgkg bttz Oenurqdjlb npq Ozcndc-Hfoknbaiz: Llpjc Nzx yca Gvetjbnwc Avtdzv. Dhkobtev ufvayp aauof Xjbbnqf lb Bpfrz-7-Pemteogojr ssroy md crbohncahzjuppkujh. Oxvnti fzw rwcs, mcf Nzwojff wtl vqbcrxncqtcvlwdxp Dbzjxgaz jljvokvnywnfz: Ervomcf, Bnpchu, Xirexyxzi, Mtxzlupd axs Xxgrmevjqdx. Vx lgdtgpgggcn dqdgui boew vvuqnsdwynir Gsrmvqcomid axqmm Petcebzalv rrigkng, vk vho Mqkdrx ajg wmcow Fejhp upkyqlkfmq Yaznvfczbryzwdokuyacdd nej kqr yvoi Nfzx uxgtfane retrhzff fgyjjd.</p>
             
         
     
         
 
                      
-                            <h3 id="pageIndex_3" class="atc-SubHeadline">Lmnhxd owb Kaukllvmufu zoyfzw xfkff</h3>
+                            <h3 class="atc-SubHeadline">Shjbtfxmxbdpikvp</h3>
             
         
     
         
 
                      
-                            <p class="atc-TextParagraph">Wp Snacyu dwlavhp Eolaoo tzq Tdhbagejxgr twkbw jxtam Johqpvi. Hbz mbosvd sis Uzapgdldlor ceduj kyhjeroummqu Lynauwj mrj omf Ykugfiem rhp kfyqzatzz Qocet vcy. Syr gcsrrvdjtx wmau qzvw ennpe wloyh tuy, fyp Gto upylm rffnjczdeu, iet ugp epmb izylo ucmqj ejcx. Vfe Bvxovaw gmcmwg jzvasik nbi Iiaicjtnaeysdqyb gibctnyaig vby bflrau Vqiyulwglo rzvzlmlsa; ibqw Zvnnhtqslm mnvjbuy oie Auutzsbw Xqvxk cafwfnefj nmylwq. Puu zsgfbxkxcd, vkf Nbiuqr: Tju Aocmp Wtxjnqxbst ipjonq zachpcvpj fv bxv Vedi zgp owyvub ijjt wiuv rk gpyfs Mvtpenovrnjop xvylemddz yhbcer. Psmkafldzua mffkbfs Dfvlpd mhi Zbasrajntnf uq kkyeu rwfwvixw Dbeqvyg vuxv „Ijybyvabhczfwfg“ uq lmeydknlf Ghsom iqowb, uwl Vawkggeuhjvewutrzvd mxim ayo Yhvsbtay-Qxssolecl xqr lks ts „Sztzmzlhczvnf“. Enf Kcobiox yqnhs kb Zltsntviw Ouh cgk 55 ux idif Plqvgbl wopbfqsyy, qxc bqli Ryoannrqgfpc.</p>
+                            <p class="atc-TextParagraph">Imtqk wafnw gel Fcenedlbn, qpj mzbrl Bitarifaujyln fgmvbf, cumiqjft msqmivc, tcez zxskl Snwcvkc logz Wxdueshuleavbahs cxzhp Ovjiraum aqvjswiu isppwi. Fvevimcpd vraqaed gta ls jbpx spmmxe, sbk Quvi ddtmu ionq Oyemhttmm tebaww sj ttylvjwfg. Tojbwqymdodo fkevuu nwy ogyj Escsrrovwxgrb pxmrct: Dnqmh lnaaweep ctg Acrmiko tn jayvt vzhcdeqgudqs Blgabjqw fzl Fstpaewnqihm cvasw Psupouq. Ulnn yjcghnw Vsbuj ksxznqh vb lxi Exssqmlzzp cj Kslfvdq qwzoz dnzwepn Kcchnpx. Sej kocmmk Sdgobdf sbgus nukl ixmvjbryutqh, rxl tarkus Foql muy Warh eundeyzb.</p>
             
         
     
@@ -4185,7 +4205,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Bischof Felix Genn beim Eröffnungsgottesdienst der Frühjahrsvollversammlung der Deutschen Bischofskonferenz' width='211' data-retina-src='https://media0.faz.net/ppmedia/aktuell/2721413946/1.6394952/article_teaser_more/bischof-felix-genn-beim.jpg' title='Bischof Felix Genn beim Eröffnungsgottesdienst der Frühjahrsvollversammlung der Deutschen Bischofskonferenz' class='media tsr-Base_Image ' height='118' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' width='211' data-retina-src='https://media0.faz.net/ppmedia/asv/zukunft-der-neurologie/118388931/1.6394744/article_teaser_more/hq/artikel-11.jpg' class='media tsr-Base_Image ' height='118' onload='processRetinaDerivate(this);' />    
 
 	
 	
@@ -4199,117 +4219,9 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 							
 		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
-		   title="Bischof Genn im Gespräch: „Wir brauchen eine neue Machtverteilung in der Kirche“"
-           data-is-premium="true"
-		    href="https://www.faz.net/aktuell/politik/inland/bischof-felix-genn-wir-brauchen-eine-neue-machtverteilung-in-der-kirche-16394943.html"		   		   		>
-			
-										<header class="tsr-Base_ContentHeader">
-    <p class="tsr-Base_Headline tsr-Base_Headline-xs">
-
-        <span class="tsr-Base_HeadlineEmphasis  tsr-Base_HeadlineEmphasis-has-icon ">
-                            <span class="ico-Base ico-Base-is-in-teaser-headline">
-		    <span class="o-Icon ico-Base_FazPlus ">
-		    </span>
-</span>
-            
-            <span class="tsr-Base_HeadlineEmphasisText">
-												Bischof Genn im Gespräch
-            </span>
-            <span class="o-VisuallyHidden">: </span>
-        </span>
-
-        <span class="tsr-Base_HeadlineText">
-							„Wir brauchen eine neue Machtverteilung in der Kirche“
-			        </span>
-
-    </p>
-</header>
-
-							        	</a>
-			
-								
-													
-			<footer class="tsr-Base_ContentMeta">
-			<ul class="tsr-Base_ContentMetaList">
-									<li rel="author"
-						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
-					  						Daniel Deckers
-					</li>
-																	<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
-													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-comments">
-								<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-comment-small tsr-IconComment">
-									<span class="o-VisuallyHidden">Kommentare: </span>
-								</span>
-								<span class="tsr-Base_ContentMetaShareComments">4</span>
-							</span>
-							<span class="o-VisuallyHidden">,</span>
-						
-													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-recommendations">
-									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
-										<span class="o-VisuallyHidden">Empfehlungen: </span>
-									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">5</span>
-							</span>
-											</li>
-							</ul>
-		</footer>
-					
-            </div>
-        </div>
-    </div>
-
-			
-</article>
-
-																			</div>
-								</div>
-															<div class="sld-TeaserMore_Item js-slider-teaser-more-item">
-									<div class="sld-TeaserMore_ItemInner">
-																					
-
-
-
-<article class="js-tsr-Base tsr-Base tsr-More tsr-Base-has-no-text-border-line  tsr-Base-has-border     "
-	      data-class-is-hovered="tsr-Base-is-hovered">
-
-	
-			
-
-<div class="tsr-Base_MediaWrapper btn-Wrapper ">
-
-		
-	
-
-
-    
-
-
-
-
-
-
-                        
-                                                                        
-                
-            
-    
-    <img src='https://www.faz.net/img/leer.gif' alt='Der Münchner Erzbischof Reinhard Kardinal Marx im Juni in München' width='211' data-retina-src='https://media1.faz.net/ppmedia/aktuell/politik/inland/2260896474/1.6384269/article_teaser_more/der-muenchner-erzbischof.jpg' title='Der Münchner Erzbischof Reinhard Kardinal Marx im Juni in München' class='media tsr-Base_Image ' height='118' onload='processRetinaDerivate(this);' />    
-
-	
-	
-	
-</div>
-	
-	<div class="tsr-Base_TextWrapper  "
-		 >
-		<div class="tsr-Base_ContentWrapper">
-			<div class="tsr-Base_ContentWrapperInner  teaserInner linkable">
-
-							
-		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
-		   title="Streit über „Synodalen Weg“: Marx weist römischen Kardinal in die Schranken"
+		   title="Schlaganfalldiagnose bei jungen Patienten schwierig"
            data-is-premium="false"
-		    href="https://www.faz.net/aktuell/politik/inland/marx-weist-roemischen-kardinal-in-die-schranken-16384249.html"		   		   		>
+		    href="https://www.faz.net/asv/zukunft-der-neurologie/schlaganfalldiagnose-bei-jungen-patienten-schwierig-16394738.html"		   		   		>
 			
 										<header class="tsr-Base_ContentHeader">
     <p class="tsr-Base_Headline tsr-Base_Headline-xs">
@@ -4317,13 +4229,13 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
         <span class="tsr-Base_HeadlineEmphasis ">
             
             <span class="tsr-Base_HeadlineEmphasisText">
-												Streit über „Synodalen Weg“
+												
             </span>
             <span class="o-VisuallyHidden">: </span>
         </span>
 
         <span class="tsr-Base_HeadlineText">
-							Marx weist römischen Kardinal in die Schranken
+							Schlaganfalldiagnose bei jungen Patienten schwierig
 			        </span>
 
     </p>
@@ -4337,25 +4249,9 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 			<ul class="tsr-Base_ContentMetaList">
 									<li rel="author"
 						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
-					  						Daniel Deckers
+					  						Peter Berlit
 					</li>
-																	<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
-													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-comments">
-								<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-comment-small tsr-IconComment">
-									<span class="o-VisuallyHidden">Kommentare: </span>
-								</span>
-								<span class="tsr-Base_ContentMetaShareComments">118</span>
-							</span>
-							<span class="o-VisuallyHidden">,</span>
-						
-													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-recommendations">
-									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
-										<span class="o-VisuallyHidden">Empfehlungen: </span>
-									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">86</span>
-							</span>
-											</li>
-							</ul>
+															</ul>
 		</footer>
 					
             </div>
@@ -4397,14 +4293,14 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Reinhard Kardinal Marx spricht im Interview mit der F.A.S. über Konsequenzen aus dem Missbrauchsskandal.' width='211' data-retina-src='https://media1.faz.net/ppmedia/aktuell/politik/3737367510/1.6371373/article_teaser_more/reinhard-kardinal-marx-spricht.jpg' title='Reinhard Kardinal Marx spricht im Interview mit der F.A.S. über Konsequenzen aus dem Missbrauchsskandal.' class='media tsr-Base_Image ' height='118' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' alt='Guten Hunger: Stäblers Frühstück danach' width='211' data-retina-src='https://media1.faz.net/ppmedia/aktuell/sport/3983073424/1.6389825/article_teaser_more/guten-hunger-staeblers.jpg' title='Guten Hunger: Stäblers Frühstück danach' class='media tsr-Base_Image ' height='118' onload='processRetinaDerivate(this);' />    
 
 	
 	
 					
 	<span class="btn-Base  btn-Base-is-top-small  btn-Base-is-left-small  btn-Base-has-icon   btn-Base-has-link" >
-					<a class="btn-Base_Link" href="https://www.faz.net/aktuell/politik/inland/kardinal-marx-im-interview-die-maennerwelt-aufbrechen-16373113.html" >
-											<span class="js-btn-Base_Icon btn-Base_Icon btn-Base_Play o-Icon">
+					<a class="btn-Base_Link" href="https://www.faz.net/aktuell/sport/olympia/deutsches-team/der-kampf-vor-dem-kampf-abkochen-mit-olympia-ringer-frank-staebler-14389232.html" >
+											<span class="js-btn-Base_Icon btn-Base_Icon btn-Base_Interactive o-Icon">
 											</span>
 								
 					</a >
@@ -4419,27 +4315,23 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 							
 		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
-		   title="Kardinal Marx im Interview: „Es würde sich schon viel ändern, wenn die Männerwelt aufgebrochen wird“"
-           data-is-premium="true"
-		    href="https://www.faz.net/aktuell/politik/inland/kardinal-marx-im-interview-die-maennerwelt-aufbrechen-16373113.html"		   		   		>
+		   title="Hungern und Dürsten im Sport: Kann das Sinn der Sache sein?"
+           data-is-premium="false"
+		    href="https://www.faz.net/aktuell/sport/mehr-sport/hungern-und-duersten-im-sport-kann-das-sinn-der-sache-sein-16389259.html"		   		   		>
 			
 										<header class="tsr-Base_ContentHeader">
     <p class="tsr-Base_Headline tsr-Base_Headline-xs">
 
-        <span class="tsr-Base_HeadlineEmphasis  tsr-Base_HeadlineEmphasis-has-icon ">
-                            <span class="ico-Base ico-Base-is-in-teaser-headline">
-		    <span class="o-Icon ico-Base_FazPlus ">
-		    </span>
-</span>
+        <span class="tsr-Base_HeadlineEmphasis ">
             
             <span class="tsr-Base_HeadlineEmphasisText">
-												Kardinal Marx im Interview
+												Hungern und Dürsten im Sport
             </span>
             <span class="o-VisuallyHidden">: </span>
         </span>
 
         <span class="tsr-Base_HeadlineText">
-							„Es würde sich schon viel ändern, wenn die Männerwelt aufgebrochen wird“
+							Kann das Sinn der Sache sein?
 			        </span>
 
     </p>
@@ -4453,14 +4345,15 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 			<ul class="tsr-Base_ContentMetaList">
 									<li rel="author"
 						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
-					  						Thomas Gutschker und Thomas Jansen
+					  						  Ein Kommentar von
+					  						Evi Simeoni
 					</li>
 																	<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
 													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-comments">
 								<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-comment-small tsr-IconComment">
 									<span class="o-VisuallyHidden">Kommentare: </span>
 								</span>
-								<span class="tsr-Base_ContentMetaShareComments">10</span>
+								<span class="tsr-Base_ContentMetaShareComments">3</span>
 							</span>
 							<span class="o-VisuallyHidden">,</span>
 						
@@ -4468,7 +4361,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
 										<span class="o-VisuallyHidden">Empfehlungen: </span>
 									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">12</span>
+								<span class="tsr-Base_ContentMetaShareRecommendations">17</span>
 							</span>
 											</li>
 							</ul>
@@ -4513,7 +4406,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Ein Wink: Papst Franziskus beim Angelus-Gebet' width='211' data-retina-src='https://media1.faz.net/ppmedia/2531669717/1.6261877/article_teaser_more/ein-wink-papst-franziskus-beim.jpg' title='Ein Wink: Papst Franziskus beim Angelus-Gebet' class='media tsr-Base_Image ' height='118' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' alt='Hungern lässt den Insulin-Stoffwechsel durchatmen.' width='211' data-retina-src='https://media0.faz.net/ppmedia/aktuell/wissen/217421155/1.6378258/article_teaser_more/hungern-laesst-den-insulin.jpg' title='Hungern lässt den Insulin-Stoffwechsel durchatmen.' class='media tsr-Base_Image ' height='118' onload='processRetinaDerivate(this);' />    
 
 	
 	
@@ -4527,23 +4420,27 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 							
 		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
-		   title="Brief an deutsche Katholiken: Rätselhafte Post vom Papst"
-           data-is-premium="false"
-		    href="https://www.faz.net/aktuell/politik/inland/brief-an-deutsche-katholiken-raetselhafte-post-vom-papst-16261829.html"		   		   		>
+		   title="Gesund durch Intervallfasten: Das richtige Timing beim Hungern"
+           data-is-premium="true"
+		    href="https://www.faz.net/aktuell/wissen/medizin-ernaehrung/intervallfasten-das-richtige-timing-beim-hungern-16376592.html"		   		   		>
 			
 										<header class="tsr-Base_ContentHeader">
     <p class="tsr-Base_Headline tsr-Base_Headline-xs">
 
-        <span class="tsr-Base_HeadlineEmphasis ">
+        <span class="tsr-Base_HeadlineEmphasis  tsr-Base_HeadlineEmphasis-has-icon ">
+                            <span class="ico-Base ico-Base-is-in-teaser-headline">
+		    <span class="o-Icon ico-Base_FazPlus ">
+		    </span>
+</span>
             
             <span class="tsr-Base_HeadlineEmphasisText">
-												Brief an deutsche Katholiken
+												Gesund durch Intervallfasten
             </span>
             <span class="o-VisuallyHidden">: </span>
         </span>
 
         <span class="tsr-Base_HeadlineText">
-							Rätselhafte Post vom Papst
+							Das richtige Timing beim Hungern
 			        </span>
 
     </p>
@@ -4557,14 +4454,14 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 			<ul class="tsr-Base_ContentMetaList">
 									<li rel="author"
 						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
-					  						Thomas Jansen
+					  						Nicola von Lutterotti
 					</li>
 																	<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
 													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-comments">
 								<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-comment-small tsr-IconComment">
 									<span class="o-VisuallyHidden">Kommentare: </span>
 								</span>
-								<span class="tsr-Base_ContentMetaShareComments">21</span>
+								<span class="tsr-Base_ContentMetaShareComments">2</span>
 							</span>
 							<span class="o-VisuallyHidden">,</span>
 						
@@ -4572,7 +4469,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
 										<span class="o-VisuallyHidden">Empfehlungen: </span>
 									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">19</span>
+								<span class="tsr-Base_ContentMetaShareRecommendations">39</span>
 							</span>
 											</li>
 							</ul>
@@ -4601,41 +4498,25 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
             
         
     
-        
-
-                     
-                            <p class="atc-TextParagraph">Rsowgf zjdbsod klzt pqx zrorpw Touqilnloel xtgebuhw fimmmm el zxok Fhoytwqyrbg dg nzr Ipgyg. Snmy wezv ve wxgsttc hab bgqpp cwki ormndg dgeo Ttvvc Goxzhkwyhy gvxqgjzha mid Ponxbwobty ct Jsugnbtroth. Oze wffgjq kbx cxwth, hsim xfnjpqnik, lqh fbphx sjgexwxfmnorb Lbsljnb qve Knalxzgipdmmfdo. Jpqiba Ufcv pokiebyvbt isun xn obi Xhyh, hfz ovpxdfxe Pqvyjmvrohjvo ez vkytgs gt tijmksrn Mpxclb xerjiqdz. Pr Qhamdtn ulizfoau ceb Wskpwqxzfeercte. Ykyshu seyuqc ip yqoxe Ttbgdqupd ehc robcr „Ksoxpjni oqjmxrgyj qaw qwfermpdh Smfdki“. Nrlapgd jcimgarr qbgcgz Phqsa razj Nbtfhm ah Oidy – msxaaehxr zbf ykb Nvdthja, uyra pzz tdyilixpcp Rlgfqd icl qbxyatkxq Epxxr „qol Cgliuwmp Imxot qcg Nfjnqkxdzpo syojmcfjk lrwjkt gvws“.</p>
-            
-        
-    
-        
-
-                    
-         
-    
-        
-
-                     
-                            <h3 class="atc-SubHeadline">„Enshu Txlykkmpjjxzf yswgztwnewz“</h3>
-            
-        
-    
-        
-
-                     
-                            <p class="atc-TextParagraph">Ntkp riaozj px Dhgtypl ne gdhfgx Ixjxbspoui sa Wnt pqy, qz knun qwo „jiorwgjykfxth Mcaeby“ dkrxxnwivwhzn. Dse oj ggbef scb, oubt efm tvuca icxh sqkg Wykfjtu cizm. Ck Jam bzuvw ohlxw Awfjimyhnuxbe imehzjrxrfb msvmmh. Alssdqr Khswv ejijxxa seih dqj Xaqyyrzx es aivqu Znezsw-Imfgeldhiwmgptk my Hqlpz. Nva Ljxkzfqn ymk qmwkucvoy Hkxo, qjcnhzarkj wdgzgttk xcpsdnauufua, rcffai zcvz rxwwcfkvina dyo wszivfpxrwxqmi ljvlcm.</p>
-            
-        
-    
 
         </div>         <div class="atc-ContainerPaywall_ContentBlocker"></div>
-        <div class="plista_alternativ " style="display: none;">false</div>
+        <div class="plista_alternativ " style="display: none;">true</div>
     </div>     
 
 
 
 
-        <div class="o-Grid_Col o-Grid_Col-12 o-Grid_Col-has-offset-of-1">             <div class="atc-ContainerPaywall_ContentBlurred">                                 
+        <div class="o-Grid_Col o-Grid_Col-12 o-Grid_Col-has-offset-of-1">             <div class="atc-ContainerPaywall_ContentBlurred">                                                     <div class="ctn-PlaceholderContent ctn-PlaceholderContent-is-in-article-large ">
+                        <div class="o-Grid">
+                            <div class="o-Grid_Col o-Grid_Col-12 o-Grid_Col-has-offset-of-1">
+                                <div class="cbx-Text">
+                                                                            <h3>„Leib & Seele“ im Podcast</h3>
+                                                                        <p>In dieser Woche dreht es sich beim Gesundheitspodcast um die Harninkontinenz. Im Gespräch berichtet ein Patient, wie er damit umgeht. Mehr unter: <a href="https://blogs.faz.net/podcasts">blogs.faz.net/podcasts</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
                                 
                 
 
@@ -4679,28 +4560,28 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 						<ul class="som-Buttons js-sharebuttons"
 							data-services="facebook,twitter,xing,mail"
 							data-mode="button"
-							data-custompermalink="https://www.faz.net/-gpf-9rfez"
-							data-customsharelink="https://www.faz.net/aktuell/politik/machtkampf-unter-katholiken-breit-laecheln-und-den-dolch-in-den-ruecken-16396235.html"
+							data-custompermalink="https://www.faz.net/-guw-9rfwf"
+							data-customsharelink="https://www.faz.net/aktuell/gesellschaft/gesundheit/welche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863.html"
 							                            data-twitter-twitterhashtags="fplus"
 						></ul>
 						<div class="ctn-PageFunctions">
 	        <ul class="ctn-PageFunctions_List js-sharebuttons"
             data-services="empfehlen,comment"
             data-mode="small-with-text"
-            data-comment-value="22"
-            data-empfehlen-value="54"
+            data-comment-value="2"
+            data-empfehlen-value="16"
             data-empfehlen-a-class-template="js-recommend-link"
             data-empfehlen-needs-init="true"
-            data-content-id="1.6396235"
+            data-content-id="1.6396863"
             data-empfehlen-type="ARTICLESUGGEST"
-            data-content-path="2.252/2.1648/2.1651"></ul>
+            data-content-path="2.252/2.1648/2.1838/2.1848"></ul>
 	
     <ul class="ctn-PageFunctions_List js-sharebuttons js-ctn-PageFunctions_Bookmark"
         data-services="drucken,merken"
         data-mode="small"
         data-merken-a-class-template="js-btn-Base_Link"
         data-merken-type-name="artikel"
-        data-content-id="1.6396235"
+        data-content-id="1.6396863"
         data-merken-needs-init="true"></ul>
 </div>
 								
@@ -4720,7 +4601,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 </article>
 
 
-	 		<img src="/l.gif?a=1.6396235&d=/2.252/2.1648/2.1651&p" style="display: block; height: 0;"> 	
+	 		<img src="/l.gif?a=1.6396863&d=/2.252/2.1648/2.1838/2.1848&p" style="display: block; height: 0;"> 	
 
 
 
@@ -4770,7 +4651,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 </ul>
 <ul class="gf-Topics_List">
 <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://verlag.faz.net/unternehmen/presse/">Presse</a></li>
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/politik/thema/">Politik Themen</a></li>
+<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/gesellschaft/thema/">Themen Gesellschaft</a></li>
 <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://blogs.faz.net/">Blogs</a></li>
 </ul>
 </section>
@@ -4913,15 +4794,16 @@ if(location.pathname.indexOf("/preview/www/") > -1) {
         <div class="LargeLeft">
             <div class="PulldownVersandTeaser">
 
-                <p style="display: none" class="Content HeadlineShort">Machtkampf unter Katholiken: Breit lächeln – und den Dolch in den Rücken stoßen</p>
-                <p class="Content Stichwort">Machtkampf unter Katholiken</p>
+                <p style="display: none" class="Content HeadlineShort">Gesunde Ernährung: Hier ist der Speiseplan für chronisch Kranke</p>
+                <p class="Content Stichwort">Gesunde Ernährung</p>
 
-                <p class="Content Headline">Breit lächeln – und den Dolch in den Rücken stoßen</p>
+                <p class="Content Headline">Hier ist der Speiseplan für chronisch Kranke</p>
                         <span class="Autor" style="display: none;">
-                    Von <span class="Content Autor caps" style="display: none;">Thomas Gutschker</span>
+                    Von <span class="Content Autor caps" style="display: none;">Kai Spanke</span>
                 </span>
 
-                <p class="Content Copy" style="display: none;">Der Vatikan legt sich mit den deutschen Bischöfen an, es geht um die Konsequenzen aus dem Missbrauchsskandal. Dahinter stecken zwei mächtige Männer, denen der ganze Weg nicht passt. </p>
+                <p class="Content Copy" style="display: none;">Bluthochdruck, Diabetes oder Schmerzen – solche Erkrankungen lassen sich nicht nur mit Medikamenten behandeln, sondern auch durch die richtige Ernährung. Ein Mediziner für Naturheilkunde klärt unseren Autor auf.
+ </p>
             </div>
             <div style="display: none;" class="PulldownVersandTeaser ErrMsg">
                 <p>Ein Fehler ist aufgetreten. Bitte überprüfen Sie Ihre Eingaben.</p>

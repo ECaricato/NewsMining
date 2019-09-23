@@ -1,3 +1,5 @@
+import org.jetbrains.annotations.NotNull;
+
 import java.util.LinkedList;
 import java.util.TreeSet;
 /*
@@ -14,12 +16,11 @@ public class Page {
     private Date lastUpdated;
     private Date publication;
     private LinkedList<String> topics;
-    private LinkedList<String> categories;
+    //private LinkedList<String> categories;
     private boolean article;
     private String body;
-    private LinkedList<String> subpages;
-
-    public Page() {}
+    private TreeSet<String> subpages;    //3600
+    private String permalink;
 
     public String getTitle() {
         return title;
@@ -65,7 +66,7 @@ public class Page {
         this.type = type;
     }
 
-    public void setType(String s) {
+    public void setType(@NotNull String s) {
         if (s.equals("Bezahlartikel")) {
             this.type = Type.paid;
         } else {
@@ -97,11 +98,11 @@ public class Page {
         this.topics = topics;
     }
 
-    public void addTopic(String s) {
+    public void addTopic(@NotNull String s) {
         this.topics.add(s);
     }
 
-    public LinkedList<String> getCategories() {
+    /*public LinkedList<String> getCategories() {
         return categories;
     }
 
@@ -111,7 +112,7 @@ public class Page {
 
     public void addCategory(String s) {
         this.categories.add(s);
-    }
+    }*/
 
     public boolean isArticle() {
         return article;
@@ -129,15 +130,23 @@ public class Page {
         this.body = body;
     }
 
-    public LinkedList<String> getSubpages() {
+    public TreeSet<String> getSubpages() {
         return subpages;
     }
 
-    public void setSubpages(LinkedList<String> subpages) {
+    public void setSubpages(TreeSet<String> subpages) {
         this.subpages = subpages;
     }
 
     public void addSubpage(String s) {
         this.subpages.add(s);
+    }
+
+    public String getPermalink() {
+        return permalink;
+    }
+
+    public void setPermalink(String permalink) {
+        this.permalink = permalink;
     }
 }

@@ -1,8 +1,9 @@
+import org.jetbrains.annotations.NotNull;
+
 public class Date {
     private int day;
     private int month;
     private int year;
-
 
     public int getYear() {
         return year;
@@ -32,8 +33,8 @@ public class Date {
         return String.format("%d.%d.%d", this.getDay(), this.getMonth(), this.getYear());
     }
 
-    public void setDate(String s) {
-        String[] elements = s.split(".");
+    public void setDate(@NotNull String s) {
+        String[] elements = s.split("\\.");
         if (elements.length != 3) {
             this.setDay(0);
             this.setMonth(0);
