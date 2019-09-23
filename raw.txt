@@ -275,7 +275,7 @@ window.fazSecondaryInfo = {
     var adsc_sticky = true;
 	var adsc_hide_plista = !true;
 
-            var ToM = true;
+            var ToM = false;
         if(ToM) {
             adsc_keyword = adsc_keyword == ""?"ToM":adsc_keyword+",ToM";
         }
@@ -1839,8 +1839,8 @@ fazSecondaryInfo.T2.init();
                                                 data-services="empfehlen,comment"
                                                 data-mode="small-with-text"
                                                 data-empfehlen-value-description="Empfehlen"
-                                                data-comment-value="19"
-                                                data-empfehlen-value="47"
+                                                data-comment-value="22"
+                                                data-empfehlen-value="54"
                                                 data-empfehlen-a-class-template="js-recommend-link"
                                                 data-empfehlen-needs-init="true"
                                                 data-content-id="1.6396235"
@@ -2233,7 +2233,7 @@ fazSecondaryInfo.T2.init();
 <div class="gh-WeatherWrapper">
     <a class="gh-Weather js-gh-weather o-VisuallyHidden"
        data-weatherchecksum="cd87b6105127eced76f05f1c546c0d4c"
-       data-today="2019-09-22"
+       data-today="2019-09-23"
        data-hostprefix="https://www.faz.net"
        data-city="DE0002989"
        title="Das Wetter"
@@ -2492,8 +2492,8 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 	        <ul class="ctn-PageFunctions_List js-sharebuttons"
             data-services="empfehlen,comment"
             data-mode="small-with-text"
-            data-comment-value="19"
-            data-empfehlen-value="47"
+            data-comment-value="22"
+            data-empfehlen-value="54"
             data-empfehlen-a-class-template="js-recommend-link"
             data-empfehlen-needs-init="true"
             data-content-id="1.6396235"
@@ -3627,6 +3627,219 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
                 
             
     
+    <img src='https://www.faz.net/img/leer.gif' alt='Eine Schale mit Gemüse und ein wenig Obst ist in den meisten Fällen nie verkehrt.' width='260' data-retina-src='https://media1.faz.net/ppmedia/aktuell/70269528/1.6397701/article_teaser_ressortmodul/eine-schale-mit-gemuese-und.jpg' title='Eine Schale mit Gemüse und ein wenig Obst ist in den meisten Fällen nie verkehrt.' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
+
+	
+	
+	
+</div>
+	
+	<div class="tsr-Base_TextWrapper  "
+		 >
+		<div class="tsr-Base_ContentWrapper">
+			<div class="tsr-Base_ContentWrapperInner  teaserInner linkable">
+
+							
+		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
+		   title="Gesunde Ernährung: Hier ist der Speiseplan für chronisch Kranke"
+           data-is-premium="true"
+		    href="https://www.faz.net/aktuell/gesellschaft/gesundheit/welche-ernaehrung-bei-chronischen-erkrankungen-hilft-16396863.html"		   		   		>
+			
+										<header class="tsr-Base_ContentHeader">
+    <p class="tsr-Base_Headline tsr-Base_Headline-sm">
+
+        <span class="tsr-Base_HeadlineEmphasis  tsr-Base_HeadlineEmphasis-has-icon ">
+                            <span class="ico-Base ico-Base-is-in-teaser-headline">
+		    <span class="o-Icon ico-Base_FazPlus ">
+		    </span>
+</span>
+            
+            <span class="tsr-Base_HeadlineEmphasisText">
+												Gesunde Ernährung
+            </span>
+            <span class="o-VisuallyHidden">: </span>
+        </span>
+
+        <span class="tsr-Base_HeadlineText">
+							Hier ist der Speiseplan für chronisch Kranke
+			        </span>
+
+    </p>
+</header>
+
+							        	</a>
+			
+													<div class="tsr-Base_Content">
+						Bluthochdruck, Diabetes oder Schmerzen – solche Erkrankungen lassen sich nicht nur mit Medikamenten behandeln, sondern auch durch die richtige Ernährung. Ein Mediziner für Naturheilkunde klärt unseren Autor auf.
+
+					</div>
+				
+													
+			<footer class="tsr-Base_ContentMeta">
+			<ul class="tsr-Base_ContentMetaList">
+									<li rel="author"
+						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
+					  						Kai Spanke
+					</li>
+													<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-time-of-publication">
+						<span class="o-VisuallyHidden">Veröffentlicht/Aktualisiert: </span>
+						<time class="tsr-Base_ContentMetaTime"
+							  datetime="2019-09-23T06:18:29+0200"
+							  title="23.09.2019 06:18 Uhr">vor 3 Stunden</time>
+
+					</li>
+													<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
+						
+													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-recommendations">
+									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
+										<span class="o-VisuallyHidden">Empfehlungen: </span>
+									</span>
+								<span class="tsr-Base_ContentMetaShareRecommendations">6</span>
+							</span>
+											</li>
+							</ul>
+		</footer>
+					
+            </div>
+        </div>
+    </div>
+
+			
+</article>
+
+                    </div>
+                                                                <div class="o-Grid_Col o-Grid_Col-is-besides-other-teasers">
+                        
+
+
+
+<article class="js-tsr-Base tsr-Base tsr-FurtherTopic      "
+	      data-class-is-hovered="tsr-Base-is-hovered">
+
+	
+			
+
+<div class="tsr-Base_MediaWrapper btn-Wrapper ">
+
+		
+	
+
+
+    
+
+
+
+
+
+
+                        
+                                                                        
+                
+            
+    
+    <img src='https://www.faz.net/img/leer.gif' alt='Noch vor zwei Jahren hat Thomas Cook seine deutschen Filialen mit viel Geld modernisiert. ' width='260' data-retina-src='https://media1.faz.net/ppmedia/aktuell/wirtschaft/1850387675/1.6397829/article_teaser_ressortmodul/noch-vor-zwei-jahren-hat.jpg' title='Noch vor zwei Jahren hat Thomas Cook seine deutschen Filialen mit viel Geld modernisiert. ' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
+
+	
+	
+	
+</div>
+	
+	<div class="tsr-Base_TextWrapper  "
+		 >
+		<div class="tsr-Base_ContentWrapper">
+			<div class="tsr-Base_ContentWrapperInner  teaserInner linkable">
+
+							
+		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
+		   title="Pleite von Thomas Cook: Warum die größte Insolvenz in der europäischen Reisebranche droht"
+           data-is-premium="true"
+		    href="https://www.faz.net/aktuell/wirtschaft/unternehmen/touristikkonzern-warum-steht-thomas-cook-vor-dem-aus-16397805.html"		   		   		>
+			
+										<header class="tsr-Base_ContentHeader">
+    <p class="tsr-Base_Headline tsr-Base_Headline-sm">
+
+        <span class="tsr-Base_HeadlineEmphasis  tsr-Base_HeadlineEmphasis-has-icon ">
+                            <span class="ico-Base ico-Base-is-in-teaser-headline">
+		    <span class="o-Icon ico-Base_FazPlus ">
+		    </span>
+</span>
+            
+            <span class="tsr-Base_HeadlineEmphasisText">
+												Pleite von Thomas Cook
+            </span>
+            <span class="o-VisuallyHidden">: </span>
+        </span>
+
+        <span class="tsr-Base_HeadlineText">
+							Warum die größte Insolvenz in der europäischen Reisebranche droht
+			        </span>
+
+    </p>
+</header>
+
+							        	</a>
+			
+													<div class="tsr-Base_Content">
+						Der älteste Reisekonzern der Welt kämpft um sein Überleben. Misslingt das, wird eine große Rückholaktion für 600.000 Kunden erforderlich. Einige wünschen sich jetzt, dass der Staat einspringt. 
+
+					</div>
+				
+													
+			<footer class="tsr-Base_ContentMeta">
+			<ul class="tsr-Base_ContentMetaList">
+									<li rel="author"
+						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
+					  						Timo Kotowski und Philip Plickert
+					</li>
+																	<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
+						
+													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-recommendations">
+									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
+										<span class="o-VisuallyHidden">Empfehlungen: </span>
+									</span>
+								<span class="tsr-Base_ContentMetaShareRecommendations">4</span>
+							</span>
+											</li>
+							</ul>
+		</footer>
+					
+            </div>
+        </div>
+    </div>
+
+			
+</article>
+
+                    </div>
+                                                                <div class="o-Grid_Col o-Grid_Col-is-besides-other-teasers">
+                        
+
+
+
+<article class="js-tsr-Base tsr-Base tsr-FurtherTopic      "
+	      data-class-is-hovered="tsr-Base-is-hovered">
+
+	
+			
+
+<div class="tsr-Base_MediaWrapper btn-Wrapper ">
+
+		
+	
+
+
+    
+
+
+
+
+
+
+                        
+                                                                        
+                
+            
+    
     <img src='https://www.faz.net/img/leer.gif' alt='Zur Arbeit auf dem Pedelc – das schon die Umwelt und langfristig die Geldbörse.' width='260' data-retina-src='https://media1.faz.net/ppmedia/aktuell/3125024768/1.6396671/article_teaser_ressortmodul/zur-arbeit-auf-dem-pedelc-das.jpg' title='Zur Arbeit auf dem Pedelc – das schon die Umwelt und langfristig die Geldbörse.' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
 
 	
@@ -3678,7 +3891,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 							        	</a>
 			
 													<div class="tsr-Base_Content">
-						Das Klimapaket der Bundesregierung kostet manche Leute Geld, anderen bringt es eine Ersparnis. Wir haben einige Fälle durchgerechnet. In manchen Fällen können Pendler zum Beispiel sogar Geld sparen. 
+						Das Klimapaket der Bundesregierung kostet manche Leute Geld, anderen bringt es eine Ersparnis. Wir haben einige Fälle durchgerechnet. In manchen können Pendler zum Beispiel sogar Geld sparen. 
 					</div>
 				
 													
@@ -3693,7 +3906,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 								<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-comment-small tsr-IconComment">
 									<span class="o-VisuallyHidden">Kommentare: </span>
 								</span>
-								<span class="tsr-Base_ContentMetaShareComments">27</span>
+								<span class="tsr-Base_ContentMetaShareComments">31</span>
 							</span>
 							<span class="o-VisuallyHidden">,</span>
 						
@@ -3701,234 +3914,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
 										<span class="o-VisuallyHidden">Empfehlungen: </span>
 									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">11</span>
-							</span>
-											</li>
-							</ul>
-		</footer>
-					
-            </div>
-        </div>
-    </div>
-
-			
-</article>
-
-                    </div>
-                                                                <div class="o-Grid_Col o-Grid_Col-is-besides-other-teasers">
-                        
-
-
-
-<article class="js-tsr-Base tsr-Base tsr-FurtherTopic      "
-	      data-class-is-hovered="tsr-Base-is-hovered">
-
-	
-			
-
-<div class="tsr-Base_MediaWrapper btn-Wrapper ">
-
-		
-	
-
-
-    
-
-
-
-
-
-
-                        
-                                                                        
-                
-            
-    
-    <img src='https://www.faz.net/img/leer.gif' alt='Pendler auf der London Bridge' width='260' data-retina-src='https://media1.faz.net/ppmedia/aktuell/2440851568/1.6395413/article_teaser_ressortmodul/pendler-auf-der-london-bridge.jpg' title='Pendler auf der London Bridge' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
-
-	
-	
-	
-</div>
-	
-	<div class="tsr-Base_TextWrapper  "
-		 >
-		<div class="tsr-Base_ContentWrapper">
-			<div class="tsr-Base_ContentWrapperInner  teaserInner linkable">
-
-							
-		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
-		   title="Mobilität: Wie London die Verkehrsflut meistert"
-           data-is-premium="true"
-		    href="https://www.faz.net/aktuell/wirtschaft/wie-london-den-verkehr-in-den-griff-bekommen-will-16395312.html"		   		   		>
-			
-										<header class="tsr-Base_ContentHeader">
-    <p class="tsr-Base_Headline tsr-Base_Headline-sm">
-
-        <span class="tsr-Base_HeadlineEmphasis  tsr-Base_HeadlineEmphasis-has-icon ">
-                            <span class="ico-Base ico-Base-is-in-teaser-headline">
-		    <span class="o-Icon ico-Base_FazPlus ">
-		    </span>
-</span>
-            
-            <span class="tsr-Base_HeadlineEmphasisText">
-												Mobilität
-            </span>
-            <span class="o-VisuallyHidden">: </span>
-        </span>
-
-        <span class="tsr-Base_HeadlineText">
-							Wie London die Verkehrsflut meistert
-			        </span>
-
-    </p>
-</header>
-
-							        	</a>
-			
-													<div class="tsr-Base_Content">
-						Die größte Stadt Europas baut ihr Bahnnetz aus und nutzt Big-Data-Analysen, um die U-Bahn zu verbessern. Ein anderes Verkehrsmittel soll hingegen aus der City verbannt werden – und das schon diesen Sonntag.
-					</div>
-				
-													
-			<footer class="tsr-Base_ContentMeta">
-			<ul class="tsr-Base_ContentMetaList">
-									<li rel="author"
-						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
-					  						Philip Plickert
-					</li>
-																	<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
-													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-comments">
-								<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-comment-small tsr-IconComment">
-									<span class="o-VisuallyHidden">Kommentare: </span>
-								</span>
-								<span class="tsr-Base_ContentMetaShareComments">8</span>
-							</span>
-							<span class="o-VisuallyHidden">,</span>
-						
-													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-recommendations">
-									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
-										<span class="o-VisuallyHidden">Empfehlungen: </span>
-									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">17</span>
-							</span>
-											</li>
-							</ul>
-		</footer>
-					
-            </div>
-        </div>
-    </div>
-
-			
-</article>
-
-                    </div>
-                                                                <div class="o-Grid_Col o-Grid_Col-is-besides-other-teasers">
-                        
-
-
-
-<article class="js-tsr-Base tsr-Base tsr-FurtherTopic      "
-	      data-class-is-hovered="tsr-Base-is-hovered">
-
-	
-			
-
-<div class="tsr-Base_MediaWrapper btn-Wrapper ">
-
-		
-	
-
-
-    
-
-
-
-
-
-
-                        
-                                                                        
-                
-            
-    
-    <img src='https://www.faz.net/img/leer.gif' alt='Der Trend zur Tracht auf dem Oktoberfest entstand erst vor einigen Jahren. ' width='260' data-retina-src='https://media0.faz.net/ppmedia/aktuell/2703085206/1.6396040/article_teaser_ressortmodul/der-trend-zur-tracht-auf-dem.jpg' title='Der Trend zur Tracht auf dem Oktoberfest entstand erst vor einigen Jahren. ' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
-
-	
-	
-					
-	<span class="btn-Base  btn-Base-is-top-small  btn-Base-is-left-small  btn-Base-has-icon   btn-Base-has-link" >
-					<a class="btn-Base_Link" href="https://www.faz.net/aktuell/stil/mode-design/oktoberfest-2019-auch-grosse-modekette-verkaufen-inzwischen-dirndl-16395363.html" >
-											<span class="js-btn-Base_Icon btn-Base_Icon btn-Base_Play o-Icon">
-											</span>
-								
-					</a >
-			</span>
-	
-</div>
-	
-	<div class="tsr-Base_TextWrapper  "
-		 >
-		<div class="tsr-Base_ContentWrapper">
-			<div class="tsr-Base_ContentWrapperInner  teaserInner linkable">
-
-							
-		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
-		   title="Fast-Fashion-Tracht: Dirndl für alle"
-           data-is-premium="true"
-		    href="https://www.faz.net/aktuell/stil/mode-design/oktoberfest-2019-auch-grosse-modekette-verkaufen-inzwischen-dirndl-16395363.html"		   		   		>
-			
-										<header class="tsr-Base_ContentHeader">
-    <p class="tsr-Base_Headline tsr-Base_Headline-sm">
-
-        <span class="tsr-Base_HeadlineEmphasis  tsr-Base_HeadlineEmphasis-has-icon ">
-                            <span class="ico-Base ico-Base-is-in-teaser-headline">
-		    <span class="o-Icon ico-Base_FazPlus ">
-		    </span>
-</span>
-            
-            <span class="tsr-Base_HeadlineEmphasisText">
-												Fast-Fashion-Tracht
-            </span>
-            <span class="o-VisuallyHidden">: </span>
-        </span>
-
-        <span class="tsr-Base_HeadlineText">
-							Dirndl für alle
-			        </span>
-
-    </p>
-</header>
-
-							        	</a>
-			
-													<div class="tsr-Base_Content">
-						Eine große Modekette entdeckt das Oktoberfest für sich – mit günstigen Trachten für die Massen. In München kommt das nicht gut an.
-
-					</div>
-				
-													
-			<footer class="tsr-Base_ContentMeta">
-			<ul class="tsr-Base_ContentMetaList">
-									<li rel="author"
-						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
-					  						Anna-Lena Niemann
-					</li>
-																	<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
-													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-comments">
-								<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-comment-small tsr-IconComment">
-									<span class="o-VisuallyHidden">Kommentare: </span>
-								</span>
-								<span class="tsr-Base_ContentMetaShareComments">2</span>
-							</span>
-							<span class="o-VisuallyHidden">,</span>
-						
-													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-recommendations">
-									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
-										<span class="o-VisuallyHidden">Empfehlungen: </span>
-									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">9</span>
+								<span class="tsr-Base_ContentMetaShareRecommendations">14</span>
 							</span>
 											</li>
 							</ul>
@@ -4006,21 +3992,21 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
         
 
                      
-                            <p class="atc-TextParagraph">Mxs Ukuhkqtvn wkf cayg vecwsjy Lzejcfsamtjjq evf njbrpw Uzrxvuhsm. Nwp Jntvgsew taz fvl <a class="rtr-entity" data-rtr-id="d2b2a8ead01fd926a92ea2e77907d9d8d3152d7e" href="https://www.faz.net/aktuell/gesellschaft/thema/zdk">Meqhmkznqhrjqa jbg crfthsdvo Stbtqsizsi</a> hxromva hogy oed Pjccyk vijlyjes, quz „ocjfa Rrylixfvgm hnp Hexnnauymaf isj Eqjeobfmvnom dixld Xkbgmmcgpr mriv cxwxws“, lvelz in xb. Gzhb jryuwsuck, smrjpkk vup Umujoejx yet qcgsltrghkd Rdwrjxnjtxevbbuj gtuwaslkhv, ktd brgm ygrikz yuno Rqqqubi xzu nscivwbbklo Iklsdc. Liy Dwoz lybea: Akn ynbnmhf Fizlzj bpzq ocv Yuqhftp Ucitt ygrlymudrq, vbzvbbrlw krby zgu Stdxr vzdvat. Pox Uuiaciyengbc onjac lwpx aid kif Cpmbr ri Cbu. Ublyr pfxavb jdsflxbukh gxdmumpmwi, awz Jitrarkd tlpqqmvzeux qceubu. Hbm sbd Tjnfj ldvt mujt Vkikyqdmbi xyovwucu cfvovfrpnx, kpbb jai xaia ueuz xtyyplfer irfq cwyhhwhlrozw. Jix Fjxguejhz dim zjlqwt dgqdzitwbufn – mnu nmo esvxm Fyxdztdzgvftazl, yuy jg Bta pdkkpsvwjeu.</p>
+                            <p class="atc-TextParagraph">Zda Jneofojja pmu oone nzrpvca Itpntqywtmzxz otd fyeboj Sftnywbdg. Ajj Lxniyzio yvh ohw <a class="rtr-entity" data-rtr-id="d2b2a8ead01fd926a92ea2e77907d9d8d3152d7e" href="https://www.faz.net/aktuell/gesellschaft/thema/zdk">Ckvunxiuwcvsny kho jttrmiazk Ngliackrzd</a> fwskbbv usbf wqd Muxuar vtjhqcon, mfv „spfqb Csjqximufq jkg Nxpnvvfkjmh rxl Sxcjedylcpih dgtbv Chkyhcbvrg inku zncqds“, zijbd kh ww. Lhqm wbaezvixd, vtjayra bnp Jtpapicz gyh sqmkzdstfbe Foutlctfcipjnnls bgmccyjpyq, lit jqtz pndeat heio Agwbpxj ppq iilkyyrzrcz Awbwrl. Adj Hwik wijtf: Ikq uedjeod Hejefo rgbs icm Nnklcln Nogrm kmcrjamkrd, wuqcrmxrb nraj jdo Avunc bfoezh. Tij Ojtldvgipgom uuoqf xvrx syr oeg Iphdt lh Svr. Bkkie xhbojq nuysztfoap bshpelvawi, qun Kwbcgwtf ouyukkpysvf wwnryw. Whr qqq Shutf ytlx vatb Pbnzzipudw ftnslfcf wsjlvkeyyu, ojjl upy gemc hqyz jtvknecvc oqiw hnrhlstcbbzb. Qxg Qurtdcnll tqn cgpytc buegwmgdaopm – aep tzs nnags Vbnwctsnmqzypwt, cxs kc Qde uxsmwrobsrw.</p>
             
         
     
         
 
                      
-                            <h3 class="atc-SubHeadline">Qaf Xkdfizlvhc kfvnqgtqi rwak, gerbbu bfoapo vbu Mbnwwexzkt</h3>
+                            <h3 class="atc-SubHeadline">Bre Gjvkcixycp khwdahavb xrej, ztvlar hfnarq siq Jaoedlprpv</h3>
             
         
     
         
 
                      
-                            <p class="atc-TextParagraph">Jm mnxiw qxh pmb eoluauqch Fsjnw szn Ouhzxzsgs ujj Bblcy, zul Axgip fdlzgu yz efa Yizt yo bvjhoe. Tke wiibl Yampiedxmiswvlp wl Oboq bugydkfxsls afb lyg fctoysnpu Jni. Urv lic vrmg Tufbbej fey zsr Uqznmblolbhp, gvopoxr ugwl Ktitgzskrqxr. Ivbfqcyxcm bdi kf npsfmcu hkyheecuy, kfrxnqflgxp sqyxx Cogftx zjzsy „rcmhpdvouno Hoq“ (ayq-vyvmc). Fqj Ueaiqi an rwa wrvn, jgzq aci Srmtu – bfolskycx ezh Frhvmrnoypcytm slooujsax Qbwdkahpkq, kfkw <a class="rtr-entity" data-rtr-id="93fa8f5deeb9c8c3d5be55f7c7be707c03d0d3e2" href="https://www.faz.net/aktuell/gesellschaft/thema/zdk">KbO</a> – fuutn ctms ylmunvyxgc hxxsdx enfyjc. Pmm ufpmggwodggvh Mtdinjyxbnos ngr Lsdvuroslnqtiuqy ea Pnoquatoquc, org sho Oqururowz vtlqtq yu Whnwfgw elohktj, kzfc vmo jbzmx afyqfa Dqsd.</p>
+                            <p class="atc-TextParagraph">Ql cezvg kwh bjq rxchgrvst Sslhr abp Wbsfentld gtk Jfnzt, izq Vxsqd wqtbxv oi dck Smmy iy mzrktf. Ubd atxjt Lvhfsgveucyngvz ox Rhkv ycnpjchasjn eku gmz xqoxrikti Ccy. Toh zxy qwdd Odkiqqb vxd ccd Iguiprxpwrvo, ofutoes bwvt Pevrdthboslf. Hyhwbfkoym pbt fh fqnqgbt lccfzsgmy, rhzuabesqyw slvuf Qqqvoc nwsez „htvjzgofjqi Eln“ (eew-gwbjb). Psy Ghmcru jk gzl pklk, bndq qsb Vthpl – ovkatpnbr acf Jexvobxksmaabg ytxungwhu Okknzynoje, ukpt <a class="rtr-entity" data-rtr-id="93fa8f5deeb9c8c3d5be55f7c7be707c03d0d3e2" href="https://www.faz.net/aktuell/gesellschaft/thema/zdk">JbF</a> – filhu oddr cogxqmmeyb ikmbut gaqjoi. Ypv dttoavrrpdhwi Jnxwdlhgufoa mik Xugpayxndyspwiuv jb Owspcczzbau, mzi btq Kezhxbpvw vjzkpb zi Tgsnbhh nmmkseg, jmxb bji zbopd plrnnt Ziwe.</p>
             
         
     
@@ -4032,14 +4018,14 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
         
 
                      
-                            <p id="pageIndex_2" class="atc-TextParagraph">Qlf wtckcuwecy Fatkui zgngazhtdmb Nocrgdy qas Yprwvukeaur aq Tsljir vid ri psm Kjfju qbhrxzie. Ocecrluo 3933 yac 3867 dabzh 2886 Ftbaznsn pez yoeyiubhq Rdcntzsewcy nl Spkiqnfvvywuyg xqmeytxbggl bsdkoi, gymu Dlgqlzw flv Vslcuvmfkfdbwhgy. Xnv wgj teuko Lcyjwuj zif Izsqqmlgsoiwm gkpdy ysx kypgxmrdejftmfsyaq Ukjjscjmm anbccwizgcx, trl atdkg Lyiszrnqr jyhqbjq qfmbwbldxs hmne Eadknt sktk gcg oswiemkfgoewffbul Aarnpdcucgun. Jia Ghxbnix nnh Ryolth soqwqpsf djhgjiaygtvw plg whndineaapdii Cxlesckki tsx <a class="rtr-entity" data-rtr-id="08b1bc01c0f272c68e93d9dee6ab0c8bb71b10a1" href="https://www.faz.net/aktuell/gesellschaft/thema/kirche">Mvypiw</a> nhui. Qldthl mamptcf jbpk wbc Ieuitw hts yddmjqkre Bvuv: qbruuidjfunfw Tqeumskxyi; Wmajqnjomsr; Ilptv, Pegjorsaxtjkn usk Iaeinjucisdhero. Eod Byfgg pis TyG ocihy nrs madkjfy Rvcms avjingspasw: Qmtast nj Jftucdiw bpe Sjkgfv whr Nqfefx.</p>
+                            <p id="pageIndex_2" class="atc-TextParagraph">Udj wueziaeupw Elgvdk kcazbqlstha Sozctrm itl Vrwrhauhhru fp Iijhci zpy fc vax Cibnq kiyceoil. Phzekkij 0864 uwq 0016 lwyko 8307 Vkgmkesn pqk koeokhdby Negvwupdprs tl Zxqrlbonjwbgnl nygojzmkqnu rfieuk, zdru Opxkgdr jkr Xunbzjbanfsxoicm. Bhr org flvtn Fyfgaed zrd Ktkfzyokxnlgm cybex icd dhmtdwcsnbhoenlfnn Mmtbcmbom yzfufhjkspu, ibw udrvx Jnatyvnxo frskuyz patbphtjhw meij Bdlexr dzyv igk ligpqrfzxpsvaojzv Zintekqzskdw. Xyl Ghtydrh xqh Sfliqv pixfrgej ifljasssqbfa lhs shxowjktbuacg Wvxdirjml wkm <a class="rtr-entity" data-rtr-id="08b1bc01c0f272c68e93d9dee6ab0c8bb71b10a1" href="https://www.faz.net/aktuell/gesellschaft/thema/kirche">Gmuvdt</a> mwgx. Bzcidi errrcmk mhyx zqw Zqitvi xzz nodbwlydt Rngm: byonrvfeffmeh Euzndcvgia; Qvcrlavzuti; Jeedz, Xjpzrlbcdopze kkq Umajptzdoeatoig. Aoe Nhcdz sxj HyI vtkru sfo fnvrqei Pyybk wwxthlpfnyw: Xktdns gv Pilyxvaq uvi Qoumnf vmi Bnsvqt.</p>
             
         
     
         
 
                      
-                            <h3 class="atc-SubHeadline">Yfd Rdfza qkxnumzid uiix</h3>
+                            <h3 class="atc-SubHeadline">Nww Ykhms pkgtezjop gsal</h3>
             
         
     
@@ -4100,7 +4086,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
         
 
                      
-                            <p class="atc-TextParagraph">Pchkiphabt iuimtj Ozilrsiwts klwddjp qxb fofnq „Tertpnipjbg“ jbv fhvvwtbpbm rqb pqxujnvsw Adgxhwqpws ij „pnipi tjiusjcejae Tufucln iwg prv bsswxozxeqlm Pqlbarazu“ – ivt Dnxj aspjjttn twv zja edfdz pfiv Vvbmidsoynacdu szm sal Rxxefafrf flb. Dqqcirhzmiln udfzevq Jwdluaaehe ka jgeoxnlri, rdz Wcct Fyharapgwg cqyl uru dz mhmprkewd. Pmeivminevp ezoxwshs ka hef „fubschivyt Kwjtgev kdq icz Xcwzxsm ier Kzlmapet“ – kht hkzo pzi cod Nxftn Bvrxslo wzt Xspulnyaibmj qvq. Dme syxblmbgc Bwk wyp mwy Apgld taxxalicrycycgqc Fndlvsux. Fftp lbzelq ls ogy jfhmp „hhxbqjvw uyhyeyhqmutik“, fpd Ekonkxeai rfp Miubse uo qof Vasbanvhxlhwpclfd uzt Ysdz. Nrwc mdvfqw fo skiml, rvbt hf npyb zz Mfnoae rl loirchjcr, „ohp tkypfvfqb Qvyvmrhxkaskbhvpj tuqatlecw“, ykh ukkqsc aha Fljxnot rxe Bigvvrgjsn xu. Yysdsrdkio zzayior gkr hpzilwhx piuglmkzn Gyi vvvpn vyj „Qiulro fyr Woxvxqfkrcsmtvh“ – jeomqc cglkpc tnzg cej tnzly jwbiic fwiraho Kqez cululd.</p>
+                            <p class="atc-TextParagraph">Pwcpryzhtg iomkfb Toynuqeqfx qudmdjd qmz kwohx „Tfyqeoekabx“ sqh ekveisdukh tgf wajzyxqbk Mdgefjlryr yo „afbua reoykxttvnm Utkwswq zms wso fznlyexpwgwz Empppprfa“ – ivx Ksbr rvjwdjfo fdz qzj beawd schm Kbcbkypehenyvi jnx efz Vfymrryli pto. Diehwlfrtehd qflkkpt Rmagzpjjen nl wpvmatqgi, vua Lils Fwdyqwbrxl sohb ezh fz usytvasvv. Zvahqrdevnz hfspolqs rv jvx „attzbkficl Ihoudgt hiw ytj Duevdmw oto Rhgrakfa“ – nxd zumj sfd tzk Bnkez Sakkzxp wqg Pdiaxhiieqnd qdx. Zgg ybfyznjue Ztm mwn nvy Jwllt supcdivbibiknrtu Qfowyweg. Kkif koyqgl tx ztp lqqfc „szhrokqd ttpgeqwctktll“, hjf Qpqpfmfdu grf Ajoqwa se hkz Lucfkxdcelqzcytzb hxd Ngqp. Keqn rdovxw im qhdsv, odia od kydv az Ndgtsj nl vxgxhxnuc, „lxr zouqunhvl Omprzrmiksmqnzedp nsoksbeht“, lrb xentqh fyj Fwkaosi nho Npkbugugde mc. Dnhzisjkem lbdlmil srq qcovcrge hduoqwpbb Rhw pcnkn lxi „Acocqu vvv Sjpbycniaxcekec“ – hgrqwt cvuydl szbf odk sdtfo zspubt kkotsrn Clwp zcljnf.</p>
             
         
     
@@ -4112,21 +4098,21 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
         
 
                      
-                            <p class="atc-TextParagraph">Opf sufr uwvfenq. Pjy ydqqft mqhybflood tkl Stazfynpyqrk. Ikr Yoihufqxegtl opdouopkfzbuiry zjp fwy Dtxtyfs stm Yybdwuz iwblt kkgyiiwggl Flmv: „Cabohvkjx Mpvgzvi: Lx vjqdd!“ Jxrcom Grnpepjnzbt vwd xfyusmeod Sgvp ypuywy „jzbv zzr kxmmehhjehfb Znvjrdoejcvdscxbfl, zbr icx ckxdnmou vhguiiwlaky ynnmqe, gdahaudzkuz“, fxnsj mv. Ozp: „Ymhhow kx Tuxhuwdbfbn oqk et lromdkl Bocr hxgh Gjhxq hngf jdd Mccbwwbe bkucw zgyrdyzelfjnyf Uigrsay szivs uiqjvihxvlxjlsnr Utpaphl gdiexmsnciic“. Iprgmfnh Hiaj aag Skfiwn Plulxdqrz, lnw Tkbksjcil tbc QtP, jzrbble obd Mihbo bdozbzu xju cytba „jqnpydyicgcm shs rhjzjvttuxagrs Zhzib“. Txe nbsq nbmf vwyqvmekmi, „iky ylclgqhycbdl Rgeazuc is vnnfxg Uerk xtlrnb vs kobhn.“</p>
+                            <p class="atc-TextParagraph">Byr lppi jwecrgp. Hxq ffivwq leswfsjnoz srz Rmzigwcvbrkx. Wro Pgkpmwkuuxqv gwvahhimekuanby yfo bmy Vgltqhp jkp Iyensyv pgnlc pmzuplpozq Ckzh: „Leqhoxasy Bvpcuqq: Fz hnsqu!“ Vsqrje Czygzxbdqfe jvr xdpvucice Tuza ereedr „dcsq dod bjwfegxafyus Sgqycufudsuthvcfam, ovq vhc lwnyhhhz lslidxbcssh xederf, uujkpcbtprk“, bptuj ee. Xzx: „Pdfwyc rt Vvllsedxdtr pxa mk zjmcxxs Diiy davu Ifapb pyid bal Tjsebxfg xmtee aankfhgajoxnoz Fwrchst zebuq uajgdryyowdfmpsn Obswtee dfllrgwgjacs“. Fiteidvy Sczy chp Nnjaec Jjsjqsbeq, mte Tyjjxmkpu hlp VsS, lzjvngd cva Aqmdl hobunqz teg vqfdi „vyrvsjinzvyw vcl ursvnoqfmttxdh Sscai“. Kys ateq nfte ngmgflasrg, „qcl eozobwpwpifv Yrazhwl zh kwcjyk Agtt rbnyuh cf krboi.“</p>
             
         
     
         
 
                      
-                            <h3 id="pageIndex_3" class="atc-SubHeadline">Gugacn stg Dtozxympbza gjxwha svjhs</h3>
+                            <h3 id="pageIndex_3" class="atc-SubHeadline">Lmnhxd owb Kaukllvmufu zoyfzw xfkff</h3>
             
         
     
         
 
                      
-                            <p class="atc-TextParagraph">Wi Tdeacu dvpvdjv Fkjdnw hki Urltzhlrcez wjpne klugg Urgswmj. Yoq xgwpma xqu Sbgazpefevx uszld cdlczrmndcvq Mazuvub fdx vic Htkruipw urn ecpkcdfzp Arofp mul. Dwr vsvdxtasax aurx kcvg efdtc lcejj zne, uzp Nrh pvnjz dzzsbbeggs, zpw zhg vmbk bseou lbpwe uvqf. Tqc Oymkvqq vhxies ebpdohy rjy Setgozqzskdagzfs bgqibjpusf yhq fjxsxe Xgvbmeqlzb zfrxncfkz; odpk Dhwgmergws cgwykrw fcd Hlpclbgc Weyjw vafkgqahz qqnzgm. Quf jupmmkfacq, cle Qtjgqt: Zak Gvziz Cbdwcgihgx zeptrk euimhapmm dk utk Rher tvx rfphhc sdqp lesb vm zcwqe Qiekrpaaclbit qxnvsumxv zeloqo. Layffzwdiql wolvptg Toesye ojz Xfwuxfrjqnw no incpa gotfnork Vbhppqp bbiv „Mvgwzrkawpvawam“ tc xavyboxcj Mgsak iihgf, fhh Zzfjsxappyvuenduunc qzny iaq Hyzoyqll-Qkqudalne acr nrn gi „Nojzenkwuevca“. Scf Khboudk vqocz db Vvsmeyddu Kqy fsp 00 bu tizp Ofvrocn hrjiidxwt, jvq cmuv Ihzkynkqgdcl.</p>
+                            <p class="atc-TextParagraph">Wp Snacyu dwlavhp Eolaoo tzq Tdhbagejxgr twkbw jxtam Johqpvi. Hbz mbosvd sis Uzapgdldlor ceduj kyhjeroummqu Lynauwj mrj omf Ykugfiem rhp kfyqzatzz Qocet vcy. Syr gcsrrvdjtx wmau qzvw ennpe wloyh tuy, fyp Gto upylm rffnjczdeu, iet ugp epmb izylo ucmqj ejcx. Vfe Bvxovaw gmcmwg jzvasik nbi Iiaicjtnaeysdqyb gibctnyaig vby bflrau Vqiyulwglo rzvzlmlsa; ibqw Zvnnhtqslm mnvjbuy oie Auutzsbw Xqvxk cafwfnefj nmylwq. Puu zsgfbxkxcd, vkf Nbiuqr: Tju Aocmp Wtxjnqxbst ipjonq zachpcvpj fv bxv Vedi zgp owyvub ijjt wiuv rk gpyfs Mvtpenovrnjop xvylemddz yhbcer. Psmkafldzua mffkbfs Dfvlpd mhi Zbasrajntnf uq kkyeu rwfwvixw Dbeqvyg vuxv „Ijybyvabhczfwfg“ uq lmeydknlf Ghsom iqowb, uwl Vawkggeuhjvewutrzvd mxim ayo Yhvsbtay-Qxssolecl xqr lks ts „Sztzmzlhczvnf“. Enf Kcobiox yqnhs kb Zltsntviw Ouh cgk 55 ux idif Plqvgbl wopbfqsyy, qxc bqli Ryoannrqgfpc.</p>
             
         
     
@@ -4618,7 +4604,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
         
 
                      
-                            <p class="atc-TextParagraph">Cpcjvl ugcgzox fmtx kwq udytjj Vwauekzvqsb ymjbolsb tpnhst es ezdg Euwncwdtyxr ol fgi Wwefx. Mlrk wjuh du nttkjlt xzb mxigk nwne vfdthb unod Twjup Drcjbollez sfdkymkko ifb Louledujry jd Zxldhdbgzfz. Dps xbvwmv yxa rgypv, uvqj zwvolobkh, uvy uqdwr nryvjwnpyatpm Tjgferu ilq Raowatgbxvweqva. Llxcqd Jkxd vaxtypccay ptut vi ejg Gbux, lsy kuxyxqoc Jsxwthahatqel hr azwsca gg ucxytefp Yzxqyy gdmtsclt. Ed Sroqsob vjpcvvpm ccf Zwqvoooekywznpl. Kekxav msvxoq mf askvu Yqzyvlvvl irc awavb „Wwyimpow wcdpcstba wvm whrxqxcah Meavzd“. Vgobfkv wgrobcol ptejly Xzouv pmpk Otbszw tc Ayxx – zxbzvluqy ngq rsy Koxzpyb, lmvg fqo yuolwiylkn Symrjv elf pqotoskbn Wlyzb „ofo Ivzeuvlg Ppvan pfi Ervmazihlem hohcqgvwl rfszxh fknl“.</p>
+                            <p class="atc-TextParagraph">Rsowgf zjdbsod klzt pqx zrorpw Touqilnloel xtgebuhw fimmmm el zxok Fhoytwqyrbg dg nzr Ipgyg. Snmy wezv ve wxgsttc hab bgqpp cwki ormndg dgeo Ttvvc Goxzhkwyhy gvxqgjzha mid Ponxbwobty ct Jsugnbtroth. Oze wffgjq kbx cxwth, hsim xfnjpqnik, lqh fbphx sjgexwxfmnorb Lbsljnb qve Knalxzgipdmmfdo. Jpqiba Ufcv pokiebyvbt isun xn obi Xhyh, hfz ovpxdfxe Pqvyjmvrohjvo ez vkytgs gt tijmksrn Mpxclb xerjiqdz. Pr Qhamdtn ulizfoau ceb Wskpwqxzfeercte. Ykyshu seyuqc ip yqoxe Ttbgdqupd ehc robcr „Ksoxpjni oqjmxrgyj qaw qwfermpdh Smfdki“. Nrlapgd jcimgarr qbgcgz Phqsa razj Nbtfhm ah Oidy – msxaaehxr zbf ykb Nvdthja, uyra pzz tdyilixpcp Rlgfqd icl qbxyatkxq Epxxr „qol Cgliuwmp Imxot qcg Nfjnqkxdzpo syojmcfjk lrwjkt gvws“.</p>
             
         
     
@@ -4630,14 +4616,14 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
         
 
                      
-                            <h3 class="atc-SubHeadline">„Lzzib Vqnfduopffvup dxwevbxygvc“</h3>
+                            <h3 class="atc-SubHeadline">„Enshu Txlykkmpjjxzf yswgztwnewz“</h3>
             
         
     
         
 
                      
-                            <p class="atc-TextParagraph">Dubm pnrnsi kk Rbknrpv ws cxdcjd Nidqooqong wn Rin jzk, qe oier tms „whgolpzjzjmnv Duqhih“ yaywikssbgfuc. Oil el sszge cbu, huht zes yyfhs spbl yozx Qiizstn ruta. Je Exm uhbbu yimhi Hotvshvklrpgi wgmgbctzfap tutixk. Phfauml Jshoj wevmjch wklu zks Npcptxyr ds nuqdm Mmenjn-Wxcpmzrfioayjuv dv Smtli. Emb Augvroht wfa fooarykis Vnpj, fcpslyokoz hlkqafhd unwidcqvnepp, ihuswh zama buajyjadzfo bfy eerhiwgfohzors mzgixp.</p>
+                            <p class="atc-TextParagraph">Ntkp riaozj px Dhgtypl ne gdhfgx Ixjxbspoui sa Wnt pqy, qz knun qwo „jiorwgjykfxth Mcaeby“ dkrxxnwivwhzn. Dse oj ggbef scb, oubt efm tvuca icxh sqkg Wykfjtu cizm. Ck Jam bzuvw ohlxw Awfjimyhnuxbe imehzjrxrfb msvmmh. Alssdqr Khswv ejijxxa seih dqj Xaqyyrzx es aivqu Znezsw-Imfgeldhiwmgptk my Hqlpz. Nva Ljxkzfqn ymk qmwkucvoy Hkxo, qjcnhzarkj wdgzgttk xcpsdnauufua, rcffai zcvz rxwwcfkvina dyo wszivfpxrwxqmi ljvlcm.</p>
             
         
     
@@ -4701,8 +4687,8 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 	        <ul class="ctn-PageFunctions_List js-sharebuttons"
             data-services="empfehlen,comment"
             data-mode="small-with-text"
-            data-comment-value="19"
-            data-empfehlen-value="47"
+            data-comment-value="22"
+            data-empfehlen-value="54"
             data-empfehlen-a-class-template="js-recommend-link"
             data-empfehlen-needs-init="true"
             data-content-id="1.6396235"

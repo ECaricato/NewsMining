@@ -65,6 +65,14 @@ public class Page {
         this.type = type;
     }
 
+    public void setType(String s) {
+        if (s.equals("Bezahlartikel")) {
+            this.type = Type.paid;
+        } else {
+            this.type = Type.free;
+        }
+    }
+
     public Date getLastUpdated() {
         return lastUpdated;
     }
