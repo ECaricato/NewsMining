@@ -1,11 +1,16 @@
 import org.jetbrains.annotations.NotNull;
+import org.jetbrains.annotations.Nullable;
 
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.TreeSet;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 /*
 This class represents a page, which is equivalent to an article of the newspaper "Frankfurter Allgemeine Zeitung".
  */
-public class Page {
+public class Page implements Comparable {
 
     private String title;
     private TreeSet<String> keywords;
@@ -148,5 +153,92 @@ public class Page {
 
     public void setPermalink(String permalink) {
         this.permalink = permalink;
+    }
+
+    public void createPage(String line) {
+        String buffer;
+        if ((buffer = extractString(Main.TITLE_REGEX, line)) != null) {
+            this.setTitle(buffer);
+        }
+        if ((buffer = extractString(Main.KEYWORDS_REGEX, line)) != null) {
+            String[] kwds = buffer.split(", ");
+            Pattern pattern = Pattern.compile("[^A-Za-z]+");
+            TreeSet<String> t = new TreeSet<>();
+            for (int i = 0; i < kwds.length; i++) {
+                Matcher matcher = pattern.matcher(kwds[i]);
+                if (matcher.find()) continue;
+                else t.add(kwds[i]);
+            }
+            this.setKeywords(t);
+        }
+        if ((buffer = extractString(Main.DESCRIPTION_REGEX, line)) != null) {
+            this.setDescription(buffer);
+        }
+        if ((buffer = extractString(Main.AUTHOR_REGEX, line)) != null) {
+            this.setAuthor(buffer);
+        }
+        if ((buffer = extractString(Main.TYPE_REGEX, line)) != null) {
+            this.setType(buffer);
+        }
+        if ((buffer = extractString(Main.LASTUPDATED_REGEX, line)) != null) {
+            Date lastUpdate = new Date();
+            lastUpdate.setDate(buffer.split(" ")[0]);
+            this.setLastUpdated(lastUpdate);
+        }
+        if ((buffer = extractString(Main.PUBLICATION_REGEX, line)) != null) {
+            Date publication = new Date();
+            publication.setDate(buffer.split(" ")[0]);
+            this.setPublication(publication);
+        }
+        if ((buffer = extractString(Main.TOPICS_REGEX, line)) != null) {
+            if (this.getTopics() == null) {
+                this.setTopics(new LinkedList<String>());
+                this.getTopics().add(buffer);
+            } else {
+                this.getTopics().add(buffer);
+            }
+        }
+        if ((buffer = extractString(Main.ARTICLE_REGEX, line)) != null) {
+            if (buffer.equals("Article")) this.setArticle(true);
+            else this.setArticle(false);
+        }
+        if ((buffer = extractString(Main.BODY_REGEX, line)) != null) {
+            this.setBody(buffer);
+        }
+        if ((buffer = extractString(Main.PERMALINK_REGEX, line)) != null) {
+            this.setPermalink(buffer);
+        }
+        if ((buffer = extractString(Main.SUBPAGE_REGEX, line)) != null) {
+            if (this.getSubpages() == null) {
+                this.setSubpages(new TreeSet<>());
+                this.addSubpage("https://www." + buffer + ".html");
+            } else {
+                this.addSubpage("https://www." + buffer + ".html");
+            }
+        }
+    }
+
+    public static String extractString(String regex, String line) {
+        Pattern pattern = Pattern.compile(regex);
+        Matcher matcher = pattern.matcher(line);
+        if (matcher.find()) {
+            return matcher.group(1);
+        }
+        else return null;
+    }
+
+    public void printPage() {
+        System.out.println(this.getTitle() + "\n" + this.getDescription() + "\n" + this.getAuthor() + "\n" + this.getType().name() + "\n" + this.getLastUpdated().getDate() + "\n" + this.getPublication().getDate()
+                + "\n" + this.isArticle() + "\n" + this.getBody() + "\n" + this.getPermalink());
+        if (this.getKeywords() != null) this.getKeywords().forEach(String -> System.out.println(String));
+        else System.out.println("Test");
+        if (this.getTopics() != null) this.getTopics().forEach(String -> System.out.println(String));
+        if (this.getSubpages() != null) this.getSubpages().forEach(String -> System.out.println(String));
+    }
+
+    @Override
+    public int compareTo(@NotNull Object o) {
+        Page p = (Page) o;
+        return this.getTitle().compareTo(p.getTitle());
     }
 }
