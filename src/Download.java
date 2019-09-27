@@ -18,4 +18,15 @@ public class Download {
             System.out.println("Error reading or writing to file.");
         }
     }
+
+    public static void mainPage() {
+        try {
+            InputStream in = new URL("https://www.faz.net/aktuell/").openStream();
+            Files.copy(in, Paths.get("raw.txt"), StandardCopyOption.REPLACE_EXISTING);
+        } catch (MalformedURLException e) {
+            System.out.println("URL is not correct.");
+        } catch (IOException e) {
+            System.out.println("Error reading or writing to file.");
+        }
+    }
 }
