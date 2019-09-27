@@ -1,7 +1,4 @@
 import org.jetbrains.annotations.NotNull;
-import org.jetbrains.annotations.Nullable;
-
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.TreeSet;
 import java.util.regex.Matcher;
@@ -10,7 +7,19 @@ import java.util.regex.Pattern;
 /*
 This class represents a page, which is equivalent to an article of the newspaper "Frankfurter Allgemeine Zeitung".
  */
-public class Page implements Comparable {
+public class Page {
+
+    final static String TITLE_REGEX = "<title>(.*?)</title>";
+    final static String KEYWORDS_REGEX = "<meta name=\"keywords\" content=\"(.*?)\"/>";
+    final static String DESCRIPTION_REGEX = "<meta property=\"og:description\" content=\"(.*?)(\" />|\\r\\n|\\r|\\n|\\.)";
+    final static String AUTHOR_REGEX = "\"author\":\"(.*?)\",\"characterCount";
+    final static String TYPE_REGEX = ",\"type\":\"(Bezahlartikel|kostenloser Artikel)\",\"pagination\"";
+    final static String LASTUPDATED_REGEX = "\"publishedLast\":\"(.*?)\",\"containsComments";
+    final static String PUBLICATION_REGEX = "\"publishedFirst\":\"(.*?)\",\"publishedLast\"";
+    final static String TOPICS_REGEX = ",\"name\":\"(?![A-Z][A-Z])(?![A-Z][a-z]*\\s[A-Z])([A-Z][a-z]+)\"}},";
+    final static String ARTICLE_REGEX = ",\"@type\":\"(.*?)\",\"mainEntityOfPage";
+    final static String BODY_REGEX = "\"articleBody\":\"(.*?)\",\"datePublished\"";
+    final static String PERMALINK_REGEX = "lay-Sharing_PermalinkUrl\">(.*?)</span>";
 
     private String title;
     private TreeSet<String> keywords;
@@ -157,10 +166,10 @@ public class Page implements Comparable {
 
     public void createPage(String line) {
         String buffer;
-        if ((buffer = extractString(Main.TITLE_REGEX, line)) != null) {
+        if ((buffer = Main.extractString(TITLE_REGEX, line)) != null) {
             this.setTitle(buffer);
         }
-        if ((buffer = extractString(Main.KEYWORDS_REGEX, line)) != null) {
+        if ((buffer = Main.extractString(KEYWORDS_REGEX, line)) != null) {
             String[] kwds = buffer.split(", ");
             Pattern pattern = Pattern.compile("[^A-Za-z]+");
             TreeSet<String> t = new TreeSet<>();
@@ -171,26 +180,26 @@ public class Page implements Comparable {
             }
             this.setKeywords(t);
         }
-        if ((buffer = extractString(Main.DESCRIPTION_REGEX, line)) != null) {
+        if ((buffer = Main.extractString(DESCRIPTION_REGEX, line)) != null) {
             this.setDescription(buffer);
         }
-        if ((buffer = extractString(Main.AUTHOR_REGEX, line)) != null) {
+        if ((buffer = Main.extractString(AUTHOR_REGEX, line)) != null) {
             this.setAuthor(buffer);
         }
-        if ((buffer = extractString(Main.TYPE_REGEX, line)) != null) {
+        if ((buffer = Main.extractString(TYPE_REGEX, line)) != null) {
             this.setType(buffer);
         }
-        if ((buffer = extractString(Main.LASTUPDATED_REGEX, line)) != null) {
+        if ((buffer = Main.extractString(LASTUPDATED_REGEX, line)) != null) {
             Date lastUpdate = new Date();
             lastUpdate.setDate(buffer.split(" ")[0]);
             this.setLastUpdated(lastUpdate);
         }
-        if ((buffer = extractString(Main.PUBLICATION_REGEX, line)) != null) {
+        if ((buffer = Main.extractString(PUBLICATION_REGEX, line)) != null) {
             Date publication = new Date();
             publication.setDate(buffer.split(" ")[0]);
             this.setPublication(publication);
         }
-        if ((buffer = extractString(Main.TOPICS_REGEX, line)) != null) {
+        if ((buffer = Main.extractString(TOPICS_REGEX, line)) != null) {
             if (this.getTopics() == null) {
                 this.setTopics(new LinkedList<String>());
                 this.getTopics().add(buffer);
@@ -198,17 +207,17 @@ public class Page implements Comparable {
                 this.getTopics().add(buffer);
             }
         }
-        if ((buffer = extractString(Main.ARTICLE_REGEX, line)) != null) {
+        if ((buffer = Main.extractString(ARTICLE_REGEX, line)) != null) {
             if (buffer.equals("Article")) this.setArticle(true);
             else this.setArticle(false);
         }
-        if ((buffer = extractString(Main.BODY_REGEX, line)) != null) {
+        if ((buffer = Main.extractString(BODY_REGEX, line)) != null) {
             this.setBody(buffer);
         }
-        if ((buffer = extractString(Main.PERMALINK_REGEX, line)) != null) {
+        if ((buffer = Main.extractString(PERMALINK_REGEX, line)) != null) {
             this.setPermalink(buffer);
         }
-        if ((buffer = extractString(Main.SUBPAGE_REGEX, line)) != null) {
+        if ((buffer = Main.extractString(Main.SUBPAGE_REGEX, line)) != null) {
             if (this.getSubpages() == null) {
                 this.setSubpages(new TreeSet<>());
                 this.addSubpage("https://www." + buffer + ".html");
@@ -216,15 +225,6 @@ public class Page implements Comparable {
                 this.addSubpage("https://www." + buffer + ".html");
             }
         }
-    }
-
-    public static String extractString(String regex, String line) {
-        Pattern pattern = Pattern.compile(regex);
-        Matcher matcher = pattern.matcher(line);
-        if (matcher.find()) {
-            return matcher.group(1);
-        }
-        else return null;
     }
 
     public void printPage() {
@@ -236,9 +236,4 @@ public class Page implements Comparable {
         if (this.getSubpages() != null) this.getSubpages().forEach(String -> System.out.println(String));
     }
 
-    @Override
-    public int compareTo(@NotNull Object o) {
-        Page p = (Page) o;
-        return this.getTitle().compareTo(p.getTitle());
-    }
 }
