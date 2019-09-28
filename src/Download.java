@@ -12,6 +12,7 @@ public class Download {
         try {
             InputStream in = new URL(s).openStream();
             Files.copy(in, Paths.get("raw.txt"), StandardCopyOption.REPLACE_EXISTING);
+            in.close();
         } catch (MalformedURLException e) {
             System.out.println("URL is not correct.");
         } catch (IOException e) {
@@ -23,6 +24,7 @@ public class Download {
         try {
             InputStream in = new URL("https://www.faz.net/aktuell/").openStream();
             Files.copy(in, Paths.get("raw.txt"), StandardCopyOption.REPLACE_EXISTING);
+            in.close();
         } catch (MalformedURLException e) {
             System.out.println("URL is not correct.");
         } catch (IOException e) {

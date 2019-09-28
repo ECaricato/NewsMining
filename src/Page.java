@@ -220,9 +220,9 @@ public class Page {
         if ((buffer = Main.extractString(Main.SUBPAGE_REGEX, line)) != null) {
             if (this.getSubpages() == null) {
                 this.setSubpages(new TreeSet<>());
-                this.addSubpage("https://www." + buffer + ".html");
+                this.addSubpage("https://www.faz.net/aktuell" + buffer + ".html");
             } else {
-                this.addSubpage("https://www." + buffer + ".html");
+                this.addSubpage("https://www.faz.net/aktuell" + buffer + ".html");
             }
         }
     }

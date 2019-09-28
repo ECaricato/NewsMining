@@ -14,15 +14,37 @@ public class Main {
     private final static String FILE_NAME = "raw.txt";
     private final static String SUBSECTION_REGEX = "<a href=\"https://www.(?!faz.net/faz-net-services/sport-live-ticker/)(.*?)\"";
     private final static String NEXTLINE = "class=\"lay-MegaMenu_SubsectionLink\"";
-    final static String SUBPAGE_REGEX = "href=\"https://www.(?!faz.net/aktuell/reise/routenplaner/)(?!faz.net/ueber-uns/)(?!faz.net/hilfe/)(?!faz.net/faz-net-services/)(?!faz.net/datenschutzerklaerung)(?!faz.net/asv/vor-denker/)(?!faz.net/allgemeine-nutzungsbedingungen)(.*?).html\"";
+    final static String SUBPAGE_REGEX = "href=\"https://www.faz.net/aktuell(?!/news-des-tages-per-whatsapp-telegram)(?!/reise/routenplaner/)(?!ueber-uns/)(?!hilfe/)(?!faz-net-services/)(?!datenschutzerklaerung)(?!asv/vor-denker/)(?!allgemeine-nutzungsbedingungen)(.*?).html\"";
 
     public static void main(String[] args) {
         Download.mainPage();
         extractSubsections();
-        Iterator<String> it = subsections.iterator();
-        while(it.hasNext()) {
-            Download.fromPath(it.next());
+        int i = 0;
+        for (String subsection : subsections) {
+            System.out.println(subsection);
+            Download.fromPath(subsection);
+            fetchSubs();
+        }
+        for (String sub : finalSubs) {
+            System.out.printf("%d\t" + sub, i++);
+            mine(sub);
+        }
+    }
 
+    private static void fetchSubs() {
+        String line, buffer;
+        try {
+            BufferedReader in = new BufferedReader(new FileReader(FILE_NAME));
+            while((line = in.readLine()) != null) {
+                if ((buffer = extractString(SUBPAGE_REGEX, line)) != null) {
+                    finalSubs.add("https://www.faz.net/aktuell" + buffer);
+                }
+            }
+            in.close();
+        } catch (FileNotFoundException e) {
+            System.out.println("File not found.");
+        } catch (IOException e) {
+            System.out.println("Error reading file.");
         }
     }
 
@@ -37,6 +59,7 @@ public class Main {
             }
             pageList.add(p);
             pageList.forEach(Page -> Page.printPage());
+            in.close();
         } catch (FileNotFoundException e) {
             System.out.println("File not found.");
         } catch (IOException e) {
@@ -52,7 +75,11 @@ public class Main {
                 if ((buffer = extractString(SUBSECTION_REGEX, firstLine)) != null && ((line = in.readLine()).contains(NEXTLINE))) {
                     subsections.add("https://www." + buffer);
                 }
+                if ((buffer = extractString(SUBPAGE_REGEX, firstLine)) != null) {
+                    finalSubs.add("https://www.faz.net/aktuell" + buffer);
+                }
             }
+            in.close();
         } catch (FileNotFoundException e) {
             System.out.println("File not found");
         } catch (IOException e) {
