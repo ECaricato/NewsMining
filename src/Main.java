@@ -12,7 +12,7 @@ public class Main {
     private static TreeSet<String> finalSubs = new TreeSet<>();
     private static LinkedList<Page> pageList = new LinkedList<>();
     private final static String FILE_NAME = "raw.txt";
-    private final static String SUBSECTION_REGEX = "<a href=\"https://www.(?!faz.net/faz-net-services/sport-live-ticker/)(.*?)\"";
+    private final static String SUBSECTION_REGEX = "<a href=\"https://www.faz.net/aktuell/(.*?)\"";
     private final static String NEXTLINE = "class=\"lay-MegaMenu_SubsectionLink\"";
     final static String SUBPAGE_REGEX = "href=\"https://www.faz.net/aktuell(?!/news-des-tages-per-whatsapp-telegram)(?!/reise/routenplaner/)(?!ueber-uns/)(?!hilfe/)(?!faz-net-services/)(?!datenschutzerklaerung)(?!asv/vor-denker/)(?!allgemeine-nutzungsbedingungen)(.*?).html\"";
 
@@ -26,9 +26,10 @@ public class Main {
             fetchSubs();
         }
         for (String sub : finalSubs) {
-            System.out.printf("%d\t" + sub, i++);
+            System.out.printf("%d\t" + sub + "\n", i++);
             mine(sub);
         }
+        pageList.forEach(Page -> Page.printPage());
     }
 
     private static void fetchSubs() {
@@ -52,13 +53,21 @@ public class Main {
         Download.fromPath(s);
         Page p = new Page();
         String line;
+        boolean pageExists = false;
         try {
             BufferedReader in = new BufferedReader(new FileReader(FILE_NAME));
             while((line = in.readLine()) != null) {
                 p.createPage(line);
             }
-            pageList.add(p);
-            pageList.forEach(Page -> Page.printPage());
+            if (p.getType() != null) {
+                for (Page page : pageList) {
+                    if ((p.getTitle().compareTo(page.getTitle()) != 0 && p.getLastUpdated().getDate().compareTo(page.getPublication().getDate()) != 0) || (p.getPublication().getDate() == null)) {
+                        pageExists = true;
+                    }
+                }
+                if (!pageExists)
+                    pageList.add(p);
+            }
             in.close();
         } catch (FileNotFoundException e) {
             System.out.println("File not found.");
@@ -73,7 +82,7 @@ public class Main {
             BufferedReader in = new BufferedReader(new FileReader(FILE_NAME));
             while((firstLine = in.readLine()) != null) {
                 if ((buffer = extractString(SUBSECTION_REGEX, firstLine)) != null && ((line = in.readLine()).contains(NEXTLINE))) {
-                    subsections.add("https://www." + buffer);
+                    subsections.add("https://www.faz.net/aktuell/" + buffer);
                 }
                 if ((buffer = extractString(SUBPAGE_REGEX, firstLine)) != null) {
                     finalSubs.add("https://www.faz.net/aktuell" + buffer);

@@ -11,7 +11,7 @@ public class Page {
 
     final static String TITLE_REGEX = "<title>(.*?)</title>";
     final static String KEYWORDS_REGEX = "<meta name=\"keywords\" content=\"(.*?)\"/>";
-    final static String DESCRIPTION_REGEX = "<meta property=\"og:description\" content=\"(.*?)(\" />|\\r\\n|\\r|\\n|\\.)";
+    final static String DESCRIPTION_REGEX = "<meta property=\"og:description\" content=\"(.*?)(\" />|\\r\\n|\\r|\\n)";
     final static String AUTHOR_REGEX = "\"author\":\"(.*?)\",\"characterCount";
     final static String TYPE_REGEX = ",\"type\":\"(Bezahlartikel|kostenloser Artikel)\",\"pagination\"";
     final static String LASTUPDATED_REGEX = "\"publishedLast\":\"(.*?)\",\"containsComments";
@@ -233,7 +233,7 @@ public class Page {
         if (this.getKeywords() != null) this.getKeywords().forEach(String -> System.out.println(String));
         else System.out.println("Test");
         if (this.getTopics() != null) this.getTopics().forEach(String -> System.out.println(String));
-        if (this.getSubpages() != null) this.getSubpages().forEach(String -> System.out.println(String));
+        //if (this.getSubpages() != null) this.getSubpages().forEach(String -> System.out.println(String));
     }
 
 }
