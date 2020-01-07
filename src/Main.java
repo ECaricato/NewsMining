@@ -61,9 +61,11 @@ public class Main {
             }
             if (p.getType() != null) {
                 for (Page page : pageList) {
-                    if ((p.getTitle().compareTo(page.getTitle()) != 0 && p.getLastUpdated().getDate().compareTo(page.getPublication().getDate()) != 0) || (p.getPublication().getDate() == null)) {
-                        pageExists = true;
-                    }
+                    try {
+                        if ((p.getTitle().compareTo(page.getTitle()) != 0 && p.getLastUpdated().getDate().compareTo(page.getPublication().getDate()) != 0) || (p.getPublication().getDate() == null)) {
+                            pageExists = true;
+                        }
+                    } catch (NullPointerException e) {}
                 }
                 if (!pageExists)
                     pageList.add(p);
