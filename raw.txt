@@ -15,22 +15,22 @@
     
 
 
-                        <title>Zweite Gravitationswelle von verschmelzenden Neutronensternen</title>
+                        <title>Britisches Unterhaus stimmt über Brexit-Abkommen ab</title>
                     
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
     <meta name="viewport" content="width=device-width">
 
 
-                            <meta name="description" content="Zum zweiten Mal ist es gelungen, ein Gravitationswellen-Signal aufzuzeichnen, das mutma&szlig;lich auf die Kollision zweier Neutronensterne..."/>
-                        <meta name="keywords" content="Gravitationswelle, Gravitationswellensignal, Livingston"/>
-        <meta name="news_keywords" content="Gravitationswelle, Gravitationswellensignal, Livingston"/>
+                            <meta name="description" content="Boris Johnson dr&uuml;ckt auf die Tube: Schon am Freitag soll das Parlament in London den Brexit-Deal abnicken. Nach seinem haushohen Wahlsieg..."/>
+                        <meta name="keywords" content="Boris Johnson, Nicola Sturgeon, Theresa May, Europ&auml;ische Union, EU, Conservative Party, Brexit"/>
+        <meta name="news_keywords" content="Boris Johnson, Nicola Sturgeon, Theresa May, Europ&auml;ische Union, EU, Conservative Party, Brexit"/>
                   
 
-                        <meta property="og:title" content="Gravitationswellen-Astronomie: Das Ende zweier Neutronensterne" />
-                    <meta property="og:description" content="Zum zweiten Mal ist es gelungen, ein Gravitationswellen-Signal aufzuzeichnen, das mutmaßlich auf die Kollision zweier Neutronensterne zurückgeht. Doch der Fund gibt Rätsel auf." />
-                    <meta property="og:url" content="https://www.faz.net/1.6569716" />
-                    <meta property="og:image" content="https://media0.faz.net/ppmedia/aktuell/2967284187/1.6569740/facebook_teaser/kuenstlerische-darstellung-der.jpg" />
+                        <meta property="og:title" content="Johnson macht Druck: Britisches Unterhaus stimmt über Brexit-Abkommen ab" />
+                    <meta property="og:description" content="Boris Johnson drückt auf die Tube: Schon am Freitag soll das Parlament in London den Brexit-Deal abnicken. Nach seinem haushohen Wahlsieg dürfte der Premierminister sein Ziel problemlos erreichen. Gegenwind bläst ihm nur aus Schottland entgegen." />
+                    <meta property="og:url" content="https://www.faz.net/1.6545107" />
+                    <meta property="og:image" content="https://media0.faz.net/ppmedia/aktuell/3930456597/1.6545116/facebook_teaser/der-britische-premierminister.jpg" />
                     <meta property="og:site_name" content="FAZ.NET" />
                     <meta property="article:publisher" content="https://www.facebook.com/faz" />
                     <meta property="article:author" content="https://www.facebook.com/faz" />
@@ -38,11 +38,11 @@
                     <meta property="twitter:site" content="@faznet" />
                     <meta property="twitter:card" content="summary_large_image" />
                     <meta property="twitter:domain" content="https://www.faz.net" />
-                    <meta property="twitter:creator" content="@sianderl" />
-                    <meta property="twitter:title" content="Gravitationswellen-Astronomie: Das Ende zweier Neutronensterne" />
-                    <meta property="twitter:description" content="Zum zweiten Mal ist es gelungen, ein Gravitationswellen-Signal aufzuzeichnen, das mutmaßlich auf die Kollision zweier Neutronensterne zurückgeht. Doch der Fund gibt Rätsel auf." />
-                    <meta property="twitter:image:src" content="https://media0.faz.net/ppmedia/aktuell/2967284187/1.6569740/twitter_teaser/kuenstlerische-darstellung-der.jpg" />
-                    <meta property="twitter:url" content="https://www.faz.net/1.6569716" />
+                    <meta property="twitter:creator" content="@faznet" />
+                    <meta property="twitter:title" content="Johnson macht Druck: Britisches Unterhaus stimmt über Brexit-Abkommen ab" />
+                    <meta property="twitter:description" content="Boris Johnson drückt auf die Tube: Schon am Freitag soll das Parlament in London den Brexit-Deal abnicken. Nach seinem haushohen Wahlsieg dürfte der Premierminister sein Ziel problemlos erreichen. Gegenwind bläst ihm nur aus Schottland entgegen." />
+                    <meta property="twitter:image:src" content="https://media0.faz.net/ppmedia/aktuell/3930456597/1.6545116/twitter_teaser/der-britische-premierminister.jpg" />
+                    <meta property="twitter:url" content="https://www.faz.net/1.6545107" />
             
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta name="MSSmartTagsPreventParsing" content="true"/>
@@ -70,12 +70,12 @@
 
 
 
-            <link rel="canonical" href="https://www.faz.net/aktuell/wissen/weltraum/zweite-gravitationswelle-von-verschmelzenden-neutronensternen-16569716.html"/>
+            <link rel="canonical" href="https://www.faz.net/aktuell/politik/ausland/britisches-unterhaus-stimmt-ueber-brexit-abkommen-ab-16545107.html"/>
     
-            
-                                            <link rel="amphtml" href="https://m.faz.net/aktuell/wissen/weltraum/zweite-gravitationswelle-von-verschmelzenden-neutronensternen-16569716.amp.html"/>
+    
+                                            <link rel="amphtml" href="https://m.faz.net/aktuell/politik/ausland/britisches-unterhaus-stimmt-ueber-brexit-abkommen-ab-16545107.amp.html"/>
                         
-                                                        <link rel="alternate" media="only screen and (max-width: 1080px)" href="https://m.faz.net/aktuell/wissen/weltraum/zweite-gravitationswelle-von-verschmelzenden-neutronensternen-16569716.html"/>
+                                                        <link rel="alternate" media="only screen and (max-width: 1080px)" href="https://m.faz.net/aktuell/politik/ausland/britisches-unterhaus-stimmt-ueber-brexit-abkommen-ab-16545107.html"/>
                         
         
 <link rel="shortcut icon" type="image/x-icon" href="https://www.faz.net/favicon.ico"/>
@@ -85,65 +85,63 @@
                                      window.fazTemplateIsRebrush = true;
             </script>
                                                                                         
-                            <script type="text/javascript">
-    (function (id) {
-        function append(scriptid, url, async) {
-            var d = document, sn = 'script', f = d.getElementsByTagName(sn)[0];
-            if (!f) f = d.head;
-            var s = d.createElement(sn);
-            s.async = true;
-            s.id = scriptid;
-            s.src = url;
-            f.parentNode.insertBefore(s, f);
-        }
+                                  <script type="text/javascript">
+      /* eslint-disable curly,padded-blocks,space-before-function-paren,one-var,brace-style,semi */
+      (function (id) {
+      function append(scriptid, url, async) {
+      var d = document, sn = 'script', f = d.getElementsByTagName(sn)[0];
+      if (!f) f = d.head;
+      var s = d.createElement(sn);
+      s.async = true;
+      s.id = scriptid;
+      s.src = url;
+      f.parentNode.insertBefore(s, f);
+      }
 
-        function getRootDomain() {
-            var parts = window.location.hostname.split('.');
-            if (parts.length === 2) rootDomain = parts[0];
-            else if (parts.length > 2) {
-              // see if the next to last value is a common tld
-              var part = parts[parts.length - 2];
-              if (part === 'com' || part === 'co') {
-                rootDomain = parts[parts.length - 3]; // go back one more
-              }
-              else {
-                rootDomain = part;
-              }
-            }
+      function getRootDomain() {
+      var parts = window.location.hostname.split('.');
+      if (parts.length === 2) rootDomain = parts[0];
+      else if (parts.length > 2) {
+      // see if the next to last value is a common tld
+      var part = parts[parts.length - 2];
+      if (part === 'com' || part === 'co') {
+      rootDomain = parts[parts.length - 3]; // go back one more
+      }
+      else {
+      rootDomain = part;
+      }
+      }
 
-          return rootDomain;
-        }
+      return rootDomain;
+      }
 
-        window.evidon = {};
-        window.evidon.id = id;
-        var cdn = '//c.evidon.com/', rootDomain = getRootDomain(), noticecdn = cdn + 'sitenotice/';
-        append('evidon-notice', noticecdn + 'evidon-sitenotice-tag.js', false);
-        append('evidon-location', cdn + 'geo/country.js', true);
-        append('evidon-themes', noticecdn + id + '/snthemes.js', true);
-        if (rootDomain) append('evidon-settings', noticecdn + id + '/' + rootDomain + '/settings.js', true);
+      window.evidon = {};
+      window.evidon.id = id;
+      var cdn = '//c.evidon.com/', rootDomain = getRootDomain(), noticecdn = cdn + 'sitenotice/';
+      append('evidon-notice', noticecdn + 'evidon-sitenotice-tag.js', false);
+      append('evidon-location', cdn + 'geo/country.js', true);
+      append('evidon-themes', noticecdn + id + '/snthemes.js', true);
+      if (rootDomain) append('evidon-settings', noticecdn + id + '/' + rootDomain + '/settings.js', true);
 
-        window.evidon.priorConsentCallback = function () {
-            // add the tags which need to wait for prior consent
-            // here.  This should be all your advertising tags and
-            // probably most of your social and tracking tags.
-        }
+      window.evidon.priorConsentCallback = function () {
+      // add the tags which need to wait for prior consent
+      // here.  This should be all your advertising tags and
+      // probably most of your social and tracking tags.
+      }
 
-        window.evidon.closeCallback = function () {
-            // this is executed if the user closed a UI element without either Accepting (providing consent)
-            // or Declining (declining to provide consent).
-        }
+      window.evidon.closeCallback = function () {
+      // this is executed when a user closes a UI element (banner/barrier) without
+      // providing consent.
+      }
 
-        window.evidon.consentWithdrawnCallback = function () {
-            // this is exeucted if the user withdraws consent and elects to
-            // no longer allow technologies to run on the site.
-        }
+      window.evidon.consentWithdrawnCallback = function () {
+      // this is exeucted if the user withdraws consent and elects to
+      // no longer allow technologies to run on the site.
+      }
+      })(5279);
 
-        window.evidon.consentDeclinedCallback = function () {
-            // this is executed if the user explicitly declines giving consent by
-            // using a Decline button
-        }
-    })(5279);
-</script>
+      </script>
+    
                                                                                             
                                 <meta property="fb:pages" content="346392590975" />
 <meta property="fb:pages" content="118769658148650" />
@@ -261,8 +259,8 @@ window.fazSecondaryInfo = {
 
     <!--__IVW ADSC-Variablen__-->
 <script type="text/javascript">
-	var adsc_ressort = 'Aktuell_Wissen';
-	var adsc_rubrik = 'Weltraum';
+	var adsc_ressort = 'Aktuell_Brexit';
+	var adsc_rubrik = '';
 	var adsc_layout = 'content';
 	var adsc_paywall =  false ;
         		var adsc_billboard = false;
@@ -333,7 +331,7 @@ window.fazSecondaryInfo = {
     
         
 
-<div class="js-adobe-digital-data is-Invisible" data-digital-data='{"site":{"digitalAsset":"faz.net"},"page":{"name":"1.6569716","ressort":"Wissen","subressort1":"Weltraum","type":"artikel.text","title":"Gravitationswellen-Astronomie: Das Ende zweier Neutronensterne","seoTitle":"Zweite Gravitationswelle von verschmelzenden Neutronensternen"},"article":{"author":"Sibylle Anderl","characterCount":4828,"publishedFirst":"07.01.2020 16:23","publishedLast":"07.01.2020 16:23","containsComments":true,"type":"kostenloser Artikel","pagination":{"showOnePage":true}}}'></div>
+<div class="js-adobe-digital-data is-Invisible" data-digital-data='{"site":{"digitalAsset":"faz.net"},"page":{"name":"1.6545107","ressort":"Brexit","type":"artikel.text","title":"Johnson macht Druck: Britisches Unterhaus stimmt über Brexit-Abkommen ab","seoTitle":"Britisches Unterhaus stimmt über Brexit-Abkommen ab"},"article":{"author":"ohne Autor","characterCount":2768,"publishedFirst":"20.12.2019 05:37","publishedLast":"20.12.2019 05:37","containsComments":false,"type":"kostenloser Artikel","pagination":{"showOnePage":true}}}'></div>
         
 
 <script type="text/javascript">
@@ -381,7 +379,7 @@ window.fazSecondaryInfo = {
 
         window.dataLayer = window.dataLayer || [];
 
-                var layer = {"last-updated":"2020-01-07 16:23","first-publication":"2020-01-07 16:23","breadcrumb":{"path":["Wissen","Weltraum"]},"paginierung":{"aktPage":1,"maxPage":1,"showOnePage":false},"author":"Sibylle Anderl","customerInfo":{"usedProduct":{"sku":null,"name":null}},"page":{"contentParent":"FAZ.NET","contentType":"Artikel.Text","contentId":"1.6569716","contentName":"Das Ende zweier Neutronensterne","contentTitle":"Gravitationswellen-Astronomie: Das Ende zweier Neutronensterne","contentSEOName":"Zweite Gravitationswelle von verschmelzenden Neutronensternen"},"source":"FAZ.NET","accessInfo":{"type":"noaccess"},"event":"dataLayerReady"};
+                var layer = {"last-updated":"2019-12-20 05:37","first-publication":"2019-12-20 05:37","breadcrumb":{"path":["Brexit"]},"paginierung":{"aktPage":1,"maxPage":1,"showOnePage":false},"customerInfo":{"usedProduct":{"sku":null,"name":null}},"page":{"contentParent":"FAZ.NET","contentType":"Artikel.Text","contentId":"1.6545107","contentName":"Britisches Unterhaus stimmt über Brexit-Abkommen ab","contentTitle":"Johnson macht Druck: Britisches Unterhaus stimmt über Brexit-Abkommen ab","contentSEOName":"Britisches Unterhaus stimmt über Brexit-Abkommen ab"},"source":"chrs./dpa","accessInfo":{"type":"noaccess"},"event":"dataLayerReady"};
 
         accessInfo = _getAccessInfo();
         if (accessInfo) {
@@ -400,69 +398,13 @@ window.fazSecondaryInfo = {
 
         
 
-<div class='is-Invisible' data-ivw-page-attributes='{"st":"faz","cp":"Faz_Wissen_Weltraum","sv":"in","sc":"yes"}'></div>
+<div class='is-Invisible' data-ivw-page-attributes='{"st":"faz","cp":"Faz_Brexit","sv":"in","sc":"yes"}'></div>
 
         <script type="text/javascript">webpackJsonp([2],{0:function(n,e){n.exports=function(n){try{return!!n()}catch(n){return!0}}},1:function(n,e,t){var r=t(2),o=t(19),i=t(33),l=t(79),c=r.Symbol,u=o("wks");n.exports=function(n){return u[n]||(u[n]=l&&c[n]||(l?c:i)("Symbol."+n))}},10:function(n,e){n.exports=function(n){if(null==n)throw TypeError("Can't call method on "+n);return n}},11:function(n,e,t){"use strict";var r=t(3),o=t(24);r({target:"RegExp",proto:!0,forced:/./.exec!==o},{exec:o})},116:function(n,e,t){"use strict";var r=t(41),u=t(5),o=t(10),a=t(154),s=t(42);r("search",1,function(r,l,c){return[function(n){var e=o(this),t=null==n?void 0:n[r];return void 0!==t?t.call(n,e):new RegExp(n)[r](String(e))},function(n){var e=c(l,n,this);if(e.done)return e.value;var t=u(n),r=String(this),o=t.lastIndex;a(o,0)||(t.lastIndex=0);var i=s(t,r);return a(t.lastIndex,o)||(t.lastIndex=o),null===i?-1:i.index}]})},13:function(n,e,t){var r=t(22),o=Math.min;n.exports=function(n){return 0<n?o(r(n),9007199254740991):0}},15:function(n,e,t){var r=t(37),o=t(10);n.exports=function(n){return r(o(n))}},154:function(n,e){n.exports=Object.is||function(n,e){return n===e?0!==n||1/n==1/e:n!=n&&e!=e}},16:function(n,e,t){var c=t(2),r=t(19),u=t(8),a=t(7),s=t(31),o=t(50),i=t(32),l=i.get,f=i.enforce,m=String(o).split("toString");r("inspectSource",function(n){return o.call(n)}),(n.exports=function(n,e,t,r){var o=!!r&&!!r.unsafe,i=!!r&&!!r.enumerable,l=!!r&&!!r.noTargetGet;"function"==typeof t&&("string"!=typeof e||a(t,"name")||u(t,"name",e),f(t).source=m.join("string"==typeof e?e:"")),n!==c?(o?!l&&n[e]&&(i=!0):delete n[e],i?n[e]=t:u(n,e,t)):i?n[e]=t:s(e,t)})(Function.prototype,"toString",function(){return"function"==typeof this&&l(this).source||o.call(this)})},18:function(n,e){var t={}.toString;n.exports=function(n){return t.call(n).slice(8,-1)}},19:function(n,e,t){var r=t(2),o=t(31),i=t(38),l=r["__core-js_shared__"]||o("__core-js_shared__",{});(n.exports=function(n,e){return l[n]||(l[n]=void 0!==e?e:{})})("versions",[]).push({version:"3.2.1",mode:i?"pure":"global",copyright:"© 2019 Denis Pushkarev (zloirock.ru)"})},2:function(r,n,e){(function(n){var e="object",t=function(n){return n&&n.Math==Math&&n};r.exports=t(typeof globalThis==e&&globalThis)||t(typeof window==e&&window)||t(typeof self==e&&self)||t(typeof n==e&&n)||Function("return this")()}).call(n,e(43))},20:function(n,e,t){"use strict";var r=t(3),o=t(52).indexOf,i=t(55),l=[].indexOf,c=!!l&&1/[1].indexOf(1,-0)<0,u=i("indexOf");r({target:"Array",proto:!0,forced:c||u},{indexOf:function(n){return c?l.apply(this,arguments)||0:o(this,n,1<arguments.length?arguments[1]:void 0)}})},22:function(n,e){var t=Math.ceil,r=Math.floor;n.exports=function(n){return isNaN(n=+n)?0:(0<n?r:t)(n)}},24:function(n,e,t){"use strict";var r,o,l=t(64),c=RegExp.prototype.exec,u=String.prototype.replace,i=c,a=(r=/a/,o=/b*/g,c.call(r,"a"),c.call(o,"a"),0!==r.lastIndex||0!==o.lastIndex),s=void 0!==/()??/.exec("")[1];(a||s)&&(i=function(n){var e,t,r,o,i=this;return s&&(t=new RegExp("^"+i.source+"$(?!\\s)",l.call(i))),a&&(e=i.lastIndex),r=c.call(i,n),a&&r&&(i.lastIndex=i.global?r.index+r[0].length:e),s&&r&&1<r.length&&u.call(r[0],t,function(){for(o=1;o<arguments.length-2;o++)void 0===arguments[o]&&(r[o]=void 0)}),r}),n.exports=i},25:function(n,e){n.exports=function(n,e){return{enumerable:!(1&n),configurable:!(2&n),writable:!(4&n),value:e}}},26:function(n,e){n.exports={}},3:function(n,e,t){var s=t(2),f=t(44).f,m=t(8),d=t(16),p=t(31),v=t(76),h=t(61);n.exports=function(n,e){var t,r,o,i,l,c=n.target,u=n.global,a=n.stat;if(t=u?s:a?s[c]||p(c,{}):(s[c]||{}).prototype)for(r in e){if(i=e[r],o=n.noTargetGet?(l=f(t,r))&&l.value:t[r],!h(u?r:c+(a?".":"#")+r,n.forced)&&void 0!==o){if(typeof i==typeof o)continue;v(i,o)}(n.sham||o&&o.sham)&&m(i,"sham",!0),d(t,r,i,n)}}},30:function(n,e,t){var o=t(4);n.exports=function(n,e){if(!o(n))return n;var t,r;if(e&&"function"==typeof(t=n.toString)&&!o(r=t.call(n)))return r;if("function"==typeof(t=n.valueOf)&&!o(r=t.call(n)))return r;if(!e&&"function"==typeof(t=n.toString)&&!o(r=t.call(n)))return r;throw TypeError("Can't convert object to primitive value")}},31:function(n,e,t){var r=t(2),o=t(8);n.exports=function(e,t){try{o(r,e,t)}catch(n){r[e]=t}return t}},32:function(n,e,t){var r,o,i,l=t(86),c=t(2),u=t(4),a=t(8),s=t(7),f=t(39),m=t(26),d=c.WeakMap;if(l){var p=new d,v=p.get,h=p.has,g=p.set;r=function(n,e){return g.call(p,n,e),e},o=function(n){return v.call(p,n)||{}},i=function(n){return h.call(p,n)}}else{var x=f("state");m[x]=!0,r=function(n,e){return a(n,x,e),e},o=function(n){return s(n,x)?n[x]:{}},i=function(n){return s(n,x)}}n.exports={set:r,get:o,has:i,enforce:function(n){return i(n)?o(n):r(n,{})},getterFor:function(t){return function(n){var e;if(!u(n)||(e=o(n)).type!==t)throw TypeError("Incompatible receiver, "+t+" required");return e}}}},33:function(n,e){var t=0,r=Math.random();n.exports=function(n){return"Symbol("+String(void 0===n?"":n)+")_"+(++t+r).toString(36)}},34:function(n,e,t){var r=t(77),o=t(2),i=function(n){return"function"==typeof n?n:void 0};n.exports=function(n,e){return arguments.length<2?i(r[n])||i(o[n]):r[n]&&r[n][e]||o[n]&&o[n][e]}},37:function(n,e,t){var r=t(0),o=t(18),i="".split;n.exports=r(function(){return!Object("z").propertyIsEnumerable(0)})?function(n){return"String"==o(n)?i.call(n,""):Object(n)}:Object},38:function(n,e){n.exports=!1},39:function(n,e,t){var r=t(19),o=t(33),i=r("keys");n.exports=function(n){return i[n]||(i[n]=o(n))}},4:function(n,e){n.exports=function(n){return"object"==typeof n?null!==n:"function"==typeof n}},40:function(n,e,t){"use strict";var r=t(41),f=t(65),y=t(5),m=t(10),b=t(89),w=t(56),_=t(13),S=t(42),d=t(24),o=t(0),p=[].push,O=Math.min,j=!o(function(){return!RegExp(4294967295,"y")});r("split",2,function(o,h,g){var x;return x="c"=="abbc".split(/(b)*/)[1]||4!="test".split(/(?:)/,-1).length||2!="ab".split(/(?:ab)*/).length||4!=".".split(/(.?)(.?)/).length||1<".".split(/()()/).length||"".split(/.?/).length?function(n,e){var t=String(m(this)),r=void 0===e?4294967295:e>>>0;if(0===r)return[];if(void 0===n)return[t];if(!f(n))return h.call(t,n,r);for(var o,i,l,c=[],u=(n.ignoreCase?"i":"")+(n.multiline?"m":"")+(n.unicode?"u":"")+(n.sticky?"y":""),a=0,s=new RegExp(n.source,u+"g");(o=d.call(s,t))&&!((i=s.lastIndex)>a&&(c.push(t.slice(a,o.index)),1<o.length&&o.index<t.length&&p.apply(c,o.slice(1)),l=o[0].length,a=i,c.length>=r));)s.lastIndex===o.index&&s.lastIndex++;return a===t.length?!l&&s.test("")||c.push(""):c.push(t.slice(a)),c.length>r?c.slice(0,r):c}:"0".split(void 0,0).length?function(n,e){return void 0===n&&0===e?[]:h.call(this,n,e)}:h,[function(n,e){var t=m(this),r=null==n?void 0:n[o];return void 0!==r?r.call(n,t,e):x.call(String(t),n,e)},function(n,e){var t=g(x,n,this,e,x!==h);if(t.done)return t.value;var r=y(n),o=String(this),i=b(r,RegExp),l=r.unicode,c=(r.ignoreCase?"i":"")+(r.multiline?"m":"")+(r.unicode?"u":"")+(j?"y":"g"),u=new i(j?r:"^(?:"+r.source+")",c),a=void 0===e?4294967295:e>>>0;if(0===a)return[];if(0===o.length)return null===S(u,o)?[o]:[];for(var s=0,f=0,m=[];f<o.length;){u.lastIndex=j?f:0;var d,p=S(u,j?o:o.slice(f));if(null===p||(d=O(_(u.lastIndex+(j?0:f)),o.length))===s)f=w(o,f,l);else{if(m.push(o.slice(s,f)),m.length===a)return m;for(var v=1;v<=p.length-1;v++)if(m.push(p[v]),m.length===a)return m;f=s=d}}return m.push(o.slice(s)),m}]},!j)},41:function(n,e,t){"use strict";var f=t(8),m=t(16),d=t(0),p=t(1),v=t(24),h=p("species"),g=!d(function(){var n=/./;return n.exec=function(){var n=[];return n.groups={a:"7"},n},"7"!=="".replace(n,"$<a>")}),x=!d(function(){var n=/(?:)/,e=n.exec;n.exec=function(){return e.apply(this,arguments)};var t="ab".split(n);return 2!==t.length||"a"!==t[0]||"b"!==t[1]});n.exports=function(t,n,e,r){var o=p(t),i=!d(function(){var n={};return n[o]=function(){return 7},7!=""[t](n)}),l=i&&!d(function(){var n=!1,e=/a/;return e.exec=function(){return n=!0,null},"split"===t&&(e.constructor={},e.constructor[h]=function(){return e}),e[o](""),!n});if(!i||!l||"replace"===t&&!g||"split"===t&&!x){var c=/./[o],u=e(o,""[t],function(n,e,t,r,o){return e.exec===v?i&&!o?{done:!0,value:c.call(e,t,r)}:{done:!0,value:n.call(t,e,r)}:{done:!1}}),a=u[0],s=u[1];m(String.prototype,t,a),m(RegExp.prototype,o,2==n?function(n,e){return s.call(n,this,e)}:function(n){return s.call(n,this)}),r&&f(RegExp.prototype[o],"sham",!0)}}},42:function(n,e,t){var o=t(18),i=t(24);n.exports=function(n,e){var t=n.exec;if("function"==typeof t){var r=t.call(n,e);if("object"!=typeof r)throw TypeError("RegExp exec method returned something other than an Object or null");return r}if("RegExp"!==o(n))throw TypeError("RegExp#exec called on incompatible receiver");return i.call(n,e)}},43:function(pf,qf){var rf;rf=function(){return this}();try{rf=rf||Function("return this")()||eval("this")}catch(pf){"object"==typeof window&&(rf=window)}pf.exports=rf},44:function(n,e,t){var r=t(6),o=t(48),i=t(25),l=t(15),c=t(30),u=t(7),a=t(49),s=Object.getOwnPropertyDescriptor;e.f=r?s:function(n,e){if(n=l(n),e=c(e,!0),a)try{return s(n,e)}catch(n){}if(u(n,e))return i(!o.f.call(n,e),n[e])}},45:function(n,e){n.exports=["constructor","hasOwnProperty","isPrototypeOf","propertyIsEnumerable","toLocaleString","toString","valueOf"]},471:function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r,o,i,l,c,u,a=t(472);(r="/mnt/jenkins/workspace/fazcms_fazcore_release_2019.51.1/site-web/rebrush/src/scripts_legacy/main-body.js",o="5934102ae943f897dc439d49ae1a0a158531a85d",i=new function(){}.constructor("return this")(),l="__coverage__",c={path:"/mnt/jenkins/workspace/fazcms_fazcore_release_2019.51.1/site-web/rebrush/src/scripts_legacy/main-body.js",statementMap:{0:{start:{line:7,column:0},end:{line:7,column:24}}},fnMap:{},branchMap:{},s:{0:0},f:{},b:{},_coverageSchema:"332fd63041d2c1bcb487cc26dd0d5f7d97098a6c"},u=i[l]||(i[l]={}),u[r]&&u[r].hash===o?u[r]:(c.hash=o,u[r]=c)).s[0]++,Object(a.a)()},472:function(n,e,t){"use strict";function o(n){return h.f[2]++,h.s[21]++,h.b[11][0]++,null!==n&&(h.b[11][1]++,""!==n)?(h.b[10][0]++,function(n){h.f[3]++;var e=(h.s[22]++,{}),t=(h.s[23]++,n.split("&"));h.s[24]++;for(var r=0;r<t.length;r++){var o=(h.s[25]++,t[r].split("="));h.s[26]++,e[o[0]]=void 0===o[1]?(h.b[12][0]++,""):(h.b[12][1]++,o[1])}return h.s[27]++,e}(n)):(h.b[10][1]++,{})}function r(n){return h.f[4]++,h.s[28]++,o(window.location.search.substr(1))[n]}function i(n,e){h.f[5]++;var t=(h.s[29]++,window.document.createElement("a"));h.s[30]++,t.href=e;var r=(h.s[31]++,t.search.substr(1));return h.s[32]++,o(r)[n]}var l,c,u,a,s,f,m=t(20),d=(t.n(m),t(11)),p=(t.n(d),t(116)),v=(t.n(p),t(40)),h=(t.n(v),l="/mnt/jenkins/workspace/fazcms_fazcore_release_2019.51.1/site-web/rebrush/src/scripts_legacy/desktop-mobile-view.js",c="2591bf187455000d953c29f3fa0a8fd87ac55978",u=new function(){}.constructor("return this")(),s={path:"/mnt/jenkins/workspace/fazcms_fazcore_release_2019.51.1/site-web/rebrush/src/scripts_legacy/desktop-mobile-view.js",statementMap:{0:{start:{line:10,column:2},end:{line:10,column:21}},1:{start:{line:12,column:2},end:{line:80,column:3}},2:{start:{line:15,column:4},end:{line:27,column:5}},3:{start:{line:17,column:6},end:{line:25,column:7}},4:{start:{line:19,column:8},end:{line:19,column:75}},5:{start:{line:23,column:8},end:{line:23,column:50}},6:{start:{line:30,column:4},end:{line:37,column:5}},7:{start:{line:32,column:6},end:{line:32,column:24}},8:{start:{line:35,column:6},end:{line:35,column:45}},9:{start:{line:40,column:4},end:{line:78,column:5}},10:{start:{line:43,column:6},end:{line:47,column:7}},11:{start:{line:45,column:8},end:{line:45,column:29}},12:{start:{line:50,column:6},end:{line:54,column:7}},13:{start:{line:52,column:8},end:{line:52,column:63}},14:{start:{line:57,column:6},end:{line:76,column:9}},15:{start:{line:60,column:8},end:{line:60,column:95}},16:{start:{line:62,column:8},end:{line:66,column:9}},17:{start:{line:64,column:10},end:{line:64,column:51}},18:{start:{line:67,column:8},end:{line:71,column:9}},19:{start:{line:69,column:10},end:{line:69,column:58}},20:{start:{line:74,column:8},end:{line:74,column:38}},21:{start:{line:87,column:2},end:{line:87,column:76}},22:{start:{line:93,column:17},end:{line:93,column:19}},23:{start:{line:94,column:17},end:{line:94,column:34}},24:{start:{line:95,column:2},end:{line:100,column:3}},25:{start:{line:97,column:17},end:{line:97,column:37}},26:{start:{line:98,column:4},end:{line:98,column:65}},27:{start:{line:101,column:2},end:{line:101,column:16}},28:{start:{line:107,column:2},end:{line:107,column:68}},29:{start:{line:113,column:18},end:{line:113,column:52}},30:{start:{line:114,column:2},end:{line:114,column:21}},31:{start:{line:115,column:16},end:{line:115,column:40}},32:{start:{line:116,column:2},end:{line:116,column:41}}},fnMap:{0:{name:"(anonymous_0)",decl:{start:{line:8,column:15},end:{line:8,column:16}},loc:{start:{line:8,column:21},end:{line:82,column:1}},line:8},1:{name:"(anonymous_1)",decl:{start:{line:57,column:9},end:{line:57,column:10}},loc:{start:{line:57,column:21},end:{line:76,column:7}},line:57},2:{name:"getQueryParameters",decl:{start:{line:85,column:9},end:{line:85,column:27}},loc:{start:{line:85,column:36},end:{line:89,column:1}},line:85},3:{name:"transformToAssocArray",decl:{start:{line:91,column:9},end:{line:91,column:30}},loc:{start:{line:91,column:40},end:{line:103,column:1}},line:91},4:{name:"getUrlParameter",decl:{start:{line:105,column:9},end:{line:105,column:24}},loc:{start:{line:105,column:32},end:{line:109,column:1}},line:105},5:{name:"getUrlParameterFromUrl",decl:{start:{line:111,column:9},end:{line:111,column:31}},loc:{start:{line:111,column:44},end:{line:118,column:1}},line:111}},branchMap:{0:{loc:{start:{line:12,column:2},end:{line:80,column:3}},type:"if",locations:[{start:{line:12,column:2},end:{line:80,column:3}},{start:{line:12,column:2},end:{line:80,column:3}}],line:12},1:{loc:{start:{line:15,column:4},end:{line:27,column:5}},type:"if",locations:[{start:{line:15,column:4},end:{line:27,column:5}},{start:{line:15,column:4},end:{line:27,column:5}}],line:15},2:{loc:{start:{line:15,column:8},end:{line:15,column:106}},type:"binary-expr",locations:[{start:{line:15,column:8},end:{line:15,column:68}},{start:{line:15,column:72},end:{line:15,column:106}}],line:15},3:{loc:{start:{line:17,column:6},end:{line:25,column:7}},type:"if",locations:[{start:{line:17,column:6},end:{line:25,column:7}},{start:{line:17,column:6},end:{line:25,column:7}}],line:17},4:{loc:{start:{line:30,column:4},end:{line:37,column:5}},type:"if",locations:[{start:{line:30,column:4},end:{line:37,column:5}},{start:{line:30,column:4},end:{line:37,column:5}}],line:30},5:{loc:{start:{line:40,column:4},end:{line:78,column:5}},type:"if",locations:[{start:{line:40,column:4},end:{line:78,column:5}},{start:{line:40,column:4},end:{line:78,column:5}}],line:40},6:{loc:{start:{line:43,column:6},end:{line:47,column:7}},type:"if",locations:[{start:{line:43,column:6},end:{line:47,column:7}},{start:{line:43,column:6},end:{line:47,column:7}}],line:43},7:{loc:{start:{line:50,column:6},end:{line:54,column:7}},type:"if",locations:[{start:{line:50,column:6},end:{line:54,column:7}},{start:{line:50,column:6},end:{line:54,column:7}}],line:50},8:{loc:{start:{line:62,column:8},end:{line:66,column:9}},type:"if",locations:[{start:{line:62,column:8},end:{line:66,column:9}},{start:{line:62,column:8},end:{line:66,column:9}}],line:62},9:{loc:{start:{line:67,column:8},end:{line:71,column:9}},type:"if",locations:[{start:{line:67,column:8},end:{line:71,column:9}},{start:{line:67,column:8},end:{line:71,column:9}}],line:67},10:{loc:{start:{line:87,column:9},end:{line:87,column:75}},type:"cond-expr",locations:[{start:{line:87,column:42},end:{line:87,column:70}},{start:{line:87,column:73},end:{line:87,column:75}}],line:87},11:{loc:{start:{line:87,column:9},end:{line:87,column:39}},type:"binary-expr",locations:[{start:{line:87,column:9},end:{line:87,column:23}},{start:{line:87,column:27},end:{line:87,column:39}}],line:87},12:{loc:{start:{line:98,column:24},end:{line:98,column:64}},type:"cond-expr",locations:[{start:{line:98,column:50},end:{line:98,column:52}},{start:{line:98,column:55},end:{line:98,column:64}}],line:98}},s:{0:0,1:0,2:0,3:0,4:0,5:0,6:0,7:0,8:0,9:0,10:0,11:0,12:0,13:0,14:0,15:0,16:0,17:0,18:0,19:0,20:0,21:0,22:0,23:0,24:0,25:0,26:0,27:0,28:0,29:0,30:0,31:0,32:0},f:{0:0,1:0,2:0,3:0,4:0,5:0},b:{0:[0,0],1:[0,0],2:[0,0],3:[0,0],4:[0,0],5:[0,0],6:[0,0],7:[0,0],8:[0,0],9:[0,0],10:[0,0],11:[0,0],12:[0,0]},_coverageSchema:"332fd63041d2c1bcb487cc26dd0d5f7d97098a6c"},(f=u[a="__coverage__"]||(u[a]={}))[l]&&f[l].hash===c?f[l]:(s.hash=c,f[l]=s));e.a=function(){h.f[0]++,h.s[0]++,window.isM=!1,h.s[1]++,void 0!==i?(h.b[0][0]++,h.s[2]++,h.b[2][0]++,void 0!==i("m",document.referrer)&&(h.b[2][1]++,void 0===r("m"))?(h.b[1][0]++,h.s[3]++,window.location.search?(h.b[3][0]++,h.s[4]++,window.history.replaceState("","",window.location.search+"&m")):(h.b[3][1]++,h.s[5]++,window.history.replaceState("","","?m"))):h.b[1][1]++,h.s[6]++,void 0!==r("m")?(h.b[4][0]++,h.s[7]++,window.isM=!0,h.s[8]++,window.document.body.className+=" m"):h.b[4][1]++,h.s[9]++,window.isM?(h.b[5][0]++,h.s[10]++,window.AdTags_NOOP?(h.b[6][0]++,h.s[11]++,window.AdTags_NOOP()):h.b[6][1]++,h.s[12]++,window.fazSecondaryInfo?(h.b[7][0]++,h.s[13]++,window.fazSecondaryInfo=window.fazSecondaryInfo.noop):h.b[7][1]++,h.s[14]++,$3(function(){h.f[1]++,h.s[15]++,$3(".js-lst-Services, .js-NewsletterBox-withP6").parents(".js-o-ModuleWrapper").hide(),h.s[16]++,0===window.location.host.indexOf("tv.faz.net")?(h.b[8][0]++,h.s[17]++,$3("#FAZSeite").css({padding:"10px"})):h.b[8][1]++,h.s[18]++,0===window.location.pathname.indexOf("/mein-faz-net/")?(h.b[9][0]++,h.s[19]++,$3("#rememberMeFaz").attr("checked","checked")):h.b[9][1]++,h.s[20]++,$3(".o-GlobalWrapper").show()})):h.b[5][1]++):h.b[0][1]++}},48:function(n,e,t){"use strict";var r={}.propertyIsEnumerable,o=Object.getOwnPropertyDescriptor,i=o&&!r.call({1:2},1);e.f=i?function(n){var e=o(this,n);return!!e&&e.enumerable}:r},49:function(n,e,t){var r=t(6),o=t(0),i=t(58);n.exports=!r&&!o(function(){return 7!=Object.defineProperty(i("div"),"a",{get:function(){return 7}}).a})},5:function(n,e,t){var r=t(4);n.exports=function(n){if(!r(n))throw TypeError(String(n)+" is not an object");return n}},50:function(n,e,t){var r=t(19);n.exports=r("native-function-to-string",Function.toString)},51:function(n,e,t){var r=t(59),o=t(45).concat("length","prototype");e.f=Object.getOwnPropertyNames||function(n){return r(n,o)}},52:function(n,e,t){var u=t(15),a=t(13),s=t(60),r=function(c){return function(n,e,t){var r,o=u(n),i=a(o.length),l=s(t,i);if(c&&e!=e){for(;l<i;)if((r=o[l++])!=r)return!0}else for(;l<i;l++)if((c||l in o)&&o[l]===e)return c||l||0;return!c&&-1}};n.exports={includes:r(!0),indexOf:r(!1)}},53:function(n,e){e.f=Object.getOwnPropertySymbols},55:function(n,e,t){"use strict";var r=t(0);n.exports=function(n,e){var t=[][n];return!t||!r(function(){t.call(null,e||function(){throw 1},1)})}},56:function(n,e,t){"use strict";var r=t(66).charAt;n.exports=function(n,e,t){return e+(t?r(n,e).length:1)}},58:function(n,e,t){var r=t(2),o=t(4),i=r.document,l=o(i)&&o(i.createElement);n.exports=function(n){return l?i.createElement(n):{}}},59:function(n,e,t){var l=t(7),c=t(15),u=t(52).indexOf,a=t(26);n.exports=function(n,e){var t,r=c(n),o=0,i=[];for(t in r)!l(a,t)&&l(r,t)&&i.push(t);for(;e.length>o;)l(r,t=e[o++])&&(~u(i,t)||i.push(t));return i}},6:function(n,e,t){var r=t(0);n.exports=!r(function(){return 7!=Object.defineProperty({},"a",{get:function(){return 7}}).a})},60:function(n,e,t){var r=t(22),o=Math.max,i=Math.min;n.exports=function(n,e){var t=r(n);return t<0?o(t+e,0):i(t,e)}},61:function(n,e,t){var r=t(0),o=/#|\.prototype\./,i=function(n,e){var t=c[l(n)];return t==a||t!=u&&("function"==typeof e?r(e):!!e)},l=i.normalize=function(n){return String(n).replace(o,".").toLowerCase()},c=i.data={},u=i.NATIVE="N",a=i.POLYFILL="P";n.exports=i},62:function(n,e){n.exports=function(n){if("function"!=typeof n)throw TypeError(String(n)+" is not a function");return n}},64:function(n,e,t){"use strict";var r=t(5);n.exports=function(){var n=r(this),e="";return n.global&&(e+="g"),n.ignoreCase&&(e+="i"),n.multiline&&(e+="m"),n.dotAll&&(e+="s"),n.unicode&&(e+="u"),n.sticky&&(e+="y"),e}},65:function(n,e,t){var r=t(4),o=t(18),i=t(1)("match");n.exports=function(n){var e;return r(n)&&(void 0!==(e=n[i])?!!e:"RegExp"==o(n))}},66:function(n,e,t){var u=t(22),a=t(10),r=function(c){return function(n,e){var t,r,o=String(a(n)),i=u(e),l=o.length;return i<0||l<=i?c?"":void 0:(t=o.charCodeAt(i))<55296||56319<t||i+1===l||(r=o.charCodeAt(i+1))<56320||57343<r?c?o.charAt(i):t:c?o.slice(i,i+2):r-56320+(t-55296<<10)+65536}};n.exports={codeAt:r(!1),charAt:r(!0)}},7:function(n,e){var t={}.hasOwnProperty;n.exports=function(n,e){return t.call(n,e)}},76:function(n,e,t){var c=t(7),u=t(87),a=t(44),s=t(9);n.exports=function(n,e){for(var t=u(e),r=s.f,o=a.f,i=0;i<t.length;i++){var l=t[i];c(n,l)||r(n,l,o(e,l))}}},77:function(n,e,t){n.exports=t(2)},79:function(n,e,t){var r=t(0);n.exports=!!Object.getOwnPropertySymbols&&!r(function(){return!String(Symbol())})},8:function(n,e,t){var r=t(6),o=t(9),i=t(25);n.exports=r?function(n,e,t){return o.f(n,e,i(1,t))}:function(n,e,t){return n[e]=t,n}},86:function(n,e,t){var r=t(2),o=t(50),i=r.WeakMap;n.exports="function"==typeof i&&/native code/.test(o.call(i))},87:function(n,e,t){var r=t(34),o=t(51),i=t(53),l=t(5);n.exports=r("Reflect","ownKeys")||function(n){var e=o.f(l(n)),t=i.f;return t?e.concat(t(n)):e}},89:function(n,e,t){var o=t(5),i=t(62),l=t(1)("species");n.exports=function(n,e){var t,r=o(n).constructor;return void 0===r||null==(t=o(r)[l])?e:i(t)}},9:function(n,e,t){var r=t(6),o=t(49),i=t(5),l=t(30),c=Object.defineProperty;e.f=r?c:function(n,e,t){if(i(n),e=l(e,!0),i(t),o)try{return c(n,e,t)}catch(n){}if("get"in t||"set"in t)throw TypeError("Accessors not supported");return"value"in t&&(n[e]=t.value),n}}},[471])</script>
                                                                                         
-                            
-      <script type="text/javascript">
-      /* eslint-disable curly,padded-blocks,space-before-function-paren,one-var,brace-style,semi */
-      (function (id) {
-      function append(scriptid, url, async) {
-      var d = document, sn = 'script', f = d.getElementsByTagName(sn)[0];
-      if (!f) f = d.head;
-      var s = d.createElement(sn);
-      s.async = true;
-      s.id = scriptid;
-      s.src = url;
-      f.parentNode.insertBefore(s, f);
-      }
-
-      function getRootDomain() {
-      var parts = window.location.hostname.split('.');
-      if (parts.length === 2) rootDomain = parts[0];
-      else if (parts.length > 2) {
-      // see if the next to last value is a common tld
-      var part = parts[parts.length - 2];
-      if (part === 'com' || part === 'co') {
-      rootDomain = parts[parts.length - 3]; // go back one more
-      }
-      else {
-      rootDomain = part;
-      }
-      }
-
-      return rootDomain;
-      }
-
-      window.evidon = {};
-      window.evidon.id = id;
-      var cdn = '//c.evidon.com/', rootDomain = getRootDomain(), noticecdn = cdn + 'sitenotice/';
-      append('evidon-notice', noticecdn + 'evidon-sitenotice-tag.js', false);
-      append('evidon-location', cdn + 'geo/country.js', true);
-      append('evidon-themes', noticecdn + id + '/snthemes.js', true);
-      if (rootDomain) append('evidon-settings', noticecdn + id + '/' + rootDomain + '/settings.js', true);
-
-      window.evidon.priorConsentCallback = function () {
-      // add the tags which need to wait for prior consent
-      // here.  This should be all your advertising tags and
-      // probably most of your social and tracking tags.
-      }
-
-      window.evidon.closeCallback = function () {
-      // this is executed when a user closes a UI element (banner/barrier) without
-      // providing consent.
-      }
-
-      window.evidon.consentWithdrawnCallback = function () {
-      // this is exeucted if the user withdraws consent and elects to
-      // no longer allow technologies to run on the site.
-      }
-      })(5279);
-
-      window.gdpr.initEvidon();
-      </script>
-    
+                                <script type="text/javascript">    
+	window.gdpr.initEvidon();
+</script>
                                                                                             
                             <script>
 if (location.href.search(/-16342557(-p[0-9]+)?\.html/) !== -1 || location.href.search(/-16342559(-p[0-9]+)?\.html/) !== -1){
@@ -700,7 +642,7 @@ fazSecondaryInfo.T2.init();
             </aside>
     
             
-<div class="prnShortURL js-short-url">https://www.faz.net/-gwz-9v59w</div>
+<div class="prnShortURL js-short-url">https://www.faz.net/-icu-9umab</div>
 
     
 
@@ -1718,6 +1660,17 @@ fazSecondaryInfo.T2.init();
                                                                                                                                                                                             <div class="o-Grid_Col o-Grid_Col-4 o-Grid_Col-md-7 o-Grid_Col-sm-14">
                                     <section class="lay-MegaMenu_Section lay-MegaMenu_AdditionalServicesBox">
                                         <p class="lay-MegaMenu_SectionTitle lay-MegaMenu_SectionTitle-is-single">
+                                            <a href="https://blogs.faz.net/podcasts/"
+                                               class="lay-MegaMenu_SectionTitleLink lay-MegaMenu_SectionTitleLink-is-single"
+                                               title="Podcasts"
+                                                
+                                                >Podcasts</a>
+                                        </p>
+                                    </section>
+                                </div>
+                                                                                                                                                                                            <div class="o-Grid_Col o-Grid_Col-4 o-Grid_Col-md-7 o-Grid_Col-sm-14">
+                                    <section class="lay-MegaMenu_Section lay-MegaMenu_AdditionalServicesBox">
+                                        <p class="lay-MegaMenu_SectionTitle lay-MegaMenu_SectionTitle-is-single">
                                             <a href="https://www.faz.net/video/"
                                                class="lay-MegaMenu_SectionTitleLink lay-MegaMenu_SectionTitleLink-is-single"
                                                title="Video"
@@ -1726,9 +1679,9 @@ fazSecondaryInfo.T2.init();
                                         </p>
                                     </section>
                                 </div>
-                                                                                                                                                                                            <div class="o-Grid_Col o-Grid_Col-4 o-Grid_Col-md-7 o-Grid_Col-sm-14">
+                                                                                                                                                                                            <div class="o-Grid_Col o-Grid_Col-4 o-Grid_Col-has-offset-of-2 o-Grid_Col-md-7 o-Grid_Col-md-has-no-offset o-Grid_Col-sm-14 o-Grid_Col-sm-has-no-offset">
                                     <section class="lay-MegaMenu_Section lay-MegaMenu_AdditionalServicesBox">
-                                        <p class="lay-MegaMenu_SectionTitle lay-MegaMenu_SectionTitle-is-single">
+                                        <p class="lay-MegaMenu_SectionTitle">
                                             <a href="https://www.faz.net/multimedia/"
                                                class="lay-MegaMenu_SectionTitleLink lay-MegaMenu_SectionTitleLink-is-single"
                                                title="Multimedia"
@@ -1737,9 +1690,9 @@ fazSecondaryInfo.T2.init();
                                         </p>
                                     </section>
                                 </div>
-                                                                                                                                                                                            <div class="o-Grid_Col o-Grid_Col-4 o-Grid_Col-has-offset-of-2 o-Grid_Col-md-7 o-Grid_Col-md-has-no-offset o-Grid_Col-sm-14 o-Grid_Col-sm-has-no-offset">
+                                                                                                                                                                                            <div class="o-Grid_Col o-Grid_Col-4 o-Grid_Col-md-7 o-Grid_Col-sm-14">
                                     <section class="lay-MegaMenu_Section lay-MegaMenu_AdditionalServicesBox">
-                                        <p class="lay-MegaMenu_SectionTitle">
+                                        <p class="lay-MegaMenu_SectionTitle lay-MegaMenu_SectionTitle-is-single">
                                             <a href="https://www.faz.net/themen/"
                                                class="lay-MegaMenu_SectionTitleLink lay-MegaMenu_SectionTitleLink-is-single"
                                                title="Themen"
@@ -1756,17 +1709,6 @@ fazSecondaryInfo.T2.init();
                                                title="Blogs"
                                                 target="_blank"
                                                 >Blogs</a>
-                                        </p>
-                                    </section>
-                                </div>
-                                                                                                                                                                                            <div class="o-Grid_Col o-Grid_Col-4 o-Grid_Col-md-7 o-Grid_Col-sm-14">
-                                    <section class="lay-MegaMenu_Section lay-MegaMenu_AdditionalServicesBox">
-                                        <p class="lay-MegaMenu_SectionTitle lay-MegaMenu_SectionTitle-is-single">
-                                            <a href="https://blogs.faz.net/podcasts/"
-                                               class="lay-MegaMenu_SectionTitleLink lay-MegaMenu_SectionTitleLink-is-single"
-                                               title="Podcasts"
-                                                
-                                                >Podcasts</a>
                                         </p>
                                     </section>
                                 </div>
@@ -1908,14 +1850,14 @@ fazSecondaryInfo.T2.init();
                     data-services="mail,facebook,twitter,weitersagen"
                     data-mode="button-small"
                     data-weitersagen-data-related-layer="js-sharing-layer-sticky"
-                    data-custompermalink="https://www.faz.net/-gx0-9v59w"
-                    data-customsharelink="https://www.faz.net/aktuell/wissen/weltraum/zweite-gravitationswelle-von-verschmelzenden-neutronensternen-16569716.html"
-                                        data-mail-onclick="toggleMail(  'Gravitationswellen-Astronomie',
-                                                    'Das Ende zweier Neutronensterne',
-                                                    'Gravitationswellen-Astronomie: Das Ende zweier Neutronensterne',
-                                                    'Sibylle Anderl',
-                                                    'https:\/\/www.faz.net\/-gx0-9v59w',
-                                                    'Zum zweiten Mal ist es gelungen, ein Gravitationswellen-Signal aufzuzeichnen, das mutma\u00DFlich auf die Kollision zweier Neutronensterne zur\u00FCckgeht. Doch der Fund gibt R\u00E4tsel auf.')"
+                    data-custompermalink="https://www.faz.net/-gq5-9umab"
+                    data-customsharelink="https://www.faz.net/aktuell/politik/ausland/britisches-unterhaus-stimmt-ueber-brexit-abkommen-ab-16545107.html"
+                                        data-mail-onclick="toggleMail(  'Johnson macht Druck',
+                                                    'Britisches Unterhaus stimmt \u00FCber Brexit-Abkommen ab',
+                                                    'Johnson macht Druck: Britisches Unterhaus stimmt \u00FCber Brexit-Abkommen ab',
+                                                    '',
+                                                    'https:\/\/www.faz.net\/-gq5-9umab',
+                                                    'Boris Johnson dr\u00FCckt auf die Tube: Schon am Freitag soll das Parlament in London den Brexit-Deal abnicken. Nach seinem haushohen Wahlsieg d\u00FCrfte der Premierminister sein Ziel problemlos erreichen. Gegenwind bl\u00E4st ihm nur aus Schottland entgegen.')"
                     data-twitter-twitterhashtags="">
                 </ul>
                 <ul class="gh-MainNav_Aux gh-MainNav_Aux-sharing-is-present">
@@ -1960,21 +1902,21 @@ fazSecondaryInfo.T2.init();
                               <p class="lay-Sharing_Permalink  js-sharing-link-wrapper">
                                 <span class="js-sharing-link-select-trigger lay-Sharing_PermalinkLabel"
                                       title="Hier klicken um Permalink auszuwählen">Permalink: </span>
-    <span class="js-sharing-link-select-trigger js-sharing-link lay-Sharing_PermalinkUrl">https://www.faz.net/-gx0-9v59w</span>
+    <span class="js-sharing-link-select-trigger js-sharing-link lay-Sharing_PermalinkUrl">https://www.faz.net/-gq5-9umab</span>
   </p>
                         </div>
                                                                             <div class="lay-Sharing_ContainerFunctions">
                                                                     <ul class="som-Buttons js-sharebuttons"
                                         data-services="mail,facebook,twitter,xing,"
                                         data-mode="button-with-text"
-                                        data-custompermalink="https://www.faz.net/-gx0-9v59w"
-                                        data-customsharelink="https://www.faz.net/aktuell/wissen/weltraum/zweite-gravitationswelle-von-verschmelzenden-neutronensternen-16569716.html"
-                                                                                data-mail-onclick="toggleMail('Gravitationswellen-Astronomie',
-                                                                      'Das Ende zweier Neutronensterne',
-                                                                      'Gravitationswellen-Astronomie: Das Ende zweier Neutronensterne',
-                                                                      'Sibylle Anderl',
-                                                                      'https:\/\/www.faz.net\/-gx0-9v59w',
-                                                                      'Zum zweiten Mal ist es gelungen, ein Gravitationswellen-Signal aufzuzeichnen, das mutma\u00DFlich auf die Kollision zweier Neutronensterne zur\u00FCckgeht. Doch der Fund gibt R\u00E4tsel auf.')"
+                                        data-custompermalink="https://www.faz.net/-gq5-9umab"
+                                        data-customsharelink="https://www.faz.net/aktuell/politik/ausland/britisches-unterhaus-stimmt-ueber-brexit-abkommen-ab-16545107.html"
+                                                                                data-mail-onclick="toggleMail('Johnson macht Druck',
+                                                                      'Britisches Unterhaus stimmt \u00FCber Brexit-Abkommen ab',
+                                                                      'Johnson macht Druck: Britisches Unterhaus stimmt \u00FCber Brexit-Abkommen ab',
+                                                                      '',
+                                                                      'https:\/\/www.faz.net\/-gq5-9umab',
+                                                                      'Boris Johnson dr\u00FCckt auf die Tube: Schon am Freitag soll das Parlament in London den Brexit-Deal abnicken. Nach seinem haushohen Wahlsieg d\u00FCrfte der Premierminister sein Ziel problemlos erreichen. Gegenwind bl\u00E4st ihm nur aus Schottland entgegen.')"
                                         data-twitter-twittertext=""
                                         data-twitter-twitterhashtags="">
                                     </ul>
@@ -1983,13 +1925,13 @@ fazSecondaryInfo.T2.init();
                                                 data-services="empfehlen,comment"
                                                 data-mode="small-with-text"
                                                 data-empfehlen-value-description="Empfehlen"
-                                                data-comment-value="4"
-                                                data-empfehlen-value="25"
+                                                data-comment-value="0"
+                                                data-empfehlen-value="4"
                                                 data-empfehlen-a-class-template="js-recommend-link"
                                                 data-empfehlen-needs-init="true"
-                                                data-content-id="1.6569716"
+                                                data-content-id="1.6545107"
                                                 data-empfehlen-type="ARTICLESUGGEST"
-                                                data-content-path="2.252/2.1648/2.1923/2.1924"
+                                                data-content-path="2.252/2.1648/2.1651/2.1677"
                                             >
                                             </ul>
                                                                                                                             <ul class="ctn-PageFunctions_List js-sharebuttons "
@@ -2001,7 +1943,7 @@ fazSecondaryInfo.T2.init();
                                                 data-services="merken"
                                                 data-mode="small"
                                                 data-merken-a-class-template="js-btn-Base_Link "
-                                                data-content-id="1.6569716"
+                                                data-content-id="1.6545107"
                                                 data-merken-type-name="artikel"
                                                 data-merken-needs-init="true">
                                             </ul>
@@ -2173,7 +2115,7 @@ fazSecondaryInfo.T2.init();
                         </li>
                                             <li class="o-Grid_Col o-Grid_Col-has-no-gutter o-Grid_Col-does-fit-to-content">
                                                                                                                                             <a href="https://www.faz.net/aktuell/wissen/"
-                               class="gh-MainNav_SectionsLink gh-MainNav_SectionsLink-is-active"
+                               class="gh-MainNav_SectionsLink"
                                 
                                 >Wissen</a>
                         </li>
@@ -2267,7 +2209,7 @@ fazSecondaryInfo.T2.init();
     
     
         			<script type="application/ld+json">
-			{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.faz.net/","name":"FAZ.NET"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.faz.net/aktuell/wissen/","name":"Wissen"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://www.faz.net/aktuell/wissen/weltraum/","name":"Weltraum"}},{"@type":"ListItem","position":4,"item":{"@type":"WebPage","@id":"https://www.faz.net/aktuell/wissen/weltraum/zweite-gravitationswelle-von-verschmelzenden-neutronensternen-16569716.html","name":"Zweite Gravitationswelle von verschmelzenden Neutronensternen"}}]}
+			{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.faz.net/","name":"FAZ.NET"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.faz.net/aktuell/brexit/","name":"Brexit"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://www.faz.net/aktuell/politik/ausland/britisches-unterhaus-stimmt-ueber-brexit-abkommen-ab-16545107.html","name":"Britisches Unterhaus stimmt über Brexit-Abkommen ab"}}]}
 		</script>
 	
         <nav class="nvg-Breadcrumb nvg-Breadcrumb-is-in-header "
@@ -2278,23 +2220,15 @@ fazSecondaryInfo.T2.init();
                                                                          
                                                  
                         <li class="nvg-Breadcrumb_Item">
-                                                        <a href="https://www.faz.net/aktuell/wissen/"
+                                                        <a href="https://www.faz.net/aktuell/brexit/"
                                class="nvg-Breadcrumb_Link">
-                                                                                        <span>Wissen</span>
-                                                                                    </a>
-                                                    </li>
-                                                         
-                                                 
-                        <li class="nvg-Breadcrumb_Item">
-                                                        <a href="https://www.faz.net/aktuell/wissen/weltraum/"
-                               class="nvg-Breadcrumb_Link">
-                                                                                        <span>Weltraum</span>
+                                                                                        <span>Brexit</span>
                                                                                     </a>
                                                     </li>
                                     
                 
                                     <li class="nvg-Breadcrumb_Item">
-                        <h1>Zweite Gravitationswelle von verschmelzenden Neutronensternen</h1>
+                        <h1>Britisches Unterhaus stimmt &uuml;ber Brexit-Abkommen ab</h1>
                     </li>
                 
             </ul>
@@ -2366,9 +2300,9 @@ fazSecondaryInfo.T2.init();
 </a>
                         </p>
 
-                                                <a href="https://www.faz.net/aktuell/wissen/weltraum/">
+                                                <a href="https://www.faz.net/aktuell/brexit/">
 
-                                                            <p class="gh-LogoStage_Caption gh-LogoStage_Caption-is-section">Weltraum</p>
+                                                            <p class="gh-LogoStage_Caption gh-LogoStage_Caption-is-section">Brexit</p>
                             
                         </a>
                         
@@ -2384,7 +2318,7 @@ fazSecondaryInfo.T2.init();
 <div class="gh-WeatherWrapper">
     <a class="gh-Weather js-gh-weather o-VisuallyHidden"
        data-weatherchecksum="cd87b6105127eced76f05f1c546c0d4c"
-       data-today="2020-01-07"
+       data-today="2020-01-11"
        data-hostprefix="https://www.faz.net"
        data-city="DE0002989"
        title="Das Wetter"
@@ -2429,18 +2363,14 @@ fazSecondaryInfo.T15.init();
     <div class="o-Grid">
                         <div class="o-Grid_Col o-Grid_Col-14">
             <div class="gh-Footer_Main">
-                <p class="gh-Footer_MainLabelTopic"><a href="https://www.faz.net/aktuell/wissen/"
-                                                                            class="lbl-Base lbl-Base-is-link">Rubriken</a></p>
+                <p class="gh-Footer_MainLabelTopic"><a href="https://www.faz.net/themen/"
+                                                                            class="lbl-Base lbl-Base-is-link">Themen:</a></p>
                 <nav role="navigation">
                     <ul class="gh-Footer_TopicsList">
-                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://blogs.faz.net/platzfuertiere/" class="gh-Footer_TopicsListLink">Tierblog</a></li>
-                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/wissen/medizin-ernaehrung/" class="gh-Footer_TopicsListLink">Medizin</a></li>
-                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/wissen/leben-gene/" class="gh-Footer_TopicsListLink">Gene</a></li>
-                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/wissen/erde-klima/" class="gh-Footer_TopicsListLink">Klima</a></li>
-                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/wissen/weltraum/" class="gh-Footer_TopicsListLink">Weltraum</a></li>
-                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/wissen/alles-im-gruenen-bereich/" class="gh-Footer_TopicsListLink">Garten</a></li>
-                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/wissen/ins-netz-gegangen/" class="gh-Footer_TopicsListLink">Netzrätsel</a></li>
-                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/wissen/zukunftslabor-lindau/" class="gh-Footer_TopicsListLink">Zukunftslabor Lindau</a></li>
+                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/politik/thema/boris-johnson" class="gh-Footer_TopicsListLink">Boris Johnson</a></li>
+                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/politik/thema/jeremy-corbyn" class="gh-Footer_TopicsListLink">Jeremy Corbyn</a></li>
+                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/politik/thema/grossbritannien" class="gh-Footer_TopicsListLink">Großbritanien</a></li>
+                                                                                <li class="gh-Footer_TopicsListItem"><a href="https://www.faz.net/aktuell/politik/thema/europaeische-union" class="gh-Footer_TopicsListLink">Europäische Union</a></li>
                                             </ul>
                 </nav>
             </div>
@@ -2490,7 +2420,7 @@ fazSecondaryInfo.P2.init();
 
 
 
-												
+
 
 <article class="atc">
     <div class="o-ModuleWrapper o-ModuleWrapper-is-first  o-ModuleWrapper-has-no-bottom-gap">
@@ -2498,7 +2428,7 @@ fazSecondaryInfo.P2.init();
 		
 							<div data-gdpr-embedding data-gdpr-id="vgwort" data-gdpr-embedding-no-placeholder>
 <!--
-    <img src="https://faz.met.vgwort.de/na/fb4ea012e3b34c3c96df7cb52a3d086c" width="1" height="1" alt="">
+    <img src="https://faz.met.vgwort.de/na/90ffcc1248f8465999508b758cd6e96b" width="1" height="1" alt="">
 -->
 </div>
 		
@@ -2511,43 +2441,25 @@ fazSecondaryInfo.P2.init();
 	<div class="atc-HeadlineContainer ">
 		<h2 class="atc-Headline atc-Headline-lg">
 			<span class="atc-HeadlineEmphasis ">
-								<span class="atc-HeadlineEmphasisText">Gravitationswellen-Astronomie</span>
+								<span class="atc-HeadlineEmphasisText">Johnson macht Druck</span>
 				<span class="o-VisuallyHidden">: </span>
 			</span>
-			<span class="atc-HeadlineText">Das Ende zweier Neutronensterne</span>
+			<span class="atc-HeadlineText">Britisches Unterhaus stimmt über Brexit-Abkommen ab</span>
 		</h2>
 	</div>
 					
 	<div class="atc-Meta ">
 		<ul class="atc-MetaList">
 
-										
-                    <li rel="author" class="atc-MetaItem atc-MetaItem-author">
-					  <span class="atc-MetaAuthorText">
-                           Von                       </span>
-
 						
-														
-														                       	 	<span class="atc-MetaAuthor"><!--
-																	--><a class="atc-MetaAuthorLink" href="/redaktion/sibylle-anderl-14960096.html"><!--
-								
-											-->Sibylle Anderl<!--
-
-																	--></a><!--
-															--></span><!--
-
-							 -->
-						                    </li>
-
-			
 							<li class="atc-MetaItem atc-MetaItem-time-of-publication">
 										
-					<span class="atc-MetaItemSeparator">-</span><span class="atc-MetaTimeText">Aktualisiert am </span>
+					<span class="atc-MetaTimeText">Aktualisiert am </span>
 					<time class="atc-MetaTime"
-						  datetime="2020-01-07T16:23:18+0100"
-						  title="07.01.2020 16:23 Uhr">
+						  datetime="2019-12-20T05:37:31+0100"
+						  title="20.12.2019 05:37 Uhr">
 
-						07.01.2020<span class="atc-MetaItemSeparator">-</span>16:23
+						20.12.2019<span class="atc-MetaItemSeparator">-</span>05:37
 					</time>
 				</li>
 			
@@ -2564,7 +2476,7 @@ fazSecondaryInfo.P2.init();
 
 
 			<script type="application/ld+json">
-			{"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.faz.net/aktuell/wissen/weltraum/zweite-gravitationswelle-von-verschmelzenden-neutronensternen-16569716.html"},"headline":"Das Ende zweier Neutronensterne","publisher":{"@type":"Organization","name":"Frankfurter Allgemeine Zeitung","url":"https://www.faz.net","logo":{"@type":"ImageObject","url":"https://www.faz.net/img/fazlogo_home.png","width":"390","height":"60"}},"description":"Zum zweiten Mal ist es gelungen, ein Gravitationswellen-Signal aufzuzeichnen, das mutmaßlich auf die Kollision zweier Neutronensterne zurückgeht. Doch der Fund gibt Rätsel auf.","articleBody":"Wie gestern bei einer Pressekonferenz im Rahmen des 235. Treffens der American Astronomical Society in Honolulu bekannt gegeben wurde, ist es am 25. April 2019 zum zweiten Mal gelungen, ein Gravitationswellensignal aufzuzeichnen, das auf die Kollision zweier Neutronensterne zurückgeführt werden kann. Neutronensterne sind extrem kompakte Endstadien massereicher Sterne. Das Signal wurde dabei nur in einem der drei Observatorien des Konsortiums registriert, wie in einem begleitenden, bei der Fachzeitung „The Astrophysical Journal Letters“ eingereichten Artikel beschrieben wird. Während das Ereignis deutlich in den Daten des Instruments im amerikanischen Livingston zu sehen war, war das zweite Ligo-Observatorium in Hanford zu diesem Zeitpunkt temporär nicht in Betrieb. Das dritte Observatorium, der Virgo-Detektor im italienischen Cascina, lief zwar, registrierte aber kein Signal. Die Tatsache, dass das Ereignis in Italien nicht beobachtet werden konnte, konnte von den Wissenschaftlern aber dafür genutzt werden, den Ursprungsort der Gravitationswelle am Himmel einzugrenzen. Das als „GW190425“ bezeichnete Signal verweist laut Modellrechnungen auf die Kollision zweier Objekte mit einer Gesamtmasse zwischen 3,3 und 3,7 Sonnenmassen – ein für die Astronomen überraschend hoher Wert. Die Masse ist deutlich größer als man auf der Grundlage bekannter Neutronenstern-Doppelsysteme erwartet hätte. Unter den 17 bislang in unserer Milchstraße bekannten Doppelsystemen liegt die maximale Masse bei 2,89 Sonnenmassen. Die Astronomen spekulieren daher, dass das nun beobachtete Doppelsystem anders beschaffen sein könnte als die bekannten: Die beiden Sterne könnten sich auf extrem engen Bahnen mit Umlaufperioden von weniger als einer Stunde befunden haben, und damit einen Zweig der Binär-Population repräsentieren, der für die Durchmusterung unserer Galaxie unsichtbar ist. Alternativ könnten die beiden Sterne unabhängig voneinander entstanden sein und erst später dynamisch zu einem System zusammengefunden haben – ein Prozess, der im lokalen Universum sehr unwahrscheinlich zu sein scheint. Die Wissenschaftler ziehen darüber hinaus auch die Möglichkeit in Betracht, dass an dem Ereignis ein oder zwei Schwarze Löcher beteiligt gewesen sein könnten. Sie halten diese Option aber für nicht wahrscheinlich, da in diesem Fall die Masse der beteiligten Schwarzen Löcher genau zwischen denen der für Neutronensternen und Schwarzen Löchern typischen Werten liegen müsste. Ob es aber Schwarze Löcher mit Massen unterhalb von 4 Sonnenmassen überhaupt gibt, ist umstritten. Im Herbst 2017 war es eine Sensation gewesen, als die Ligo- und Virgo-Kollaborationen die erstmalige Aufzeichnung eines Gravitationswellensignals vom 17. August desselben Jahres bekannt gaben, das von der Verschmelzung zweier Neutronensterne stammte. Diese Entdeckung war nicht nur deshalb so bemerkenswert, weil sie viele Details über den Verschmelzungsprozess und dessen Folgen wie beispielsweise die Produktion schwerer Elemente lieferte, die bis dahin unbekannt waren. Ihre Bedeutung lag insbesondere auch darin, dass erstmalig der Ursprung einer Gravitationswelle nicht nur anhand der winzigen, sich mit Lichtgeschwindigkeit fortbewegenden Dehnungen und Stauchungen der Raumzeit, sondern auch anhand elektromagnetischer Strahlung beobachten ließ: die Verschmelzung der stellaren Endstadien war gleichzeitig als Gammablitz und als ein Nachleuchten im gesamten Bereich des elektromagnetischen Spektrums zu verfolgen. Das Forschungsgebiet der Gravitationswellen-Astrophysik hatte damit seinen Anschluss an die übrigen astrophysikalischen Beobachtungsdisziplinen vollzogen. Eine knappe dreiviertel Stunde nach der Registrierung von GW190425 wurde auch diesmal ein Alarm an Teleskope weltweit versandt, um nach dem elektromagnetischen Gegenstück des Signals oder nach Neutrinos zu suchen, die von dem Ereignis erzeugten worden waren. Da aber nur das Observatorium in Livingston das Signal empfangen hatte, war die Lokalisierung am Himmel erheblich ungenauer als bei dem Ereignis 2017. Während damals die aus dem Signal abgeleitete mögliche Ursprungsregion 0,04 Prozent des Himmels bedeckte waren es nun knapp 20 Prozent. Tatsächlich wurde kein weiteres astronomisches Signal gefunden, das zur registrierten Gravitationswelle gepasst hätte. Das Fehlen weiterer Informationsträger macht das neuerliche Signal weit weniger informativ als seinen Vorgänger 2017. Die Tatsache, dass es aber auf ein Doppelsystem verweist, dessen Eigenschaften von allen bisher beobachteten abweichen, macht es wiederum astrophysikalisch besonders interessant. „In jedem Fall repräsentiert die Quelle von GW190425 einen bislang unentdeckten Typ eines astrophysikalischen Systems“, schließen die Astronomen. Was daraus nun im Detail abzuleiten ist, werden weitere Studien zeigen.","datePublished":"Tue Jan 07 16:23:18 CET 2020","dateModified":"Tue Jan 07 16:23:18 CET 2020","image":[{"@type":"ImageObject","url":"https://media0.faz.net/ppmedia/aktuell/2967284187/1.6569740/default-retina/kuenstlerische-darstellung-der.jpg","width":"1900","height":"2215"},{"@type":"ImageObject","url":"https://media0.faz.net/ppmedia/aktuell/2967284187/1.6569740/format_jsonld_1x1/kuenstlerische-darstellung-der.jpg","width":"1200","height":"1200"},{"@type":"ImageObject","url":"https://media0.faz.net/ppmedia/aktuell/2967284187/1.6569740/format_jsonld_4x3/kuenstlerische-darstellung-der.jpg","width":"1200","height":"900"},{"@type":"ImageObject","url":"https://media0.faz.net/ppmedia/aktuell/2967284187/1.6569740/format_jsonld_16x9/kuenstlerische-darstellung-der.jpg","width":"1200","height":"675"}],"author":{"@type":"Person","name":"Sibylle Anderl","url":"https://www.faz.net/redaktion/sibylle-anderl-14960096/sibylle-anderl-14960096.html","image":{"@type":"ImageObject","url":"https://media0.faz.net/ppmedia/aktuell/1145731273/1.4960950/avatar80x80/hq/autorenbild-sybille-anderl.jpg","width":"80","height":"80"}},"isAccessibleForFree":"http://schema.org/True"}
+			{"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.faz.net/aktuell/politik/ausland/britisches-unterhaus-stimmt-ueber-brexit-abkommen-ab-16545107.html"},"headline":"Britisches Unterhaus stimmt über Brexit-Abkommen ab","publisher":{"@type":"Organization","name":"Frankfurter Allgemeine Zeitung","url":"https://www.faz.net","logo":{"@type":"ImageObject","url":"https://www.faz.net/img/fazlogo_home.png","width":"390","height":"60"}},"description":"Boris Johnson drückt auf die Tube: Schon am Freitag soll das Parlament in London den Brexit-Deal abnicken. Nach seinem haushohen Wahlsieg dürfte der Premierminister sein Ziel problemlos erreichen. Gegenwind bläst ihm nur aus Schottland entgegen.","articleBody":"Das britische Parlament stimmt am Freitagnachmittag über das Austrittsabkommen mit der Europäischen Union ab. Dazu wird Premierminister Boris Johnson das entsprechende Ratifizierungsgesetz einbringen. Gleichzeitig soll eine Verlängerung der bis Ende 2020 vorgesehenen Übergangsfrist ausgeschlossen werden. Eine Mehrheit gilt nach Johnsons klarem Sieg bei der Parlamentswahl als sicher: Seine Tories haben einen Vorsprung von 80 Sitzen auf alle anderen Parteien. Vor der Neuwahl führte der Premierminister eine Minderheitsregierung an. Seine Vorgängerin Theresa May war drei Mal mit ihrem mit Brüssel ausgehandelten Brexit-Deal im zerstrittenen Parlament durchgefallen. „Heute werden wir das Versprechen, das wir den Menschen gegeben haben, einlösen und die Brexit-Abstimmung zu Weihnachten einpacken“, teilte Johnson mit. „Nach Jahren der Verzögerung und der Verbitterung im Parlament werden wir Gewissheit schaffen und hart arbeitende Unternehmen und Menschen in diesem Land bekommen eine feste Grundlage, auf der sie ihre Zukunft planen können.“ Johnson will Großbritannien am 31. Januar aus der EU führen. In der Übergangsphase bis Ende 2020 bleibt zunächst so gut wie alles beim Alten. Bis dahin wollen beide Seiten ein Freihandelsabkommen aushandeln. Die Zeit dafür gilt jedoch als äußerst knapp. Das Parlament war am Donnerstag feierlich von Königin Elizabeth II. (93) wiedereröffnet worden – allerdings mit weniger Pomp als üblich. Johnson verdankt seinen deutlichen Sieg in der vergangenen Woche insbesondere Wählern aus der Arbeiterschicht in den ehemaligen Labour-Hochburgen in Mittel- und Nordengland. Um sie zu locken, hatte er ein Ende der Sparpolitik angekündigt. Der Premier steht nun unter Druck, diese Versprechen – zum Beispiel Finanzspritzen für den staatlichen Gesundheitsdienst NHS und Schulen – auch einzulösen. Schottische Regierungschefin will zweites Unabhängigkeitsreferendum Mächtig Gegenwind bekommt Johnson aus dem Norden Großbritanniens: Die schottische Regierungschefin Nicola Sturgeon forderte den Premier schriftlich auf, einem zweiten Unabhängigkeitsreferendum zuzustimmen. Er sei dazu verpflichtet, schrieb die Politikerin. Ob eine Volksabstimmung in dem Landesteil stattfinden kann, entscheidet bislang die Zentralregierung in London. Johnson hatte Sturgeons Wunsch schon mehrfach abgewiesen. Die schottische Regierungschefin will das Referendum 2020 abhalten. Rund 55 Prozent der Schotten hatten sich 2014 bei einem ersten Referendum gegen eine Abspaltung vom Vereinigten Königreich ausgesprochen. Sturgeon argumentiert jedoch, die Umstände hätten sich durch das Brexit-Referendum von 2016 verändert. Damals stimmte eine knappe Mehrheit der Briten für den EU-Austritt. Die Schotten votierten aber mit 62 Prozent gegen den Brexit.","datePublished":"Fri Dec 20 05:37:31 CET 2019","dateModified":"Fri Dec 20 05:37:31 CET 2019","image":[{"@type":"ImageObject","url":"https://media0.faz.net/ppmedia/aktuell/3930456597/1.6545116/default-retina/der-britische-premierminister.jpg","width":"1900","height":"1268"},{"@type":"ImageObject","url":"https://media0.faz.net/ppmedia/aktuell/3930456597/1.6545116/format_jsonld_1x1/der-britische-premierminister.jpg","width":"1200","height":"1200"},{"@type":"ImageObject","url":"https://media0.faz.net/ppmedia/aktuell/3930456597/1.6545116/format_jsonld_4x3/der-britische-premierminister.jpg","width":"1200","height":"900"},{"@type":"ImageObject","url":"https://media0.faz.net/ppmedia/aktuell/3930456597/1.6545116/format_jsonld_16x9/der-britische-premierminister.jpg","width":"1200","height":"675"}],"author":{"@type":"Organization","name":"chrs./dpa"},"isAccessibleForFree":"http://schema.org/True","video":{"@type":"VideoObject","name":"Mit Hut statt Krone: Queen liest Johnsons Regierungserklärung ohne Krone vor","description":"Königin Elizabeth II. eröffnete nach den Neuwahlen im Vereinigten Königreich das neue Parlament. Johnson versicherte den Bürgern einen Austritt aus der Europäischen Union bis zum 31. Januar. Überraschend trat die Queen diesmal aber nicht mit Krone auf.","thumbnailUrl":["https://www.faz.net/ppmedia/aktuell/245693186/1.6544205/format_top1_portrait/64234873.jpg","https://www.faz.net/ppmedia/aktuell/245693186/1.6544205/format4_3-schema_org_thumbnail/64234873.jpg","https://www.faz.net/ppmedia/aktuell/245693186/1.6544205/mmo-uebersichtsseite-aufmacher-retina/64234873.jpg"],"uploadDate":"2019-12-19T17:54:04+0100","contentUrl":"//www.youtube-nocookie.com/embed/wzS9pV4Y4fo?enablejsapi\u003d1\u0026wmode\u003dtransparent\u0026start\u003d\u0026end\u003d","embedUrl":"https://www.faz.net/1.6544200?service\u003dembedded"}}
 		</script>
 	
 <script type="text/javascript">
@@ -2576,7 +2488,7 @@ fazSecondaryInfo.P2.init();
 
     
                          <div class="atc-ImageContainer">
-                		    <a href="https://www.faz.net/aktuell/wissen/weltraum/zweite-gravitationswelle-von-verschmelzenden-neutronensternen-16569716/kuenstlerische-darstellung-der-16569740.html">
+                		    <a href="https://www.faz.net/aktuell/politik/ausland/britisches-unterhaus-stimmt-ueber-brexit-abkommen-ab-16545107/der-britische-premierminister-16545116.html">
 		
 
 
@@ -2592,7 +2504,7 @@ fazSecondaryInfo.P2.init();
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Künstlerische Darstellung der Kollision zweier Neutronensterne' width='960' data-retina-src='https://media0.faz.net/ppmedia/aktuell/2967284187/1.6569740/format_top1_breit/kuenstlerische-darstellung-der.jpg' title='Künstlerische Darstellung der Kollision zweier Neutronensterne' class='media atc-Image atc-Image-has-hover-effect' height='430' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' alt='Der britische Premierminister Boris Johnson spricht im Unterhaus nach der Rede der Queen zur Eröffnung des Parlaments.' width='960' data-retina-src='https://media0.faz.net/ppmedia/aktuell/3930456597/1.6545116/format_top1_breit/der-britische-premierminister.jpg' title='Der britische Premierminister Boris Johnson spricht im Unterhaus nach der Rede der Queen zur Eröffnung des Parlaments.' class='media atc-Image atc-Image-has-hover-effect' height='430' onload='processRetinaDerivate(this);' />    
 	    </a>
 	                		
 	<span class="btn-Base  js-atc-ImageDescriptionButton btn-Base-is-bottom btn-Base-is-left-large  btn-Base-has-icon   btn-Base-has-link" data-button="{'textShowImageDescription':'Bildbeschreibung einblenden','textHideImageDescription':'Bildbeschreibung ausblenden'}">
@@ -2611,13 +2523,13 @@ fazSecondaryInfo.P2.init();
 		<p class="atc-ImageDescriptionInner">
 			<span class="atc-ImageDescriptionTextContainer">
 				<span class="atc-ImageDescriptionText">
-					Künstlerische Darstellung der Kollision zweier Neutronensterne 				</span>
-				<span class="atc-ImageDescriptionCopyright">Bild: National Science Foundation/LIGO/Sonoma State University/A. Simonnet</span>
+					Der britische Premierminister Boris Johnson spricht im Unterhaus nach der Rede der Queen zur Eröffnung des Parlaments. 				</span>
+				<span class="atc-ImageDescriptionCopyright">Bild: AFP</span>
 			</span>
 		</p>
 	</div>
 				<p class="atc-IntroText">
-			Zum zweiten Mal ist es gelungen, ein Gravitationswellen-Signal aufzuzeichnen, das mutmaßlich auf die Kollision zweier Neutronensterne zurückgeht. Doch der Fund gibt Rätsel auf.
+			Boris Johnson drückt auf die Tube: Schon am Freitag soll das Parlament in London den Brexit-Deal abnicken. Nach seinem haushohen Wahlsieg dürfte der Premierminister sein Ziel problemlos erreichen. Gegenwind bläst ihm nur aus Schottland entgegen.
 		</p>
 	</div>
      
@@ -2627,49 +2539,49 @@ fazSecondaryInfo.P2.init();
           <ul class="som-Buttons js-sharebuttons js-ctn-PageFunctions_Bookmark"
               data-services="merken"
               data-mode="button-with-text-aside"
-              data-content-id="1.6569716"
+              data-content-id="1.6545107"
               data-merken-a-class-template="js-btn-Base_Link"
               data-merken-textclass-template="test"
               data-merken-type-name="artikel"
               data-merken-needs-init="true"></ul>
 
-                        <div class="ctn-PageFunctions">
+                            <div class="ctn-PageFunctions">
                   <ul class="ctn-PageFunctions_List js-sharebuttons"
-              data-services="empfehlen,comment"
+              data-services="empfehlen,"
               data-mode="small-with-text"
-              data-comment-value="4"
-              data-empfehlen-value="25"
+              data-comment-value=""
+              data-empfehlen-value="4"
               data-empfehlen-a-class-template="js-recommend-link"
               data-empfehlen-needs-init="true"
-              data-content-id="1.6569716"
+              data-content-id="1.6545107"
               data-empfehlen-type="ARTICLESUGGEST"
-              data-content-path="2.252/2.1648/2.1923/2.1924"></ul>
+              data-content-path="2.252/2.1648/2.1651/2.1677"></ul>
         
       <ul class="ctn-PageFunctions_List js-sharebuttons js-ctn-PageFunctions_Bookmark"
           data-services="drucken,,weitersagen"
           data-mode="small"
           data-merken-a-class-template="js-btn-Base_Link"
           data-merken-type-name="artikel"
-          data-content-id="1.6569716"
+          data-content-id="1.6545107"
           data-weitersagen-data-related-layer="sharingToggleIdInArticle"
           data-merken-needs-init="true"></ul>
     </div>
                 <ul class="som-Buttons js-sharebuttons"
                 data-services="mail,facebook,twitter,pocket"
                 data-mode="button"
-                data-custompermalink="https://www.faz.net/-gx0-9v59w"
-                data-customsharelink="https://www.faz.net/aktuell/wissen/weltraum/zweite-gravitationswelle-von-verschmelzenden-neutronensternen-16569716.html"
+                data-custompermalink="https://www.faz.net/-gq5-9umab"
+                data-customsharelink="https://www.faz.net/aktuell/politik/ausland/britisches-unterhaus-stimmt-ueber-brexit-abkommen-ab-16545107.html"
                                 data-twitter-twitterhashtags=""
-                data-mail-onclick="toggleMail(  'Gravitationswellen-Astronomie',
-                  'Das Ende zweier Neutronensterne',
-                  'Gravitationswellen-Astronomie: Das Ende zweier Neutronensterne',
-                  'Sibylle Anderl',
-                  'https:\/\/www.faz.net\/-gx0-9v59w',
-                  'Zum zweiten Mal ist es gelungen, ein Gravitationswellen-Signal aufzuzeichnen, das mutma\u00DFlich auf die Kollision zweier Neutronensterne zur\u00FCckgeht. Doch der Fund gibt R\u00E4tsel auf.')"></ul>
+                data-mail-onclick="toggleMail(  'Johnson macht Druck',
+                  'Britisches Unterhaus stimmt \u00FCber Brexit-Abkommen ab',
+                  'Johnson macht Druck: Britisches Unterhaus stimmt \u00FCber Brexit-Abkommen ab',
+                  '',
+                  'https:\/\/www.faz.net\/-gq5-9umab',
+                  'Boris Johnson dr\u00FCckt auf die Tube: Schon am Freitag soll das Parlament in London den Brexit-Deal abnicken. Nach seinem haushohen Wahlsieg d\u00FCrfte der Premierminister sein Ziel problemlos erreichen. Gegenwind bl\u00E4st ihm nur aus Schottland entgegen.')"></ul>
 
             <div class="atc-ReadTime" title="Lesezeit">
                 <span class="o-Icon atc-ReadTime_Icon"></span>
-                <span class="atc-ReadTime_Text">3 Min.</span>
+                <span class="atc-ReadTime_Text">2 Min.</span>
             </div>
         </div>
 
@@ -2686,21 +2598,21 @@ fazSecondaryInfo.P2.init();
                                                                     <ul class="som-Buttons js-sharebuttons"
                                         data-services="xing,linkedin,flipboard,facebook-messenger,whatsapp,"
                                         data-mode="button"
-                                        data-custompermalink="https://www.faz.net/-gx0-9v59w"
-                                        data-customsharelink="https://www.faz.net/aktuell/wissen/weltraum/zweite-gravitationswelle-von-verschmelzenden-neutronensternen-16569716.html"
-                                                                                data-mail-onclick="toggleMail('Gravitationswellen-Astronomie',
-                                                                      'Das Ende zweier Neutronensterne',
-                                                                      'Gravitationswellen-Astronomie: Das Ende zweier Neutronensterne',
-                                                                      'Sibylle Anderl',
-                                                                      'https:\/\/www.faz.net\/-gx0-9v59w',
-                                                                      'Zum zweiten Mal ist es gelungen, ein Gravitationswellen-Signal aufzuzeichnen, das mutma\u00DFlich auf die Kollision zweier Neutronensterne zur\u00FCckgeht. Doch der Fund gibt R\u00E4tsel auf.')"
+                                        data-custompermalink="https://www.faz.net/-gq5-9umab"
+                                        data-customsharelink="https://www.faz.net/aktuell/politik/ausland/britisches-unterhaus-stimmt-ueber-brexit-abkommen-ab-16545107.html"
+                                                                                data-mail-onclick="toggleMail('Johnson macht Druck',
+                                                                      'Britisches Unterhaus stimmt \u00FCber Brexit-Abkommen ab',
+                                                                      'Johnson macht Druck: Britisches Unterhaus stimmt \u00FCber Brexit-Abkommen ab',
+                                                                      '',
+                                                                      'https:\/\/www.faz.net\/-gq5-9umab',
+                                                                      'Boris Johnson dr\u00FCckt auf die Tube: Schon am Freitag soll das Parlament in London den Brexit-Deal abnicken. Nach seinem haushohen Wahlsieg d\u00FCrfte der Premierminister sein Ziel problemlos erreichen. Gegenwind bl\u00E4st ihm nur aus Schottland entgegen.')"
                                         data-twitter-twittertext=""
                                         data-twitter-twitterhashtags="">
                                     </ul>
                                                                                                                                       <p class="lay-Sharing_Permalink  js-sharing-link-wrapper">
                                 <span class="js-sharing-link-select-trigger lay-Sharing_PermalinkLabel"
                                       title="Hier klicken um Permalink auszuwählen">Permalink: </span>
-    <span class="js-sharing-link-select-trigger js-sharing-link lay-Sharing_PermalinkUrl">https://www.faz.net/-gx0-9v59w</span>
+    <span class="js-sharing-link-select-trigger js-sharing-link lay-Sharing_PermalinkUrl">https://www.faz.net/-gq5-9umab</span>
   </p>
                                                             </div>
                                             </div>
@@ -2750,7 +2662,7 @@ fazSecondaryInfo.P3.init();
         
 
                                  
-                            <p class="First atc-TextParagraph" id="pageIndex_1"><span class="atc-TextFirstLetter">W</span>ie gestern bei einer Pressekonferenz im Rahmen des 235. Treffens der American Astronomical Society in Honolulu bekannt gegeben wurde, ist es am 25. April 2019 zum zweiten Mal gelungen, ein Gravitationswellensignal aufzuzeichnen, das auf die Kollision zweier Neutronensterne zurückgeführt werden kann.</p>
+                            <p class="First atc-TextParagraph" id="pageIndex_1"><span class="atc-TextFirstLetter">D</span>as britische Parlament stimmt am Freitagnachmittag über das Austrittsabkommen mit der Europäischen Union ab. Dazu wird Premierminister <a class="rtr-entity" data-rtr-id="5a6aff98e46b98ca35259efce445fc8bf83a3658" href="https://www.faz.net/aktuell/politik/thema/boris-johnson">Boris Johnson</a> das entsprechende Ratifizierungsgesetz einbringen. Gleichzeitig soll eine Verlängerung der bis Ende 2020 vorgesehenen Übergangsfrist ausgeschlossen werden. Eine Mehrheit gilt nach Johnsons klarem Sieg bei der Parlamentswahl als sicher: Seine Tories haben einen Vorsprung von 80 Sitzen auf alle anderen Parteien.</p>
             
         
     
@@ -2759,85 +2671,8 @@ fazSecondaryInfo.P3.init();
                                  
                             
 
-                                     <div class="atc-ContainerInfo js-atc-ContainerInfo ">
-                                                    							<div class="cbx-Author cbx-Author-is-in-article-container-info ">
-		<div class="cbx-Author_AvatarContainer">
-											
-
-
-    
-
-
-
-
-
-
-                        
-                                                                        
                 
-            
-    
-    <img src='https://www.faz.net/img/leer.gif' alt='Sibylle Anderl' width='80' data-retina-src='https://media0.faz.net/ppmedia/aktuell/1145731273/1.4960950/avatar80x80/hq/autorenbild-sybille-anderl.jpg' title='Sibylle Anderl' class='media cbx-Author_Avatar' height='80' onload='processRetinaDerivate(this);' />    
-					</div>
-		<div class="cbx-Author_InfoContainer">
-			<div class="cbx-Author_PersonalInfo">
-			   <p class="cbx-Author_Name">
-					<a class="cbx-Author_NameLink"
-					   href="/redaktion/sibylle-anderl-14960096.html"
-					   title="Sibylle Anderl"
-					   rel="author">
-						Sibylle Anderl
-				   </a>
-			   </p>
-			   <p class="cbx-Author_Position">Redakteurin im Feuilleton.</p>
-			</div>
-
-			
-			<ul class="cbx-Author_ProfileList">
-														
-											<li class="cbx-Author_ProfileItem cbx-Author_ProfileItem-faz">
-							<a class="autorFolgen js-lay-Login_OpenClick"
-                               data-login-modal-headline="Autor folgen"
-							   data-login-modal-text="Bitte melden Sie sich an, um Sibylle Anderl zu folgen."
-							   rel="nofollow"
-							   title="Sibylle Anderl folgen"
-							   onclick="getFazFollowerService('/mein-faz-net/meine-autoren/').followAuthor('Sibylle Anderl', '', '1.4960096');">
-										
-	<span class="btn-Base  btn-Base-icon  btn-Base-has-icon  " >
-		        	<span class="btn-Base_TextWrapper">
-											<span class="js-btn-Base_Icon btn-Base_Icon btn-Base_Faz o-Icon">
-													<span class="js-btn-Base_HiddenText btn-Base_HiddenText o-VisuallyHidden">F.A.Z.</span>
-											</span>
-								
-					</span>
-			</span>
-							</a>
-						</li>
-									
-				
-									<li class="cbx-Author_ProfileItem">
-														
-	<span class="btn-Base  btn-Base-icon  btn-Base-has-icon   btn-Base-has-link" >
-					<a class="btn-Base_Link" href="http://twitter.com/sianderl" >
-											<span class="js-btn-Base_Icon btn-Base_Icon btn-Base_Twitter o-Icon">
-													<span class="js-btn-Base_HiddenText btn-Base_HiddenText o-VisuallyHidden">Twitter</span>
-											</span>
-								
-					</a >
-			</span>
-					</li>
-											</ul>
-
-			
-		</div>
-	</div>
-
-
-			                        
-
-                    </div>
-                
-                <p class="atc-TextParagraph">Neutronensterne sind extrem kompakte Endstadien massereicher Sterne. Das Signal wurde dabei nur in einem der drei Observatorien des Konsortiums registriert, wie in einem begleitenden, bei der Fachzeitung „The Astrophysical Journal Letters“ <a href="https://dcc.ligo.org/public/0161/P190425/007/gw190425-discovery.pdf" target="_blank">eingereichten Artikel</a> beschrieben wird. Während das Ereignis deutlich in den Daten des Instruments im amerikanischen Livingston zu sehen war, war das zweite Ligo-Observatorium in Hanford zu diesem Zeitpunkt temporär nicht in Betrieb. Das dritte Observatorium, der Virgo-Detektor im italienischen Cascina, lief zwar, registrierte aber kein Signal. Die Tatsache, dass das Ereignis in Italien nicht beobachtet werden konnte, konnte von den Wissenschaftlern aber dafür genutzt werden, den Ursprungsort der <a class="rtr-entity" data-rtr-id="24d857b035dcd03741e57178ffd6c8b142ec4329" href="https://www.faz.net/aktuell/wissen/thema/gravitationswelle">Gravitationswelle</a> am Himmel einzugrenzen.</p>
+                <p class="atc-TextParagraph">Vor der Neuwahl führte der Premierminister eine Minderheitsregierung an. Seine Vorgängerin <a class="rtr-entity" data-rtr-id="796326cdbfdec9731b9f0736e4cc55975e292d92" href="https://www.faz.net/aktuell/politik/thema/theresa-may">Theresa May</a> war drei Mal mit ihrem mit Brüssel ausgehandelten Brexit-Deal im zerstrittenen Parlament durchgefallen. „Heute werden wir das Versprechen, das wir den Menschen gegeben haben, einlösen und die Brexit-Abstimmung zu Weihnachten einpacken“, teilte Johnson mit. „Nach Jahren der Verzögerung und der Verbitterung im Parlament werden wir Gewissheit schaffen und hart arbeitende Unternehmen und Menschen in diesem Land bekommen eine feste Grundlage, auf der sie ihre Zukunft planen können.“</p>
 
 
             
@@ -2846,23 +2681,36 @@ fazSecondaryInfo.P3.init();
         
 
                                  
-                            <p class="atc-TextParagraph">Das als „GW190425“ bezeichnete Signal verweist laut Modellrechnungen auf die Kollision zweier Objekte mit einer Gesamtmasse zwischen 3,3 und 3,7 Sonnenmassen – ein für die Astronomen überraschend hoher Wert. Die Masse ist deutlich größer als man auf der Grundlage bekannter Neutronenstern-Doppelsysteme erwartet hätte. Unter den 17 bislang in unserer Milchstraße bekannten Doppelsystemen liegt die maximale Masse bei 2,89 Sonnenmassen. Die Astronomen spekulieren daher, dass das nun beobachtete Doppelsystem anders beschaffen sein könnte als die bekannten: Die beiden Sterne könnten sich auf extrem engen Bahnen mit Umlaufperioden von weniger als einer Stunde befunden haben, und damit einen Zweig der Binär-Population repräsentieren, der für die Durchmusterung unserer Galaxie unsichtbar ist. Alternativ könnten die beiden Sterne unabhängig voneinander entstanden sein und erst später dynamisch zu einem System zusammengefunden haben – ein Prozess, der im lokalen Universum sehr unwahrscheinlich zu sein scheint.</p>
+                            <p class="atc-TextParagraph">Johnson will Großbritannien am 31. Januar aus der <a class="rtr-entity" data-rtr-id="9fc100f4f3574fbb952072eb333eee33a582a1ed" href="https://www.faz.net/aktuell/politik/thema/europaeische-union">EU</a> führen. In der Übergangsphase bis Ende 2020 bleibt zunächst so gut wie alles beim Alten. Bis dahin wollen beide Seiten ein Freihandelsabkommen aushandeln. Die Zeit dafür gilt jedoch als äußerst knapp.</p>
             
         
     
         
 
-                    
-		
-			<div class="ctn-PlaceholderContent ctn-PlaceholderContent-is-in-article-medium  ">
-			<figure class="con-Image">
-									<a class="con-Image_Link" href="https://www.faz.net/aktuell/wissen/weltraum/zweite-gravitationswelle-von-verschmelzenden-neutronensternen-16569716/die-gravitationswellen-werden-16569743.html">
-										<div class="con-Image_Container">
-							
-							
+                                                                
 
 
-    
+
+
+
+
+
+
+	
+<div class="ctn-PlaceholderContent ctn-PlaceholderContent-is-in-article-medium  ">
+
+            	    <div>
+<div data-gdpr-embedding data-gdpr-id="fazExternalVideoPlayer">
+<!--
+	<div class="mm-MainVideo js-multimedia-player-external mm-MainVideo-is-video">
+        <div class="o-Ratio o-Ratio-16x9">
+            <div class="o-Ratio_Content">
+
+                <div class="mm-MainVideo_ImageWrapper">
+                                        
+
+
+
 
 
 
@@ -2874,40 +2722,85 @@ fazSecondaryInfo.P3.init();
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Die Gravitationswellen werden in hochempfindlichen Interferometern registriert, hier das Ligo-Observatorium im amerikanischen Hanford, das zum Zeitpunkt der Entdeckung nicht in Betrieb war.' width='680' data-retina-src='https://media1.faz.net/ppmedia/aktuell/3652519836/1.6569743/media_in_article_medium_original/die-gravitationswellen-werden.jpg' title='Die Gravitationswellen werden in hochempfindlichen Interferometern registriert, hier das Ligo-Observatorium im amerikanischen Hanford, das zum Zeitpunkt der Entdeckung nicht in Betrieb war.' class='media con-Image_Image ' height='453' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' width='680' data-retina-src='https://media1.faz.net/ppmedia/aktuell/245693186/1.6544205/media_in_article_medium/64234873.jpg' class='media' height='385' onload='processRetinaDerivate(this);' />    
 
-													</div>
+                    <div class="VdoPlayerCtrls">
+                        <div class="CtrlText"></div>
+                    </div>
 
-							
+                    <div class="mm-MainVideo_TextWrapper">
+                        <button class="mm-MainVideo_Play">
+                            <span class="o-VisuallyHidden">Video starten</span>
+                        </button>
+
+													<header class="mm-MainVideo_Text">
+								<h2 class="mm-MainVideo_Headline">
+									<span class="mm-MainVideo_Emphasis">
+										Mit Hut statt Krone
+										<span class="o-VisuallyHidden">: </span>
+									</span>
+									<span class="mm-MainVideo_Title">Queen liest Johnsons Regierungserklärung ohne Krone vor</span>
+								</h2>
+							</header>
+						                    </div>
+                </div>
+                <div class="mm-MainVideo_VideoWrapper mm-MainVideo_VideoWrapper-is-hidden js-videojs-extern-player"
+                     data-videojs-url-prefix="https://www.faz.net"
+					 data-videojs-video-id="162063783"
+					 data-videojs-source-id="1.6544200"
+					 data-videojs-source = "Reuters"
+					 data-videojs-title="Queen liest Johnsons Regierungserkl\u00E4rung ohne Krone vor"
+					 data-videojs-player-width="680"
+					 data-videojs-player-height="385"
+					 data-videojs-magnifier-url="https://www.faz.net/aktuell/politik/ausland/queen-liest-boris-johnsons-regierungserklaerung-ohne-krone-vor-16544200.html"
+					 data-videojs-is-audio="false"
+					 data-videojs-smark="Andere-Queen liest Johnsons Regierungserkl\u00E4rung ohne Krone vor"
+					 data-videojs-html5-video-url=""
+					 data-videojs-show-ads="true"
+					 data-videojs-show-player-in-hq="false"
+					 data-videojs-is-embedded="false"
+					 data-videojs-is-hd="false"
+					 data-videojs-is-auto="false"
+					 data-videojs-media='extern'>
+                                            <iframe id="extern-embed-wzS9pV4Y4fo"
+	data-extern-videoid="wzS9pV4Y4fo" width="610" height="343" frameborder="0"
+	data-playertype="youtube"
+	src="//www.youtube-nocookie.com/embed/wzS9pV4Y4fo?enablejsapi=1&wmode=transparent&start=&end="
+	allowfullscreen >
+</iframe>
+		
+                                    </div>
+            </div>
+        </div>
+	</div>
+-->
+</div>
+</div>
+    
+    	
     <div data-gdpr-embedding data-gdpr-id="11" data-gdpr-embedding-no-placeholder>
 	<!--
-		<figcaption class="ctn-PlaceholderContent_Description    ">
+		<figcaption class="ctn-PlaceholderContent_Description  ctn-PlaceholderContent_Description-has-text-overline    ctn-PlaceholderContent_Description-has-copyright-without-description">
 			<span class="ctn-PlaceholderContent_DescriptionTextContainer">
 
-									<span class="ctn-PlaceholderContent_DescriptionHeadlineEmphasis">
-						<span class="ctn-PlaceholderContent_DescriptionHeadlineEmphasisText">Die Gravitationswellen werden in hochempfindlichen Interferometern registriert, hier das Ligo-Observatorium im amerikanischen Hanford, das zum Zeitpunkt der Entdeckung nicht in Betrieb war.</span>
-						<span class="o-VisuallyHidden">: </span>
-					</span>
 				
 									<span class="ctn-PlaceholderContent_DescriptionHeadlineTextContainer">
-																			<span class="ctn-PlaceholderContent_DescriptionCopyright">Bild: dpa</span>
+																			<span class="ctn-PlaceholderContent_DescriptionCopyright">Video: Reuters, Bild: AFP</span>
 											</span>
 							</span>
 		</figcaption >
 	-->
 	</div>
 
-										</a >
-							</figure>
-		</div>
-	
+	</div>
+                            
 
         
     
         
 
                                  
-                            <p class="atc-TextParagraph">Die Wissenschaftler ziehen darüber hinaus auch die Möglichkeit in Betracht, dass an dem Ereignis ein oder zwei Schwarze Löcher beteiligt gewesen sein könnten. Sie halten diese Option aber für nicht wahrscheinlich, da in diesem Fall die Masse der beteiligten Schwarzen Löcher genau zwischen denen der für Neutronensternen und Schwarzen Löchern typischen Werten liegen müsste. Ob es aber Schwarze Löcher mit Massen unterhalb von 4 Sonnenmassen überhaupt gibt, ist umstritten.</p>
+                            <p class="atc-TextParagraph">Das Parlament war am Donnerstag feierlich von <a class="rtr-entity" data-rtr-id="23d13e3b378073725b29f1e6fc8e34573758e199" href="https://www.faz.net/aktuell/gesellschaft/thema/elisabeth-ii">Königin Elizabeth</a> II. (93) wiedereröffnet worden – allerdings mit weniger Pomp als üblich. Johnson verdankt seinen deutlichen Sieg in der vergangenen Woche insbesondere Wählern aus der Arbeiterschicht in den ehemaligen Labour-Hochburgen in Mittel- und Nordengland. Um sie zu locken, hatte er ein Ende der Sparpolitik angekündigt. Der Premier steht nun unter Druck, diese Versprechen – zum Beispiel Finanzspritzen für den staatlichen Gesundheitsdienst NHS und Schulen – auch einzulösen.</p>
             
         
     
@@ -2924,68 +2817,15 @@ fazSecondaryInfo.P4.init();
         
 
                                  
-                            <p class="atc-TextParagraph">Im Herbst 2017 war es eine Sensation gewesen, als die Ligo- und Virgo-Kollaborationen die erstmalige Aufzeichnung eines Gravitationswellensignals vom 17. August desselben Jahres bekannt gaben, das von der Verschmelzung zweier Neutronensterne stammte. Diese Entdeckung war nicht nur deshalb so bemerkenswert, weil sie viele Details über den Verschmelzungsprozess und dessen Folgen wie beispielsweise die Produktion schwerer Elemente lieferte, die bis dahin unbekannt waren. Ihre Bedeutung lag insbesondere auch darin, dass erstmalig der Ursprung einer Gravitationswelle nicht nur anhand der winzigen, sich mit Lichtgeschwindigkeit fortbewegenden Dehnungen und Stauchungen der Raumzeit, sondern auch anhand elektromagnetischer Strahlung beobachten ließ: die Verschmelzung der stellaren Endstadien war gleichzeitig als Gammablitz und als ein Nachleuchten im gesamten Bereich des elektromagnetischen Spektrums zu verfolgen.</p>
+                            <h3 class="atc-SubHeadline">Schottische Regierungschefin will zweites Unabhängigkeitsreferendum</h3>
+<p class="atc-TextParagraph">Mächtig Gegenwind bekommt Johnson aus dem Norden Großbritanniens: Die schottische Regierungschefin <a class="rtr-entity" data-rtr-id="d1161689410298af80fede3bed4643cd95aa6f36" href="https://www.faz.net/aktuell/politik/thema/nicola-sturgeon">Nicola Sturgeon</a> forderte den Premier schriftlich auf, einem zweiten Unabhängigkeitsreferendum zuzustimmen. Er sei dazu verpflichtet, schrieb die Politikerin. Ob eine Volksabstimmung in dem Landesteil stattfinden kann, entscheidet bislang die Zentralregierung in London. Johnson hatte Sturgeons Wunsch schon mehrfach abgewiesen. Die schottische Regierungschefin will das Referendum 2020 abhalten.</p>
             
-        
-    
-        
-
-                    
-		
-			<div class="ctn-PlaceholderContent ctn-PlaceholderContent-is-in-article-medium  ">
-			<figure class="con-Image">
-									<a class="con-Image_Link" href="https://www.faz.net/aktuell/wissen/weltraum/zweite-gravitationswelle-von-verschmelzenden-neutronensternen-16569716/die-drei-16569746.html">
-										<div class="con-Image_Container">
-							
-							
-
-
-    
-
-
-
-
-
-
-                        
-                                                                        
-                
-            
-    
-    <img src='https://www.faz.net/img/leer.gif' alt='Die drei Gravitationswellen-Observatorium des Ligo-Virgo-Konsortiums befinden sich in Amerika und Italien.' width='680' data-retina-src='https://media0.faz.net/ppmedia/aktuell/3245367390/1.6569746/media_in_article_medium_original/die-drei-gravitationswellen.jpg' title='Die drei Gravitationswellen-Observatorium des Ligo-Virgo-Konsortiums befinden sich in Amerika und Italien.' class='media con-Image_Image ' height='382' onload='processRetinaDerivate(this);' />    
-
-													</div>
-
-							
-    <div data-gdpr-embedding data-gdpr-id="11" data-gdpr-embedding-no-placeholder>
-	<!--
-		<figcaption class="ctn-PlaceholderContent_Description    ">
-			<span class="ctn-PlaceholderContent_DescriptionTextContainer">
-
-									<span class="ctn-PlaceholderContent_DescriptionHeadlineEmphasis">
-						<span class="ctn-PlaceholderContent_DescriptionHeadlineEmphasisText">Die drei Gravitationswellen-Observatorium des Ligo-Virgo-Konsortiums befinden sich in Amerika und Italien.</span>
-						<span class="o-VisuallyHidden">: </span>
-					</span>
-				
-									<span class="ctn-PlaceholderContent_DescriptionHeadlineTextContainer">
-																			<span class="ctn-PlaceholderContent_DescriptionCopyright">Bild: LIGO-Virgo</span>
-											</span>
-							</span>
-		</figcaption >
-	-->
-	</div>
-
-										</a >
-							</figure>
-		</div>
-	
-
         
     
         
 
                                  
-                            <p class="atc-TextParagraph">Das Forschungsgebiet der Gravitationswellen-Astrophysik hatte damit seinen Anschluss an die übrigen astrophysikalischen Beobachtungsdisziplinen vollzogen. Eine knappe dreiviertel Stunde nach der Registrierung von GW190425 wurde auch diesmal ein Alarm an Teleskope weltweit versandt, um nach dem elektromagnetischen Gegenstück des Signals oder nach Neutrinos zu suchen, die von dem Ereignis erzeugten worden waren. Da aber nur das Observatorium in Livingston das Signal empfangen hatte, war die Lokalisierung am Himmel erheblich ungenauer als bei dem Ereignis 2017. Während damals die aus dem Signal abgeleitete mögliche Ursprungsregion 0,04 Prozent des Himmels bedeckte waren es nun knapp 20 Prozent.</p>
+                            <p class="atc-TextParagraph">Rund 55 Prozent der Schotten hatten sich 2014 bei einem ersten Referendum gegen eine Abspaltung vom Vereinigten Königreich ausgesprochen. Sturgeon argumentiert jedoch, die Umstände hätten sich durch das Brexit-Referendum von 2016 verändert. Damals stimmte eine knappe Mehrheit der Briten für den EU-Austritt. Die Schotten votierten aber mit 62 Prozent gegen den <a class="rtr-entity" data-rtr-id="472ebdbf7df0765683d7d509e02b4e207676ca23" href="https://www.faz.net/aktuell/politik/thema/brexit">Brexit</a>.</p>
             
         
     
@@ -3058,117 +2898,13 @@ fazSecondaryInfo.P4.init();
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Zwei Schwarze Löcher, die die Raumzeit kräuseln - künstlerische Illustration' width='211' data-retina-src='https://media0.faz.net/ppmedia/aktuell/943257640/1.6278770/article_teaser_more/zwei-schwarze-loecher-die-die.jpg' title='Zwei Schwarze Löcher, die die Raumzeit kräuseln - künstlerische Illustration' class='media tsr-Base_Image ' height='118' onload='processRetinaDerivate(this);' />    
-
-	
-	
-	
-</div>
-	
-	<div class="tsr-Base_TextWrapper  "
-		 >
-		<div class="tsr-Base_ContentWrapper">
-			<div class="tsr-Base_ContentWrapperInner  teaserInner linkable">
-
-							
-		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
-		   title="Gravitationswellen: Botschaften des bebenden Raumes"
-           data-is-premium="false"
-		    href="https://www.faz.net/aktuell/wissen/weltraum/gravitationswellen-botschaften-des-bebenden-raumes-16269400.html"		   		   		>
-			
-										<header class="tsr-Base_ContentHeader">
-    <p class="tsr-Base_Headline tsr-Base_Headline-xs">
-
-        <span class="tsr-Base_HeadlineEmphasis ">
-            
-            <span class="tsr-Base_HeadlineEmphasisText">
-												Gravitationswellen
-            </span>
-            <span class="o-VisuallyHidden">: </span>
-        </span>
-
-        <span class="tsr-Base_HeadlineText">
-							Botschaften des bebenden Raumes
-			        </span>
-
-    </p>
-</header>
-
-							        	</a>
-			
-								
-													
-			<footer class="tsr-Base_ContentMeta">
-			<ul class="tsr-Base_ContentMetaList">
-									<li rel="author"
-						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
-					  						Sibylle Anderl
-					</li>
-																	<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
-													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-comments">
-								<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-comment-small tsr-IconComment">
-									<span class="o-VisuallyHidden">Kommentare: </span>
-								</span>
-								<span class="tsr-Base_ContentMetaShareComments">2</span>
-							</span>
-							<span class="o-VisuallyHidden">,</span>
-						
-													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-recommendations">
-									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
-										<span class="o-VisuallyHidden">Empfehlungen: </span>
-									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">39</span>
-							</span>
-											</li>
-							</ul>
-		</footer>
-					
-            </div>
-        </div>
-    </div>
-
-			
-</article>
-
-																			</div>
-								</div>
-															<div class="sld-TeaserMore_Item js-slider-teaser-more-item">
-									<div class="sld-TeaserMore_ItemInner">
-																					
-
-
-
-<article class="js-tsr-Base tsr-Base tsr-More tsr-Base-has-no-text-border-line  tsr-Base-has-border     "
-	      data-class-is-hovered="tsr-Base-is-hovered">
-
-	
-			
-
-<div class="tsr-Base_MediaWrapper btn-Wrapper ">
-
-		
-	
-
-
-    
-
-
-
-
-
-
-                        
-                                                                        
-                
-            
-    
-    <img src='https://www.faz.net/img/leer.gif' alt='Kollision zweier Neutronensterne als Simulation' width='211' data-retina-src='https://media0.faz.net/ppmedia/aktuell/2629691202/1.5249086/article_teaser_more/kollision-zweier.jpg' title='Kollision zweier Neutronensterne als Simulation' class='media tsr-Base_Image ' height='118' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' alt='Offenbar bevorzug Boris Johnson Andrew Bailey als neuen Chef der Bank of England.' width='211' data-retina-src='https://media1.faz.net/ppmedia/aktuell/495913060/1.6545029/article_teaser_more/offenbar-bevorzug-boris.jpg' title='Offenbar bevorzug Boris Johnson Andrew Bailey als neuen Chef der Bank of England.' class='media tsr-Base_Image ' height='118' onload='processRetinaDerivate(this);' />    
 
 	
 	
 					
 	<span class="btn-Base  btn-Base-is-top-small  btn-Base-is-left-small  btn-Base-has-icon   btn-Base-has-link" >
-					<a class="btn-Base_Link" href="https://www.faz.net/aktuell/wissen/fusion-von-neutronensternen-sensationelle-beobachtung-15250169.html" >
+					<a class="btn-Base_Link" href="https://www.faz.net/aktuell/politik/ausland/queen-liest-boris-johnsons-regierungserklaerung-ohne-krone-vor-16544200.html" >
 											<span class="js-btn-Base_Icon btn-Base_Icon btn-Base_Play o-Icon">
 											</span>
 								
@@ -3184,9 +2920,9 @@ fazSecondaryInfo.P4.init();
 
 							
 		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
-		   title="Gravitationswellen-Sensation: Verschmelzende Neutronensterne beobachtet"
+		   title="Bank of England: Ein neuer Notenbankchef mitten in der Brexit-Unsicherheit"
            data-is-premium="false"
-		    href="https://www.faz.net/aktuell/wissen/weltraum/gravitationswellen-astronomie-das-beben-kollidierender-neutronensterne-beobachtet-15249009.html"		   		   		>
+		    href="https://www.faz.net/aktuell/brexit/ein-neuer-notenbankchef-mitten-in-der-brexit-unsicherheit-16545026.html"		   		   		>
 			
 										<header class="tsr-Base_ContentHeader">
     <p class="tsr-Base_Headline tsr-Base_Headline-xs">
@@ -3194,13 +2930,13 @@ fazSecondaryInfo.P4.init();
         <span class="tsr-Base_HeadlineEmphasis ">
             
             <span class="tsr-Base_HeadlineEmphasisText">
-												Gravitationswellen-Sensation
+												Bank of England
             </span>
             <span class="o-VisuallyHidden">: </span>
         </span>
 
         <span class="tsr-Base_HeadlineText">
-							Verschmelzende Neutronensterne beobachtet
+							Ein neuer Notenbankchef mitten in der Brexit-Unsicherheit
 			        </span>
 
     </p>
@@ -3212,13 +2948,24 @@ fazSecondaryInfo.P4.init();
 													
 			<footer class="tsr-Base_ContentMeta">
 			<ul class="tsr-Base_ContentMetaList">
+									<li rel="author"
+						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
+					  						Philip Plickert, London
+					</li>
 																	<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
+													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-comments">
+								<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-comment-small tsr-IconComment">
+									<span class="o-VisuallyHidden">Kommentare: </span>
+								</span>
+								<span class="tsr-Base_ContentMetaShareComments">1</span>
+							</span>
+							<span class="o-VisuallyHidden">,</span>
 						
 													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-recommendations">
 									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
 										<span class="o-VisuallyHidden">Empfehlungen: </span>
 									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">3</span>
+								<span class="tsr-Base_ContentMetaShareRecommendations">15</span>
 							</span>
 											</li>
 							</ul>
@@ -3263,10 +3010,18 @@ fazSecondaryInfo.P4.init();
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Zwei Schwarze Löcher kurz vor der Kollision' width='211' data-retina-src='https://media0.faz.net/ppmedia/aktuell/2499531568/1.5931476/article_teaser_more/zwei-schwarze-loecher-kurz-vor.jpg' title='Zwei Schwarze Löcher kurz vor der Kollision' class='media tsr-Base_Image ' height='118' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' alt='Weniger Pomp als sonst: Queen Elizabeth und Prinz Charles am Donnerstag im britischen Oberhaus' width='211' data-retina-src='https://media0.faz.net/ppmedia/aktuell/115076721/1.6544670/article_teaser_more/weniger-pomp-als-sonst-queen.jpg' title='Weniger Pomp als sonst: Queen Elizabeth und Prinz Charles am Donnerstag im britischen Oberhaus' class='media tsr-Base_Image ' height='118' onload='processRetinaDerivate(this);' />    
 
 	
 	
+					
+	<span class="btn-Base  btn-Base-is-top-small  btn-Base-is-left-small  btn-Base-has-icon   btn-Base-has-link" >
+					<a class="btn-Base_Link" href="https://www.faz.net/aktuell/politik/ausland/queen-liest-boris-johnsons-regierungserklaerung-ohne-krone-vor-16544200.html" >
+											<span class="js-btn-Base_Icon btn-Base_Icon btn-Base_Play o-Icon">
+											</span>
+								
+					</a >
+			</span>
 	
 </div>
 	
@@ -3277,9 +3032,9 @@ fazSecondaryInfo.P4.init();
 
 							
 		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
-		   title="Gravitationswellen: Aus der Tiefe des Raumes"
+		   title="Nach Wahl in England: Parlamentseröffnung ohne Pomp"
            data-is-premium="false"
-		    href="https://www.faz.net/aktuell/wissen/weltraum/neue-kollisionen-zwischen-schwarzen-loechern-entdeckt-15931451.html"		   		   		>
+		    href="https://www.faz.net/aktuell/politik/wahl-in-grossbritannien/parlamentseroeffnung-in-england-ohne-historischen-pomp-16544598.html"		   		   		>
 			
 										<header class="tsr-Base_ContentHeader">
     <p class="tsr-Base_Headline tsr-Base_Headline-xs">
@@ -3287,13 +3042,13 @@ fazSecondaryInfo.P4.init();
         <span class="tsr-Base_HeadlineEmphasis ">
             
             <span class="tsr-Base_HeadlineEmphasisText">
-												Gravitationswellen
+												Nach Wahl in England
             </span>
             <span class="o-VisuallyHidden">: </span>
         </span>
 
         <span class="tsr-Base_HeadlineText">
-							Aus der Tiefe des Raumes
+							Parlamentseröffnung ohne Pomp
 			        </span>
 
     </p>
@@ -3307,14 +3062,14 @@ fazSecondaryInfo.P4.init();
 			<ul class="tsr-Base_ContentMetaList">
 									<li rel="author"
 						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
-					  						Ulf von Rauchhaupt
+					  						Gina Thomas, London
 					</li>
 																	<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
 													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-comments">
 								<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-comment-small tsr-IconComment">
 									<span class="o-VisuallyHidden">Kommentare: </span>
 								</span>
-								<span class="tsr-Base_ContentMetaShareComments">5</span>
+								<span class="tsr-Base_ContentMetaShareComments">2</span>
 							</span>
 							<span class="o-VisuallyHidden">,</span>
 						
@@ -3322,7 +3077,205 @@ fazSecondaryInfo.P4.init();
 									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
 										<span class="o-VisuallyHidden">Empfehlungen: </span>
 									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">29</span>
+								<span class="tsr-Base_ContentMetaShareRecommendations">1</span>
+							</span>
+											</li>
+							</ul>
+		</footer>
+					
+            </div>
+        </div>
+    </div>
+
+			
+</article>
+
+																			</div>
+								</div>
+															<div class="sld-TeaserMore_Item js-slider-teaser-more-item">
+									<div class="sld-TeaserMore_ItemInner">
+																					
+
+
+
+<article class="js-tsr-Base tsr-Base tsr-More tsr-Base-has-no-text-border-line  tsr-Base-has-border     "
+	      data-class-is-hovered="tsr-Base-is-hovered">
+
+	
+			
+
+<div class="tsr-Base_MediaWrapper btn-Wrapper ">
+
+		
+	
+
+
+    
+
+
+
+
+
+
+                        
+                                                                        
+                
+            
+    
+    <img src='https://www.faz.net/img/leer.gif' alt='Boris Johnson am Mittwoch in London' width='211' data-retina-src='https://media1.faz.net/ppmedia/aktuell/politik/wahl-in-grossbritannien/2169964324/1.6543961/article_teaser_more/boris-johnson-am-mittwoch-in.jpg' title='Boris Johnson am Mittwoch in London' class='media tsr-Base_Image ' height='118' onload='processRetinaDerivate(this);' />    
+
+	
+	
+	
+</div>
+	
+	<div class="tsr-Base_TextWrapper  "
+		 >
+		<div class="tsr-Base_ContentWrapper">
+			<div class="tsr-Base_ContentWrapperInner  teaserInner linkable">
+
+							
+		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
+		   title="Thronrede der Königin: Der Traum von globaler Großmachtpolitik"
+           data-is-premium="false"
+		    href="https://www.faz.net/aktuell/politik/wahl-in-grossbritannien/keine-sensation-regierungsprogramm-der-britischen-regierung-16543852.html"		   		   		>
+			
+										<header class="tsr-Base_ContentHeader">
+    <p class="tsr-Base_Headline tsr-Base_Headline-xs">
+
+        <span class="tsr-Base_HeadlineEmphasis ">
+            
+            <span class="tsr-Base_HeadlineEmphasisText">
+												Thronrede der Königin
+            </span>
+            <span class="o-VisuallyHidden">: </span>
+        </span>
+
+        <span class="tsr-Base_HeadlineText">
+							Der Traum von globaler Großmachtpolitik
+			        </span>
+
+    </p>
+</header>
+
+							        	</a>
+			
+								
+													
+			<footer class="tsr-Base_ContentMeta">
+			<ul class="tsr-Base_ContentMetaList">
+									<li rel="author"
+						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
+					  						  Ein Kommentar von
+					  						Peter Sturm
+					</li>
+																	<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
+													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-comments">
+								<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-comment-small tsr-IconComment">
+									<span class="o-VisuallyHidden">Kommentare: </span>
+								</span>
+								<span class="tsr-Base_ContentMetaShareComments">20</span>
+							</span>
+							<span class="o-VisuallyHidden">,</span>
+						
+													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-recommendations">
+									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
+										<span class="o-VisuallyHidden">Empfehlungen: </span>
+									</span>
+								<span class="tsr-Base_ContentMetaShareRecommendations">14</span>
+							</span>
+											</li>
+							</ul>
+		</footer>
+					
+            </div>
+        </div>
+    </div>
+
+			
+</article>
+
+																			</div>
+								</div>
+															<div class="sld-TeaserMore_Item js-slider-teaser-more-item">
+									<div class="sld-TeaserMore_ItemInner">
+																					
+
+
+
+<article class="js-tsr-Base tsr-Base tsr-More tsr-Base-has-no-text-border-line  tsr-Base-has-border     "
+	      data-class-is-hovered="tsr-Base-is-hovered">
+
+	
+			
+
+<div class="tsr-Base_MediaWrapper btn-Wrapper ">
+
+		
+	
+
+
+    
+
+
+
+
+
+
+                        
+                                                                        
+                
+            
+    
+    <img src='https://www.faz.net/img/leer.gif' alt='Will die Schotten aus dem Vereinigten Königreich lösen, um den Austritt aus der EU zu verhindern: Schottlands Regierungschefin Nicola Sturgeon' width='211' data-retina-src='https://media0.faz.net/ppmedia/aktuell/389908969/1.6543824/article_teaser_more/will-die-schotten-aus-dem.jpg' title='Will die Schotten aus dem Vereinigten Königreich lösen, um den Austritt aus der EU zu verhindern: Schottlands Regierungschefin Nicola Sturgeon' class='media tsr-Base_Image ' height='118' onload='processRetinaDerivate(this);' />    
+
+	
+	
+	
+</div>
+	
+	<div class="tsr-Base_TextWrapper  "
+		 >
+		<div class="tsr-Base_ContentWrapper">
+			<div class="tsr-Base_ContentWrapperInner  teaserInner linkable">
+
+							
+		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
+		   title="Keine Lust auf Brexit: Sturgeon fordert schottisches Unabhängigkeitsreferendum"
+           data-is-premium="false"
+		    href="https://www.faz.net/aktuell/politik/wahl-in-grossbritannien/brexit-sturgeon-fordert-schottisches-unabhaengigkeitsreferendum-16543819.html"		   		   		>
+			
+										<header class="tsr-Base_ContentHeader">
+    <p class="tsr-Base_Headline tsr-Base_Headline-xs">
+
+        <span class="tsr-Base_HeadlineEmphasis ">
+            
+            <span class="tsr-Base_HeadlineEmphasisText">
+												Keine Lust auf Brexit
+            </span>
+            <span class="o-VisuallyHidden">: </span>
+        </span>
+
+        <span class="tsr-Base_HeadlineText">
+							Sturgeon fordert schottisches Unabhängigkeitsreferendum
+			        </span>
+
+    </p>
+</header>
+
+							        	</a>
+			
+								
+													
+			<footer class="tsr-Base_ContentMeta">
+			<ul class="tsr-Base_ContentMetaList">
+																	<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
+						
+													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-recommendations">
+									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
+										<span class="o-VisuallyHidden">Empfehlungen: </span>
+									</span>
+								<span class="tsr-Base_ContentMetaShareRecommendations">32</span>
 							</span>
 											</li>
 							</ul>
@@ -3351,23 +3304,6 @@ fazSecondaryInfo.P4.init();
             
         
     
-        
-
-                                 
-                            <p class="atc-TextParagraph">Tatsächlich wurde kein weiteres astronomisches Signal gefunden, das zur registrierten Gravitationswelle gepasst hätte. Das Fehlen weiterer Informationsträger macht das neuerliche Signal weit weniger informativ als seinen Vorgänger 2017. Die Tatsache, dass es aber auf ein Doppelsystem verweist, dessen Eigenschaften von allen bisher beobachteten abweichen, macht es wiederum astrophysikalisch besonders interessant. „In jedem Fall repräsentiert die Quelle von GW190425 einen bislang unentdeckten Typ eines astrophysikalischen Systems“, schließen die Astronomen. Was daraus nun im Detail abzuleiten ist, werden weitere Studien zeigen.</p>
-            
-        
-    
-        
-
-                    
-        <aside id="cna-N1" class="js-cna cna-N1 js-cna-N1  cna-Is-displayed">
-        <script type="text/javascript">
-fazSecondaryInfo.N1.init();
-</script>
-    </aside>
-         
-    
 
     </div>     <div class="plista_alternativ " style="display: none;">true</div>
 
@@ -3384,7 +3320,7 @@ fazSecondaryInfo.N1.init();
                 
                                     <div class="o-Grid_Col o-Grid_Col-7 atc-Footer-has-no-left-padding" >
                         <p>
-                            <span class="atc-Footer_Quelle">Quelle: FAZ.NET</span>
+                            <span class="atc-Footer_Quelle">Quelle: chrs./dpa</span>
                         </p>
                     </div>
                                     
@@ -3412,32 +3348,32 @@ fazSecondaryInfo.N1.init();
           <div class="atc-ContainerFunctions_Navigation">
               					</div>
 					<div class="atc-ContainerFunctions_Interaction atc-ContainerFunctions_Interaction-has-no-top-gap ">
-                        						            <div class="ctn-PageFunctions">
+                        						                <div class="ctn-PageFunctions">
                   <ul class="ctn-PageFunctions_List js-sharebuttons"
-              data-services="empfehlen,comment"
+              data-services="empfehlen,"
               data-mode="small-with-text"
-              data-comment-value="4"
-              data-empfehlen-value="25"
+              data-comment-value=""
+              data-empfehlen-value="4"
               data-empfehlen-a-class-template="js-recommend-link"
               data-empfehlen-needs-init="true"
-              data-content-id="1.6569716"
+              data-content-id="1.6545107"
               data-empfehlen-type="ARTICLESUGGEST"
-              data-content-path="2.252/2.1648/2.1923/2.1924"></ul>
+              data-content-path="2.252/2.1648/2.1651/2.1677"></ul>
         
       <ul class="ctn-PageFunctions_List js-sharebuttons js-ctn-PageFunctions_Bookmark"
           data-services="drucken,merken,weitersagen"
           data-mode="small"
           data-merken-a-class-template="js-btn-Base_Link"
           data-merken-type-name="artikel"
-          data-content-id="1.6569716"
+          data-content-id="1.6545107"
           data-weitersagen-data-related-layer="sharingArticleBottom"
           data-merken-needs-init="true"></ul>
     </div>
     						<ul class="som-Buttons js-sharebuttons"
 							data-services="mail,facebook,twitter,pocket"
 							data-mode="button"
-							data-custompermalink="https://www.faz.net/-gx0-9v59w"
-							data-customsharelink="https://www.faz.net/aktuell/wissen/weltraum/zweite-gravitationswelle-von-verschmelzenden-neutronensternen-16569716.html"
+							data-custompermalink="https://www.faz.net/-gq5-9umab"
+							data-customsharelink="https://www.faz.net/aktuell/politik/ausland/britisches-unterhaus-stimmt-ueber-brexit-abkommen-ab-16545107.html"
 							                            data-twitter-twitterhashtags=""
 						></ul>
 								
@@ -3463,21 +3399,21 @@ fazSecondaryInfo.N1.init();
                                                                     <ul class="som-Buttons js-sharebuttons"
                                         data-services="xing,linkedin,flipboard,facebook-messenger,whatsapp,"
                                         data-mode="button"
-                                        data-custompermalink="https://www.faz.net/-gx0-9v59w"
-                                        data-customsharelink="https://www.faz.net/aktuell/wissen/weltraum/zweite-gravitationswelle-von-verschmelzenden-neutronensternen-16569716.html"
-                                                                                data-mail-onclick="toggleMail('Gravitationswellen-Astronomie',
-                                                                      'Das Ende zweier Neutronensterne',
-                                                                      'Gravitationswellen-Astronomie: Das Ende zweier Neutronensterne',
-                                                                      'Sibylle Anderl',
-                                                                      'https:\/\/www.faz.net\/-gx0-9v59w',
-                                                                      'Zum zweiten Mal ist es gelungen, ein Gravitationswellen-Signal aufzuzeichnen, das mutma\u00DFlich auf die Kollision zweier Neutronensterne zur\u00FCckgeht. Doch der Fund gibt R\u00E4tsel auf.')"
+                                        data-custompermalink="https://www.faz.net/-gq5-9umab"
+                                        data-customsharelink="https://www.faz.net/aktuell/politik/ausland/britisches-unterhaus-stimmt-ueber-brexit-abkommen-ab-16545107.html"
+                                                                                data-mail-onclick="toggleMail('Johnson macht Druck',
+                                                                      'Britisches Unterhaus stimmt \u00FCber Brexit-Abkommen ab',
+                                                                      'Johnson macht Druck: Britisches Unterhaus stimmt \u00FCber Brexit-Abkommen ab',
+                                                                      '',
+                                                                      'https:\/\/www.faz.net\/-gq5-9umab',
+                                                                      'Boris Johnson dr\u00FCckt auf die Tube: Schon am Freitag soll das Parlament in London den Brexit-Deal abnicken. Nach seinem haushohen Wahlsieg d\u00FCrfte der Premierminister sein Ziel problemlos erreichen. Gegenwind bl\u00E4st ihm nur aus Schottland entgegen.')"
                                         data-twitter-twittertext=""
                                         data-twitter-twitterhashtags="">
                                     </ul>
                                                                                                                                       <p class="lay-Sharing_Permalink  js-sharing-link-wrapper">
                                 <span class="js-sharing-link-select-trigger lay-Sharing_PermalinkLabel"
                                       title="Hier klicken um Permalink auszuwählen">Permalink: </span>
-    <span class="js-sharing-link-select-trigger js-sharing-link lay-Sharing_PermalinkUrl">https://www.faz.net/-gx0-9v59w</span>
+    <span class="js-sharing-link-select-trigger js-sharing-link lay-Sharing_PermalinkUrl">https://www.faz.net/-gq5-9umab</span>
   </p>
                                                             </div>
                                             </div>
@@ -3555,40 +3491,97 @@ fazSecondaryInfo.N1.init();
               <article class="tsr-Base tsr-FurtherTopic js-tsr-base" data-class-is-hovered="tsr-Base-is-hovered">
                 <div class="tsr-Base_MediaWrapper btn-Wrapper">
                   
-                    <img class="tsr-Base_Image" src="https://media1.faz.net/ppmedia/aktuell/3600435281/1.6569235/article_teaser_ressortmodul/mehr-als-60-textilartikel.jpg" alt="Shopping ist schlimmer als Steakessen">
+                    <img class="tsr-Base_Image" src="https://media1.faz.net/ppmedia/aktuell/357337891/1.6573601/article_teaser_ressortmodul/boris-johnson-spricht-bei-der.jpg" alt="Britisches Parlament stimmt für Brexit-Gesetz">
                   
                   
                 </div>
                 <div class="tsr-Base_TextWrapper">
                   <div class="tsr-Base_ContentWrapper">
                     <div class="tsr-Base_ContentWrapperInner">
-                      <a class="tsr-Base_ContentLink js-tsr-base-link" href="https://www.faz.net/aktuell/wissen/erde-klima/das-weltklima-hat-ein-textil-problem-recycling-hilft-kaum-16565225.html">
+                      <a class="tsr-Base_ContentLink js-tsr-base-link" href="https://www.faz.net/aktuell/brexit/brexit-britisches-unterhaus-stimmt-fuer-brexit-gesetz-16573590.html">
                         <header class="tsr-Base_ContentHeader">
                           <p class="tsr-Base_Headline tsr-Base_Headline-sm">
                             <span class="tsr-Base_HeadlineEmphasis">
                               
                                 <span class="tsr-Base_HeadlineEmphasisText">
                               
-                              Fast Fashion schadet dem Klima
+                              EU-Austritt
                                 </span>
                                 <span class="o-VisuallyHidden">: </span>
                                 </span>
-                                <span class="tsr-Base_HeadlineText">Shopping ist schlimmer als Steakessen</span>
+                                <span class="tsr-Base_HeadlineText">Britisches Parlament stimmt für Brexit-Gesetz</span>
                           </p>
                         </header>
                       </a>
                       <p class="tsr-Base_Content">
-                        Die Modewelt rast, die Menschen kaufen mehr Klamotten denn je: Mehr als fünf Prozent der globalen Emissionen werden allein für neue Kleider verbraucht. Recycling hilft dagegen kaum, doch neue Materialien sind vielversprechend.
+                        Mehrere Male scheiterte der Brexit am Votum der Parlamentarier im britischen Unterhaus. Nun hat die Kammer dem Gesetz zugestimmt. Dem Austritt steht allerdings noch eine Hürde im Weg.
                       </p>
                       <footer class="tsr-Base_ContentMeta">
                         <ul class="tsr-Base_ContentMetaList">
                           
                           
-                            <li rel="author" class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
-                              <span class="tsr-Base_ContentMetaAuthor">
-                                Andreas Frey
-                              </span>
-                            </li>
+
+                          
+                          
+                          
+                          
+
+                          
+                          
+                        </ul>
+                      </footer>
+                    </div>
+                  </div>
+                </div>
+              </article>
+            </div>
+
+            
+            
+        
+        
+            
+
+            <div class="o-Grid_Col o-Grid_Col-is-besides-other-teasers">
+              <article class="tsr-Base tsr-FurtherTopic js-tsr-base" data-class-is-hovered="tsr-Base-is-hovered">
+                <div class="tsr-Base_MediaWrapper btn-Wrapper">
+                  
+                    <img class="tsr-Base_Image" src="https://media0.faz.net/ppmedia/aktuell/2306422240/1.6576594/article_teaser_ressortmodul/bundeskanzlerin-angela-merkel.jpg" alt="Naher Osten „braucht politische Lösungen“">
+                  
+                  
+                    <span class="btn-Base btn-Base-is-top-small btn-Base-is-left-small btn-Base-has-icon">
+                      <span class="js-btn-Base_Icon btn-Base_Icon btn-Base_Play o-Icon">
+                        <span class="js-btn-Base_HiddenText btn-Base_HiddenText o-VisuallyHidden">
+                          Video-Seite öffnen
+                        </span>
+                      </span>
+                    </span>
+                  
+                </div>
+                <div class="tsr-Base_TextWrapper">
+                  <div class="tsr-Base_ContentWrapper">
+                    <div class="tsr-Base_ContentWrapperInner">
+                      <a class="tsr-Base_ContentLink js-tsr-base-link" href="https://www.faz.net/aktuell/politik/ausland/merkel-und-putin-streben-politische-loesungen-im-nahen-osten-an-16576591.html">
+                        <header class="tsr-Base_ContentHeader">
+                          <p class="tsr-Base_Headline tsr-Base_Headline-sm">
+                            <span class="tsr-Base_HeadlineEmphasis">
+                              
+                                <span class="tsr-Base_HeadlineEmphasisText">
+                              
+                              Merkel besucht Putin in Moskau
+                                </span>
+                                <span class="o-VisuallyHidden">: </span>
+                                </span>
+                                <span class="tsr-Base_HeadlineText">Naher Osten „braucht politische Lösungen“</span>
+                          </p>
+                        </header>
+                      </a>
+                      <p class="tsr-Base_Content">
+                        Beide Staats- und Regierungschefs betonten, dass sie keinen Krieg in Libyen wollen. Dadurch würden weitere große Flüchtlingsströme entstehen, sagte Putin. Beide betonten, dass die Konflikte im Nahen Osten nur mit politischen Mitteln zu lösen seien. 
+                      </p>
+                      <footer class="tsr-Base_ContentMeta">
+                        <ul class="tsr-Base_ContentMetaList">
+                          
                           
 
                           
@@ -3597,8 +3590,8 @@ fazSecondaryInfo.N1.init();
                           
                             <li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-time-of-publication">
                               <span class="o-VisuallyHidden">Veröffentlicht/Aktualisiert: </span>
-                              <time class="tsr-Base_ContentMetaTime" datetime="2020-01-07T11:41:01Z " title="07.01.2020, 11:41 Uhr">
-                                Vor 9 Stunden
+                              <time class="tsr-Base_ContentMetaTime" datetime="2020-01-11T17:11:01Z " title="11.01.2020, 17:11 Uhr">
+                                Vor 1 Stunde
                               </time>
                             </li>
                           
@@ -3623,93 +3616,30 @@ fazSecondaryInfo.N1.init();
               <article class="tsr-Base tsr-FurtherTopic js-tsr-base" data-class-is-hovered="tsr-Base-is-hovered">
                 <div class="tsr-Base_MediaWrapper btn-Wrapper">
                   
-                    <img class="tsr-Base_Image" src="https://media0.faz.net/ppmedia/aktuell/3402728552/1.6558410/article_teaser_ressortmodul/he-jiankui-im-november-2018.jpg" alt="Haftstrafe für chinesischen Forscher">
-                  
-                  
-                    <span class="btn-Base btn-Base-is-top-small btn-Base-is-left-small btn-Base-has-icon">
-                      <span class="js-btn-Base_Icon btn-Base_Icon btn-Base_Play o-Icon">
-                        <span class="js-btn-Base_HiddenText btn-Base_HiddenText o-VisuallyHidden">
-                          Video-Seite öffnen
-                        </span>
-                      </span>
-                    </span>
-                  
-                </div>
-                <div class="tsr-Base_TextWrapper">
-                  <div class="tsr-Base_ContentWrapper">
-                    <div class="tsr-Base_ContentWrapperInner">
-                      <a class="tsr-Base_ContentLink js-tsr-base-link" href="https://www.faz.net/aktuell/wissen/leben-gene/haftstrafe-fuer-chinesischen-forscher-wegen-genmanipulation-16558402.html">
-                        <header class="tsr-Base_ContentHeader">
-                          <p class="tsr-Base_Headline tsr-Base_Headline-sm">
-                            <span class="tsr-Base_HeadlineEmphasis">
-                              
-                                <span class="tsr-Base_HeadlineEmphasisText">
-                              
-                              Genmanipulation bei Babys
-                                </span>
-                                <span class="o-VisuallyHidden">: </span>
-                                </span>
-                                <span class="tsr-Base_HeadlineText">Haftstrafe für chinesischen Forscher</span>
-                          </p>
-                        </header>
-                      </a>
-                      <p class="tsr-Base_Content">
-                        Der chinesische Wissenschaftler He Jiankui ist wegen Genmanipulation bei Babys zu einer Haftstrafe von drei Jahren verurteilt worden. Er hatte nach eigenen Angaben erstmals das Erbgut von Zwillingsschwestern verändert. 
-                      </p>
-                      <footer class="tsr-Base_ContentMeta">
-                        <ul class="tsr-Base_ContentMetaList">
-                          
-                          
-
-                          
-                          
-                          
-                          
-
-                          
-                          
-                        </ul>
-                      </footer>
-                    </div>
-                  </div>
-                </div>
-              </article>
-            </div>
-
-            
-            
-        
-        
-            
-
-            <div class="o-Grid_Col o-Grid_Col-is-besides-other-teasers">
-              <article class="tsr-Base tsr-FurtherTopic js-tsr-base" data-class-is-hovered="tsr-Base-is-hovered">
-                <div class="tsr-Base_MediaWrapper btn-Wrapper">
-                  
-                    <img class="tsr-Base_Image" src="https://media0.faz.net/ppmedia/aktuell/feuilleton/2383377167/1.3973552/article_teaser_ressortmodul/diesen-preis-kann-ihm-niemand.jpg" alt="Salzburg kultiviert weiter eifrig das Nichtwissen">
+                    <img class="tsr-Base_Image" src="https://media0.faz.net/ppmedia/aktuell/4154277565/1.6576620/article_teaser_ressortmodul/wrackteile-des-abgeschossenen.jpg" alt="Warum Irans Luftabwehr die ukrainische Maschine traf">
                   
                   
                 </div>
                 <div class="tsr-Base_TextWrapper">
                   <div class="tsr-Base_ContentWrapper">
                     <div class="tsr-Base_ContentWrapperInner">
-                      <a class="tsr-Base_ContentLink js-tsr-base-link" href="https://www.faz.net/aktuell/wissen/geist-soziales/der-fall-konrad-lorenz-und-die-aufarbeitung-in-salzburg-16557703.html">
+                      <a class="tsr-Base_ContentLink js-tsr-base-link" href="https://www.faz.net/aktuell/politik/ausland/warum-irans-luftabwehr-das-ukrainische-flugzeug-traf-16576515.html">
                         <header class="tsr-Base_ContentHeader">
                           <p class="tsr-Base_Headline tsr-Base_Headline-sm">
                             <span class="tsr-Base_HeadlineEmphasis">
                               
                                 <span class="tsr-Base_HeadlineEmphasisText">
                               
-                              Der Fall Konrad Lorenz
+                              Angst, Zorn und Unfähigkeit
                                 </span>
                                 <span class="o-VisuallyHidden">: </span>
                                 </span>
-                                <span class="tsr-Base_HeadlineText">Salzburg kultiviert weiter eifrig das Nichtwissen</span>
+                                <span class="tsr-Base_HeadlineText">Warum Irans Luftabwehr die ukrainische Maschine traf</span>
                           </p>
                         </header>
                       </a>
                       <p class="tsr-Base_Content">
-                        Im Dezember 2015 entzog die Universität Salzburg Konrad Lorenz postum den Ehrendoktor. Ihr Vorgehen ist selbst Gegenstand einer Aufarbeitung geworden, die noch nicht wirklich begonnen hat.
+                        Nach dem Abschuss des ukrainischen Flugzeuges bei Teheran lässt sich nach und nach erkennen, wie es zu dem Vorfall kam. Eine Rekonstruktion.
                       </p>
                       <footer class="tsr-Base_ContentMeta">
                         <ul class="tsr-Base_ContentMetaList">
@@ -3717,7 +3647,7 @@ fazSecondaryInfo.N1.init();
                           
                             <li rel="author" class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
                               <span class="tsr-Base_ContentMetaAuthor">
-                                Miloš Vec
+                                Frank Pergande und Konrad Schuller
                               </span>
                             </li>
                           
@@ -3728,8 +3658,8 @@ fazSecondaryInfo.N1.init();
                           
                             <li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-time-of-publication">
                               <span class="o-VisuallyHidden">Veröffentlicht/Aktualisiert: </span>
-                              <time class="tsr-Base_ContentMetaTime" datetime="2020-01-07T10:32:52Z " title="07.01.2020, 10:32 Uhr">
-                                Vor 10 Stunden
+                              <time class="tsr-Base_ContentMetaTime" datetime="2020-01-11T17:45:26Z " title="11.01.2020, 17:45 Uhr">
+                                Vor 43 Minuten
                               </time>
                             </li>
                           
@@ -3768,10 +3698,59 @@ fazSecondaryInfo.N1.init();
 					<nav role="navigation">
 						<ul class="lst-LinksTopics_TopicsList">
 															<li class="lst-LinksTopics_TopicsListItem">
-									<a title="Gravitationswelle"
-									   href="https://www.faz.net/aktuell/wissen/thema/gravitationswelle"
+									<a title="Boris Johnson"
+									   href="https://www.faz.net/aktuell/politik/thema/boris-johnson"
 									   class="lst-LinksTopics_TopicsListLink">
-										Gravitationswelle
+										Boris Johnson
+									</a>
+								</li>
+															<li class="lst-LinksTopics_TopicsListItem">
+									<a title="Brexit"
+									   href="https://www.faz.net/aktuell/politik/thema/brexit"
+									   class="lst-LinksTopics_TopicsListLink">
+										Brexit
+									</a>
+								</li>
+															<li class="lst-LinksTopics_TopicsListItem">
+									<a title="Europäische Union"
+									   href="https://www.faz.net/aktuell/politik/thema/europaeische-union"
+									   class="lst-LinksTopics_TopicsListLink">
+										Europäische Union
+									</a>
+								</li>
+															<li class="lst-LinksTopics_TopicsListItem">
+									<a title="Parlamentswahl"
+									   href="https://www.faz.net/aktuell/politik/thema/parlamentswahl"
+									   class="lst-LinksTopics_TopicsListLink">
+										Parlamentswahl
+									</a>
+								</li>
+															<li class="lst-LinksTopics_TopicsListItem">
+									<a title="Nicola Sturgeon"
+									   href="https://www.faz.net/aktuell/politik/thema/nicola-sturgeon"
+									   class="lst-LinksTopics_TopicsListLink">
+										Nicola Sturgeon
+									</a>
+								</li>
+															<li class="lst-LinksTopics_TopicsListItem">
+									<a title="Conservative Party"
+									   href="https://www.faz.net/aktuell/politik/thema/conservative-party"
+									   class="lst-LinksTopics_TopicsListLink">
+										Conservative Party
+									</a>
+								</li>
+															<li class="lst-LinksTopics_TopicsListItem">
+									<a title="Theresa May"
+									   href="https://www.faz.net/aktuell/politik/thema/theresa-may"
+									   class="lst-LinksTopics_TopicsListLink">
+										Theresa May
+									</a>
+								</li>
+															<li class="lst-LinksTopics_TopicsListItem">
+									<a title="Weihnachten"
+									   href="https://www.faz.net/aktuell/gesellschaft/thema/weihnachten"
+									   class="lst-LinksTopics_TopicsListLink">
+										Weihnachten
 									</a>
 								</li>
 															<li class="lst-LinksTopics_TopicsListItem">
@@ -3803,7 +3782,7 @@ fazSecondaryInfo.P5.init();
 	<div class="o-ModuleWrapper o-ModuleWrapper-is-first o-ModuleWrapper-has-page-background">
 		<div id="lesermeinungen" class="js-ctn-Comments ctn-Comments"
 			 data-follower-switch="true"
-			 data-article-cid="1.6569716"
+			 data-article-cid="1.6545107"
 			 data-meine-autoren-url="/mein-faz-net/meine-autoren/">
 		</div>
 	</div>
@@ -3856,13 +3835,13 @@ fazSecondaryInfo.P5.init();
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Nato-Generalsekretär Jens Stoltenberg (l.) und der amerikanische Präsident Donald Trump während des Nato-Gipfels im britischen Watford (Dezember 2019)' width='820' data-retina-src='https://media0.faz.net/ppmedia/3053101468/1.6570346/article_teaser_ressortmodul_lead/nato-generalsekretaer-jens.jpg' data-lazy-src='https://media0.faz.net/ppmedia/3053101468/1.6570346/article_teaser_ressortmodul_lead/nato-generalsekretaer-jens.jpg' title='Nato-Generalsekretär Jens Stoltenberg (l.) und der amerikanische Präsident Donald Trump während des Nato-Gipfels im britischen Watford (Dezember 2019)' class='media tsr-Base_Image  js-lazy' height='367' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' alt='Wrackteile des abgeschossenen ukrainischen Passagierflugzeugs südwestlich von Teheran' width='820' data-retina-src='https://media0.faz.net/ppmedia/aktuell/4154277565/1.6576620/article_teaser_ressortmodul_lead/wrackteile-des-abgeschossenen.jpg' data-lazy-src='https://media0.faz.net/ppmedia/aktuell/4154277565/1.6576620/article_teaser_ressortmodul_lead/wrackteile-des-abgeschossenen.jpg' title='Wrackteile des abgeschossenen ukrainischen Passagierflugzeugs südwestlich von Teheran' class='media tsr-Base_Image  js-lazy' height='367' onload='processRetinaDerivate(this);' />    
 
 	
 	
 					
 	<span class="btn-Base  btn-Base-is-top btn-Base-is-left  btn-Base-has-icon   btn-Base-has-link" >
-					<a class="btn-Base_Link" href="https://www.faz.net/aktuell/politik/maas-kuendigt-reaktion-der-eu-im-iran-konflikt-an-16569569.html" >
+					<a class="btn-Base_Link" href="https://www.faz.net/aktuell/politik/ausland/iran-gesteht-abschuss-des-ukrainischen-passagierflugzeuges-16576098.html" >
 											<span class="js-btn-Base_Icon btn-Base_Icon btn-Base_Play o-Icon">
 											</span>
 													<span class="btn-Base_Text">Video</span>
@@ -3885,9 +3864,9 @@ fazSecondaryInfo.P5.init();
 
                                     			
 		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
-		   title="Iran-Konflikt: Amerikas nachgereichte Strategie"
+		   title="Angst, Zorn und Unfähigkeit: Warum Irans Luftabwehr die ukrainische Maschine traf"
            data-is-premium="false"
-		    href="https://www.faz.net/aktuell/politik/ausland/iran-konflikt-amerikas-nachgereichte-strategie-16570135.html"		   		   		>
+		    href="https://www.faz.net/aktuell/politik/ausland/warum-irans-luftabwehr-das-ukrainische-flugzeug-traf-16576515.html"		   		   		>
 			                                            
                                         <header class="tsr-Base_ContentHeader">
     <p class="tsr-Base_Headline tsr-Base_Headline-lg">
@@ -3895,13 +3874,13 @@ fazSecondaryInfo.P5.init();
         <span class="tsr-Base_HeadlineEmphasis ">
             
             <span class="tsr-Base_HeadlineEmphasisText">
-												Iran-Konflikt
+												Angst, Zorn und Unfähigkeit
             </span>
             <span class="o-VisuallyHidden">: </span>
         </span>
 
         <span class="tsr-Base_HeadlineText">
-							Amerikas nachgereichte Strategie
+							Warum Irans Luftabwehr die ukrainische Maschine traf
 			        </span>
 
     </p>
@@ -3910,7 +3889,7 @@ fazSecondaryInfo.P5.init();
                                     			        	</a>
 			
                                                                             <div class="tsr-Base_Content">
-                                            Nach der gezielten Tötung des iranischen Generals Soleimani durch die Amerikaner herrschen Chaos in Washington und Verunsicherung in der Nato.
+                                            Nach dem Abschuss des ukrainischen Flugzeuges bei Teheran lässt sich nach und nach erkennen, wie es zu dem Vorfall kam. Eine Rekonstruktion.
                                         </div>
                                     
                                                                             
@@ -3918,13 +3897,13 @@ fazSecondaryInfo.P5.init();
 			<ul class="tsr-Base_ContentMetaList">
 									<li rel="author"
 						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
-					  						Thomas Gutschker, Brüssel, Majid Sattar, Washington
+					  						Frank Pergande und Konrad Schuller
 					</li>
 													<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-time-of-publication">
 						<span class="o-VisuallyHidden">Veröffentlicht/Aktualisiert: </span>
 						<time class="tsr-Base_ContentMetaTime"
-							  datetime="2020-01-07T21:47:13+0100"
-							  title="07.01.2020 21:47 Uhr">vor 11 Minuten</time>
+							  datetime="2020-01-11T18:45:26+0100"
+							  title="11.01.2020 18:45 Uhr">vor 58 Minuten</time>
 
 					</li>
 													<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
@@ -3933,7 +3912,7 @@ fazSecondaryInfo.P5.init();
 									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
 										<span class="o-VisuallyHidden">Empfehlungen: </span>
 									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">2</span>
+								<span class="tsr-Base_ContentMetaShareRecommendations">17</span>
 							</span>
 											</li>
 							</ul>
@@ -3983,7 +3962,7 @@ fazSecondaryInfo.P5.init();
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Jaroslaw Kaczynski (2.Reihe, links), Vorsitzender der PiS-Partei, und Mateusz Morawiecki (2. Reihe, rechts), Premierminister von Polen, nehmen an der Debatte im Parlament zu einem neuen Gesetzesentwurf teil.' width='260' data-retina-src='https://media1.faz.net/ppmedia/aktuell/1805339453/1.6568699/article_teaser_ressortmodul/jaroslaw-kaczynski-2-reihe.jpg' title='Jaroslaw Kaczynski (2.Reihe, links), Vorsitzender der PiS-Partei, und Mateusz Morawiecki (2. Reihe, rechts), Premierminister von Polen, nehmen an der Debatte im Parlament zu einem neuen Gesetzesentwurf teil.' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' alt='Das Verlegeschiff «Audacia» des Offshore-Dienstleisters Allseas verlegt in der Ostsee vor der Insel Rügen Rohre für die Gaspipeline Nord Stream 2.' width='260' data-retina-src='https://media0.faz.net/ppmedia/aktuell/wirtschaft/1214872405/1.6576556/article_teaser_ressortmodul/das-verlegeschiff-audacia-des.jpg' title='Das Verlegeschiff «Audacia» des Offshore-Dienstleisters Allseas verlegt in der Ostsee vor der Insel Rügen Rohre für die Gaspipeline Nord Stream 2.' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
 
 	
 	
@@ -3997,9 +3976,9 @@ fazSecondaryInfo.P5.init();
 
 							
 		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
-		   title="Polnische Justizreform: Nach Kritik wird suspendiert"
+		   title="Umstrittene Gaspipeline: Putin nennt Zeitraum für die Fertigstellung von Nord Stream 2"
            data-is-premium="false"
-		    href="https://www.faz.net/aktuell/politik/ausland/polnische-justizreform-nach-kritik-wird-suspendiert-16568472.html"		   		   		>
+		    href="https://www.faz.net/aktuell/wirtschaft/klima-energie-und-umwelt/putin-nord-stream-2-wird-bis-2021-fertig-16576539.html"		   		   		>
 			
 										<header class="tsr-Base_ContentHeader">
     <p class="tsr-Base_Headline tsr-Base_Headline-sm">
@@ -4007,13 +3986,13 @@ fazSecondaryInfo.P5.init();
         <span class="tsr-Base_HeadlineEmphasis ">
             
             <span class="tsr-Base_HeadlineEmphasisText">
-												Polnische Justizreform
+												Umstrittene Gaspipeline
             </span>
             <span class="o-VisuallyHidden">: </span>
         </span>
 
         <span class="tsr-Base_HeadlineText">
-							Nach Kritik wird suspendiert
+							Putin nennt Zeitraum für die Fertigstellung von Nord Stream 2
 			        </span>
 
     </p>
@@ -4022,37 +4001,19 @@ fazSecondaryInfo.P5.init();
 							        	</a>
 			
 													<div class="tsr-Base_Content">
-						Mit einem neuen Gesetz will die polnische Regierung massiv in die Rechtsprechung eingreifen. Die wenigen Richter, die sich öffentlich gegen die Justizreform wenden, werden von der Regierung schikaniert oder strafversetzt.
+						Trotz der amerikanischen Sanktionen gibt sich Russlands Präsident Wladimir Putin optimistisch – und kündigt im Gespräch mit Kanzlerin Merkel das voraussichtliche Bauende von Nord Stream 2 an.
 					</div>
 				
 													
 			<footer class="tsr-Base_ContentMeta">
 			<ul class="tsr-Base_ContentMetaList">
-									<li rel="author"
-						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
-					  						Gerhard Gnauck, Warschau
-					</li>
-													<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-time-of-publication">
-						<span class="o-VisuallyHidden">Veröffentlicht/Aktualisiert: </span>
-						<time class="tsr-Base_ContentMetaTime"
-							  datetime="2020-01-07T21:01:22+0100"
-							  title="07.01.2020 21:01 Uhr">vor 57 Minuten</time>
-
-					</li>
-													<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
-													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-comments">
-								<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-comment-small tsr-IconComment">
-									<span class="o-VisuallyHidden">Kommentare: </span>
-								</span>
-								<span class="tsr-Base_ContentMetaShareComments">1</span>
-							</span>
-							<span class="o-VisuallyHidden">,</span>
+																	<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
 						
 													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-recommendations">
 									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
 										<span class="o-VisuallyHidden">Empfehlungen: </span>
 									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">4</span>
+								<span class="tsr-Base_ContentMetaShareRecommendations">5</span>
 							</span>
 											</li>
 							</ul>
@@ -4095,7 +4056,7 @@ fazSecondaryInfo.P5.init();
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Die Grünen-Vorsitzenden Annalena Baerbock (links) und Robert Habeck mit der Spitzenkandidatin für die Hamburger Bürgerschaftswahl, Katharina Fegebank.' width='260' data-retina-src='https://media0.faz.net/ppmedia/aktuell/2974239314/1.6570254/article_teaser_ressortmodul/die-gruenen-vorsitzenden.jpg' title='Die Grünen-Vorsitzenden Annalena Baerbock (links) und Robert Habeck mit der Spitzenkandidatin für die Hamburger Bürgerschaftswahl, Katharina Fegebank.' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' alt='Stephan E., Tatverdächtiger im Fall des ermordeten Kasseler Regierungspräsidenten Walter Lübcke, wird nach einem Haftprüfungstermin beim Bundesgerichtshof (BGH)im Juli 2019 zu einem Hubschrauber gebracht.' width='260' data-retina-src='https://media0.faz.net/ppmedia/aktuell/620573405/1.6576868/article_teaser_ressortmodul/stephan-e-tatverdaechtiger-im.jpg' title='Stephan E., Tatverdächtiger im Fall des ermordeten Kasseler Regierungspräsidenten Walter Lübcke, wird nach einem Haftprüfungstermin beim Bundesgerichtshof (BGH)im Juli 2019 zu einem Hubschrauber gebracht.' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
 
 	
 	
@@ -4109,9 +4070,9 @@ fazSecondaryInfo.P5.init();
 
 							
 		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
-		   title="Klausurtagung in Hamburg: Die Suche der Grünen nach neuen Ankern"
+		   title="Mordfall Lübcke: Video soll Tatverdächtige auf AfD-Demo in Chemnitz zeigen"
            data-is-premium="false"
-		    href="https://www.faz.net/aktuell/politik/inland/wie-die-gruenen-zur-staerksten-kraft-in-hamburg-werden-wollen-16570148.html"		   		   		>
+		    href="https://www.faz.net/aktuell/politik/inland/luebcke-mord-video-zeigt-stephan-e-bei-afd-demo-in-chemnitz-16576626.html"		   		   		>
 			
 										<header class="tsr-Base_ContentHeader">
     <p class="tsr-Base_Headline tsr-Base_Headline-sm">
@@ -4119,13 +4080,13 @@ fazSecondaryInfo.P5.init();
         <span class="tsr-Base_HeadlineEmphasis ">
             
             <span class="tsr-Base_HeadlineEmphasisText">
-												Klausurtagung in Hamburg
+												Mordfall Lübcke
             </span>
             <span class="o-VisuallyHidden">: </span>
         </span>
 
         <span class="tsr-Base_HeadlineText">
-							Die Suche der Grünen nach neuen Ankern
+							Video soll Tatverdächtige auf AfD-Demo in Chemnitz zeigen
 			        </span>
 
     </p>
@@ -4134,22 +4095,17 @@ fazSecondaryInfo.P5.init();
 							        	</a>
 			
 													<div class="tsr-Base_Content">
-						Der Grünen-Vorstand trifft sich zur Klausurtagung in Hamburg. Geht es nach ihnen, soll dort im Februar erstmals eine Frau ins Rathaus einziehen – und ein Gegenmodell zu Winfried Kretschmann werden.
-
+						Erstmals sollen Filmaufnahmen den Hauptverdächtigen des Lübcke-Mordes, Stephan E., sowie dessen mutmaßlichen Komplizen Markus H. auf einer Demonstration der AfD in Chemnitz zeigen. 
 					</div>
 				
 													
 			<footer class="tsr-Base_ContentMeta">
 			<ul class="tsr-Base_ContentMetaList">
-									<li rel="author"
-						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
-					  						Helene Bubrowski und Matthias Wyssuwa, Hamburg
-					</li>
 													<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-time-of-publication">
 						<span class="o-VisuallyHidden">Veröffentlicht/Aktualisiert: </span>
 						<time class="tsr-Base_ContentMetaTime"
-							  datetime="2020-01-07T21:22:46+0100"
-							  title="07.01.2020 21:22 Uhr">vor 36 Minuten</time>
+							  datetime="2020-01-11T19:31:37+0100"
+							  title="11.01.2020 19:31 Uhr">vor 12 Minuten</time>
 
 					</li>
 													<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
@@ -4201,18 +4157,10 @@ fazSecondaryInfo.P5.init();
                 
             
     
-    <img src='https://www.faz.net/img/leer.gif' alt='Kein leichter Weg: Norbert Walter-Borjans und Saskia Esken auf dem Parteitag im Dezember vor Verkündung ihres Wahlergebnisses' width='260' data-retina-src='https://media1.faz.net/ppmedia/aktuell/2886916263/1.6568235/article_teaser_ressortmodul/kein-leichter-weg-norbert.jpg' title='Kein leichter Weg: Norbert Walter-Borjans und Saskia Esken auf dem Parteitag im Dezember vor Verkündung ihres Wahlergebnisses' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
+    <img src='https://www.faz.net/img/leer.gif' alt='Die meisten Hebammen und Psychologen raten davon ab, das Kind mit in eine Klinik zu nehmen. Bei einer Hausgeburt spreche grundlegend nichts dagegen. ' width='260' data-retina-src='https://media0.faz.net/ppmedia/aktuell/4099405125/1.6565438/article_teaser_ressortmodul/die-meisten-hebammen-und.jpg' title='Die meisten Hebammen und Psychologen raten davon ab, das Kind mit in eine Klinik zu nehmen. Bei einer Hausgeburt spreche grundlegend nichts dagegen. ' class='media tsr-Base_Image ' height='146' onload='processRetinaDerivate(this);' />    
 
 	
 	
-					
-	<span class="btn-Base  btn-Base-is-top-small  btn-Base-is-left-small  btn-Base-has-icon   btn-Base-has-link" >
-					<a class="btn-Base_Link" href="https://www.faz.net/aktuell/politik/inland/die-neuen-spd-vorsitzenden-in-angespannter-gelassenheit-16568275.html" >
-											<span class="js-btn-Base_Icon btn-Base_Icon btn-Base_Play o-Icon">
-											</span>
-								
-					</a >
-			</span>
 	
 </div>
 	
@@ -4223,9 +4171,9 @@ fazSecondaryInfo.P5.init();
 
 							
 		<a class="js-hlp-LinkSwap js-tsr-Base_ContentLink tsr-Base_ContentLink"
-		   title="Die neuen SPD-Vorsitzenden: In angespannter Gelassenheit"
+		   title="Geschwister im Kreißsaal: Die Geburt als Familien-Event?"
            data-is-premium="true"
-		    href="https://www.faz.net/aktuell/politik/inland/die-neuen-spd-vorsitzenden-in-angespannter-gelassenheit-16568275.html"		   		   		>
+		    href="https://www.faz.net/aktuell/gesellschaft/gesundheit/geschwister-im-kreisssaal-die-geburt-als-familien-event-16565414.html"		   		   		>
 			
 										<header class="tsr-Base_ContentHeader">
     <p class="tsr-Base_Headline tsr-Base_Headline-sm">
@@ -4237,13 +4185,13 @@ fazSecondaryInfo.P5.init();
 </span>
             
             <span class="tsr-Base_HeadlineEmphasisText">
-												Die neuen SPD-Vorsitzenden
+												Geschwister im Kreißsaal
             </span>
             <span class="o-VisuallyHidden">: </span>
         </span>
 
         <span class="tsr-Base_HeadlineText">
-							In angespannter Gelassenheit
+							Die Geburt als Familien-Event?
 			        </span>
 
     </p>
@@ -4252,7 +4200,7 @@ fazSecondaryInfo.P5.init();
 							        	</a>
 			
 													<div class="tsr-Base_Content">
-						Die SPD will aus der Vergangenheit lernen und besser mit ihren Vorsitzenden umgehen. Aber die freundliche Stimmung ist fragil.
+						Manche Eltern entscheiden sich, ihre älteren Kinder dabei sein zu lassen, wenn das Geschwisterchen kommt. Das kann ein Erlebnis sein – hat aber auch Risiken. 
 					</div>
 				
 													
@@ -4260,18 +4208,16 @@ fazSecondaryInfo.P5.init();
 			<ul class="tsr-Base_ContentMetaList">
 									<li rel="author"
 						class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-author">
-					  						Mona Jaeger
+					  						Kerstin Mitternacht
 					</li>
-																	<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-social-feedback">
-						
-													<span class="tsr-Base_ContentMetaShare tsr-Base_ContentMetaShare-recommendations">
-									<span class="tsr-Base_ContentMetaShareInner o-Icon o-Icon-fav-star-small tsr-IconFavStar">
-										<span class="o-VisuallyHidden">Empfehlungen: </span>
-									</span>
-								<span class="tsr-Base_ContentMetaShareRecommendations">3</span>
-							</span>
-											</li>
-							</ul>
+													<li class="tsr-Base_ContentMetaItem tsr-Base_ContentMetaItem-time-of-publication">
+						<span class="o-VisuallyHidden">Veröffentlicht/Aktualisiert: </span>
+						<time class="tsr-Base_ContentMetaTime"
+							  datetime="2020-01-11T19:20:48+0100"
+							  title="11.01.2020 19:20 Uhr">vor 23 Minuten</time>
+
+					</li>
+											</ul>
 		</footer>
 					
             </div>
@@ -5189,34 +5135,34 @@ fazSecondaryInfo.P5.init();
                 <h4>Folgende Karrierechancen könnten Sie interessieren:</h4>
                 <div class="event-faz-net-stellenmarkt-artikel-stellen-wrapper">
                     
-                    <a href="https://stellenmarkt.faz.net/job/standortleiter-w-m-d-im-bereich-customer-service.386515435.html?jw_chl_seg=FAZ&amp;feed=premium" target="_blank">
+                    <a href="https://stellenmarkt.faz.net/job/leiter-finanzen-controlling-rechnungswesen-d-m-w-d.392656995.html?jw_chl_seg=FAZ&amp;feed=premium" target="_blank">
                         <div class="stellen-wrapper left firstrow">
-                            <div id="event-stellenmarkt-headline-1" class="event-stellenmarkt-headline">Standortleiter (w/m/d) im Bereich Customer Service</div>
-                            <div id="event-stellenmarkt-description-1" class="event-stellenmarkt-description">TÜV SÜD Gruppe</div>
+                            <div id="event-stellenmarkt-headline-1" class="event-stellenmarkt-headline">Leiter Finanzen, Controlling Rechnungswesen (D) (m/w/d)</div>
+                            <div id="event-stellenmarkt-description-1" class="event-stellenmarkt-description">über Rochus Mummert Executive Consultants GmbH</div>
                         </div>
                     </a>
                     
                     
-                    <a href="https://stellenmarkt.faz.net/job/beigeordneter-m-w-d-fuer-stadtentwicklung-umwelt-und-bauen-mit-der-amtsbezeichnung-buergermeisterin-buergermeister.386509035.html?jw_chl_seg=FAZ&amp;feed=premium" target="_blank">
+                    <a href="https://stellenmarkt.faz.net/job/abteilungsleiterin-abteilungsleiter-einkaufs-und-vertragsmanagement-w-m-d.390815685.html?jw_chl_seg=FAZ&amp;feed=premium" target="_blank">
                         <div class="stellen-wrapper right firstrow ">
-                            <div id="event-stellenmarkt-headline-2" class="event-stellenmarkt-headline">Beigeordneter (m/w/d) für Stadtentwicklung, Umwelt und Bauen mit der Amtsbezeichnung Bürgermeisterin/Bürgermeister</div>
-                            <div id="event-stellenmarkt-description-2" class="event-stellenmarkt-description">Stadt Sindelfingen</div>
+                            <div id="event-stellenmarkt-headline-2" class="event-stellenmarkt-headline">Abteilungsleiterin / Abteilungsleiter Einkaufs- und Vertragsmanagement (w/m/d)</div>
+                            <div id="event-stellenmarkt-description-2" class="event-stellenmarkt-description">Bau- und Liegenschaftsbetrieb des Landes NRW</div>
                         </div>
                     </a>
                     
                     
-                    <a href="https://stellenmarkt.faz.net/job/junior-consultant-w-m-d.386403495.html?jw_chl_seg=FAZ&amp;feed=premium" target="_blank">
+                    <a href="https://stellenmarkt.faz.net/job/leitung-m-w-d-kommunikation.390815425.html?jw_chl_seg=FAZ&amp;feed=premium" target="_blank">
                         <div class="stellen-wrapper left">
-                            <div id="event-stellenmarkt-headline-3" class="event-stellenmarkt-headline">Junior Consultant (w/m/d)</div>
-                            <div id="event-stellenmarkt-description-3" class="event-stellenmarkt-description">BMS Consulting GmbH</div>
+                            <div id="event-stellenmarkt-headline-3" class="event-stellenmarkt-headline">Leitung (m/w/d) Kommunikation</div>
+                            <div id="event-stellenmarkt-description-3" class="event-stellenmarkt-description">ZEW – Leibniz-Zentrum für Europäische  Wirtschaftsforschung GmbH Mannheim</div>
                         </div>
                     </a>
                     
                     
-                    <a href="https://stellenmarkt.faz.net/job/php-software-entwickler-w-m-d.386403405.html?jw_chl_seg=FAZ&amp;feed=premium" target="_blank">
+                    <a href="https://stellenmarkt.faz.net/job/leiterinnen-leiter-w-m-d-im-immobilienmanagement.390811405.html?jw_chl_seg=FAZ&amp;feed=premium" target="_blank">
                         <div class="stellen-wrapper right">
-                            <div id="event-stellenmarkt-headline-4" class="event-stellenmarkt-headline">PHP Software Entwickler (w/m/d)</div>
-                            <div id="event-stellenmarkt-description-4" class="event-stellenmarkt-description">BMS Consulting GmbH</div>
+                            <div id="event-stellenmarkt-headline-4" class="event-stellenmarkt-headline">Leiterinnen / Leiter (w/m/d) im Immobilienmanagement</div>
+                            <div id="event-stellenmarkt-description-4" class="event-stellenmarkt-description">Bau- und Liegenschaftsbetrieb des Landes NRW</div>
                         </div>
                     </a>
                     
@@ -5238,7 +5184,7 @@ fazSecondaryInfo.P5.init();
 			
 	
 
-	 		<img src="/l.gif?a=1.6569716&d=/2.252/2.1648/2.1923/2.1924" style="display: block; height: 0;"> 	
+	 		<img src="/l.gif?a=1.6545107&d=/2.252/2.1648/2.1651/2.1677" style="display: block; height: 0;"> 	
 
 
 
@@ -5550,57 +5496,133 @@ fazSecondaryInfo.P7.init();
     
                 
                                 <footer class="gf-Wrapper" role="contentinfo">
-<div class="o-GlobalWrapper">
-<div class="gf-Wrapper_Inner">
-<div class="o-Grid">
-<div class="o-Grid_Col o-Grid_Col-12 o-Grid_Col-has-offset-of-2">
-<p class="gf-Logo"><a href="https://www.faz.net/aktuell/" class="gf-Logo_Link gf-IconLogoFaz">
-<span class="o-Icon o-Icon-logo-faz gf-IconLogoFaz_Inner">
+    <div class="o-GlobalWrapper">
+        <div class="gf-Wrapper_Inner">
+            <div class="o-Grid">
+                <div class="o-Grid_Col o-Grid_Col-12 o-Grid_Col-has-offset-of-2">
+                    <p class="gf-Logo">
+                        <a href="https://www.faz.net/aktuell/" class="gf-Logo_Link gf-IconLogoFaz">
+                            <span class="o-Icon o-Icon-logo-faz gf-IconLogoFaz_Inner">
 <span class="o-VisuallyHidden">Frankfurter Allgemeine Zeitung</span>
-</span></a>
-</p>
-</div>
-</div>
-<div class="o-Grid">
-<div class="o-Grid_Col o-Grid_Col-2"><a class="lbl-Base lbl-Base-has-bar lbl-Base-is-link" href="https://www.faz.net/aktuell/">Zur Startseite</a></div>
-<div class="o-Grid_Col o-Grid_Col-12">
-<section class="gf-Topics gf-Topics-has-separator">
-<ul class="gf-Topics_List">
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/datenschutzerklaerung-11228151.html">Datenschutz</a></li>
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/allgemeine-nutzungsbedingungen-von-faz-net-und-seinen-teilbereichen-11228149.html">Nutzungsbedingungen</a></li>
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/ueber-uns/faz-net-impressum-112096.html">Impressum</a></li>
-</ul>
-<ul class="gf-Topics_List">
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://verlag.faz.net/unternehmen/kontakt/schreiben-sie-uns-11127932.html">Kontakt</a></li>
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://abo.faz.net/">Abo-Angebote</a></li>
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.media/">Mediadaten/Werbung</a></li>
-</ul>
-<ul class="gf-Topics_List">
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/redaktion/">Redaktion</a></li>
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/trust-initiative-frankfurter-allgemeine-zeitung-15798271.html">Vertrauen</a></li>
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://verlag.faz.net/unternehmen/">Über die F.A.Z.</a></li>
-</ul>
-<ul class="gf-Topics_List">
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://stellenmarkt.faz.net/">Stellenmarkt</a></li>
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://lebenswege.faz.net/">Lebenswege</a></li>
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://immobilienmarkt.faz.net/">Immobilienmarkt</a></li>
-</ul>
-<ul class="gf-Topics_List">
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://verlag.faz.net/unternehmen/presse/">Presse</a></li>
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/wissen/thema/">Themen</a></li>
-<li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://blogs.faz.net/">Blogs</a></li>
-</ul>
-</section>
-<section class="gf-Copyright">
-<div class="gf-Copyright_TextWrapper">
-<p class="gf-Copyright_Text">© Frankfurter Allgemeine Zeitung GmbH 2001 - 2019<br>Alle Rechte vorbehalten.</p>
-</div>
-</section>
-</div>
-</div>
-</div>
-</div>
+                            </span>
+                        </a>
+                    </p>
+                </div>
+            </div>
+            <div class="o-Grid">
+                <div class="o-Grid_Col o-Grid_Col-2">
+                    <a class="lbl-Base lbl-Base-has-bar lbl-Base-is-link" href="https://www.faz.net/aktuell/">Startseite</a>
+                </div>
+                <div class="o-Grid_Col o-Grid_Col-12">
+                    <section class="gf-Topics  gf-Topics-has-separator">
+                        <ul class="gf-Topics_List">
+                            <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/politik/">Politik</a></li>
+                            <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/wirtschaft/">Wirtschaft</a></li>
+                            <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/finanzen/">Finanzen</a></li>
+                        </ul>
+                        <ul class="gf-Topics_List">
+                            <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/feuilleton/">Feuilleton</a></li>
+                            <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/sport/">Sport</a></li>
+                            <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/gesellschaft/">Gesellschaft</a></li>
+                        </ul>
+                        <ul class="gf-Topics_List">
+                            <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/stil/">Stil</a></li>
+                            <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/technik-motor/">Technik &amp; Motor</a></li>
+                            <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/wissen/">Wissen</a></li>
+                        </ul>
+                        <ul class="gf-Topics_List">
+                            <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/reise/">Reise</a></li>
+                            <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/karriere-hochschule/">Karriere</a></li>
+                            <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/aktuell/rhein-main/">Rhein-Main</a></li>
+                        </ul>
+                        <ul class="gf-Topics_List">
+                            <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/multimedia/">Multimedia</a></li>
+                            <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://www.faz.net/themen/">Themen</a></li>
+                            <li class="gf-Topics_Item"><a class="gf-Topics_ItemLink" href="https://blogs.faz.net/">Blogs</a></li>
+                        </ul>
+                    </section>
+                    <section class="gf-Sitemap">
+                        <section class="gf-Sitemap_Column">
+                            <div class="gf-Sitemap_Headline">Information</div>
+                            <ul class="gf-Sitemap_List">
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://verlag.faz.net/unternehmen/kontakt/schreiben-sie-uns-11127932.html">Kontakt</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/aktuell/wirtschaft/informanten-portal-f-a-z-vertraulich-15326452.html">F.A.Z. vertraulich</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/hilfe/">Hilfe</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/archiv/">Archiv</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/datenschutzerklaerung-11228151.html">Datenschutz</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/allgemeine-nutzungsbedingungen-von-faz-net-und-seinen-teilbereichen-11228149.html">Nutzungsbedingungen</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/ueber-uns/faz-net-impressum-112096.html">Impressum</a></li>
+                            </ul>
+                        </section>
+                        <section class="gf-Sitemap_Column">
+                            <div class="gf-Sitemap_Headline">Verlag</div>
+                            <ul class="gf-Sitemap_List">
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://abo.faz.net/">Abo-Angebote</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.media/">Mediadaten/Werbung</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.media/rubrikenanzeigen/traueranzeigen/">Traueranzeigen</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://verlag.faz.net/unternehmen/presse/pressemitteilungen/">Presse</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://verlag.faz.net/unternehmen/ueber-uns/">Über die F.A.Z.</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://verlag.faz.net/jobs-bei-der-f-a-z/">Jobs bei der F.A.Z.</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://hochschulanzeiger.faz.net/magazin/">Hochschulanzeiger</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="http://www.fuer-gruender.de/">Für-Gründer.de</a></li>
+                            </ul>
+                        </section>
+                        <section class="gf-Sitemap_Column">
+                            <div class="gf-Sitemap_Headline">FAZ.NET</div>
+                            <ul class="gf-Sitemap_List">
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/redaktion/">Redaktion</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/aktuell/trust-initiative-frankfurter-allgemeine-zeitung-15798271.html">Vertrauen</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/faz-live">Newsticker</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://blogs.faz.net/">Blogs</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/hilfe/richtlinien-fuer-lesermeinungen-160626.html">Lesermeinungen</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/newsletter-auth/">Newsletter</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://epaper.faz.net/">e-paper</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/faz-net-services/apps/">Apps</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://verlag.faz.net/unternehmen/kontakt/briefe-an-die-herausgeber-11948105.html">Leserbriefe</a></li>
+                            </ul>
+                        </section>
+                        <section class="gf-Sitemap_Column">
+                            <div class="gf-Sitemap_Headline">Service</div>
+                            <ul class="gf-Sitemap_List">
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/faz-net-services/widgets/rss-feed-nichts-verpassen-mit-den-rss-angeboten-von-faz-net-11124617.html">RSS</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/artikel-chronik/">Chronik</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://boersenlexikon.faz.net/a/">Börsenlexikon</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://lebenswege.faz.net/" target="blank">Lebenswege</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://immobilienmarkt.faz.net/" target="blank">Immobilienmarkt</a></li> 
+								<li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://gutscheine.faz.net/" target="blank">Gutscheine</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.fazit-communication.de/" target="blank">FAZIT Communication</a></li> 
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz-institut.de/" target="blank">F.A.Z.-Institut</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.frankfurt-bm.com/" target="blank">F.A.Z.-Fachverlag</a></li>
+                            </ul>
+                        </section>
+                        <section class="gf-Sitemap_Column">
+                            <div class="gf-Sitemap_Headline">Oft gesucht</div>
+                            <ul class="gf-Sitemap_List">
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/aktuell/politik/thema/angela-merkel">Angela Merkel</a></li>    
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/aktuell/finanzen/thema/oelpreis">Ölpreis</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/aktuell/politik/thema/china">China</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/aktuell/gesellschaft/thema/flugzeugabsturz">Flugzeugabsturz</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/aktuell/finanzen/thema/volker-looman">Volker Looman</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/aktuell/rhein-main/thema/frankfurter-polizei">Frankfurter Polizei</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/aktuell/wirtschaft/thema/condor">Condor</a></li>                              
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/aktuell/politik/thema/donald-trump">Donald Trump</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/aktuell/wissen/thema/klimawandel">Klimawandel</a></li>
+                                <li class="gf-Sitemap_Item"><a class="gf-Sitemap_ItemLink" href="https://www.faz.net/aktuell/politik/thema/greta-thunberg">Greta Thunberg</a></li>
+                            </ul>
+                        </section>
+                    </section>
+                    <section class="gf-Copyright">
+                        <div class="gf-Copyright_TextWrapper">
+                            <p class="gf-Copyright_Text">© Frankfurter Allgemeine Zeitung GmbH 2001 - 2019
+                                <br>Alle Rechte vorbehalten.</p>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
 </footer>
+
                                         <!-- FOOTER SNIPPET 1 -->
                 
                                 <script type="text/javascript">
@@ -5730,15 +5752,15 @@ if(location.pathname.indexOf("/preview/www/") > -1) {
         <div class="LargeLeft">
             <div class="PulldownVersandTeaser">
 
-                <p style="display: none" class="Content HeadlineShort">Gravitationswellen-Astronomie: Das Ende zweier Neutronensterne</p>
-                <p class="Content Stichwort">Gravitationswellen-Astronomie</p>
+                <p style="display: none" class="Content HeadlineShort">Johnson macht Druck: Britisches Unterhaus stimmt über Brexit-Abkommen ab</p>
+                <p class="Content Stichwort">Johnson macht Druck</p>
 
-                <p class="Content Headline">Das Ende zweier Neutronensterne</p>
+                <p class="Content Headline">Britisches Unterhaus stimmt über Brexit-Abkommen ab</p>
                         <span class="Autor" style="display: none;">
-                    Von <span class="Content Autor caps" style="display: none;">Sibylle Anderl</span>
+                    Von <span class="Content Autor caps" style="display: none;"></span>
                 </span>
 
-                <p class="Content Copy" style="display: none;">Zum zweiten Mal ist es gelungen, ein Gravitationswellen-Signal aufzuzeichnen, das mutmaßlich auf die Kollision zweier Neutronensterne zurückgeht. Doch der Fund gibt Rätsel auf. </p>
+                <p class="Content Copy" style="display: none;">Boris Johnson drückt auf die Tube: Schon am Freitag soll das Parlament in London den Brexit-Deal abnicken. Nach seinem haushohen Wahlsieg dürfte der Premierminister sein Ziel problemlos erreichen. Gegenwind bläst ihm nur aus Schottland entgegen. </p>
             </div>
             <div style="display: none;" class="PulldownVersandTeaser ErrMsg">
                 <p>Ein Fehler ist aufgetreten. Bitte überprüfen Sie Ihre Eingaben.</p>

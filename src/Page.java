@@ -9,17 +9,17 @@ This class represents a page, which is equivalent to an article of the newspaper
  */
 public class Page {
 
-    final static String TITLE_REGEX = "<title>(.*?)</title>";
-    final static String KEYWORDS_REGEX = "<meta name=\"keywords\" content=\"(.*?)\"/>";
-    final static String DESCRIPTION_REGEX = "<meta property=\"og:description\" content=\"(.*?)(\" />|\\r\\n|\\r|\\n)";
-    final static String AUTHOR_REGEX = "\"author\":\"(.*?)\",\"characterCount";
-    final static String TYPE_REGEX = ",\"type\":\"(Bezahlartikel|kostenloser Artikel)\",\"pagination\"";
-    final static String LASTUPDATED_REGEX = "\"publishedLast\":\"(.*?)\",\"containsComments";
-    final static String PUBLICATION_REGEX = "\"publishedFirst\":\"(.*?)\",\"publishedLast\"";
-    final static String TOPICS_REGEX = ",\"name\":\"(?![A-Z][A-Z])(?![A-Z][a-z]*\\s[A-Z])([A-Z][a-z]+)\"}},";
-    final static String ARTICLE_REGEX = ",\"@type\":\"(.*?)\",\"mainEntityOfPage";
-    final static String BODY_REGEX = "\"articleBody\":\"(.*?)\",\"datePublished\"";
-    final static String PERMALINK_REGEX = "lay-Sharing_PermalinkUrl\">(.*?)</span>";
+    private final static String TITLE_REGEX = "<title>(.*?)</title>";
+    private final static String KEYWORDS_REGEX = "<meta name=\"keywords\" content=\"(.*?)\"/>";
+    private final static String DESCRIPTION_REGEX = "<meta property=\"og:description\" content=\"(.*?)(\" />|\\r\\n|\\r|\\n)";
+    private final static String AUTHOR_REGEX = "\"author\":\"(.*?)\",\"characterCount";
+    private final static String TYPE_REGEX = ",\"type\":\"(Bezahlartikel|kostenloser Artikel)\",\"pagination\"";
+    private final static String LASTUPDATED_REGEX = "\"publishedLast\":\"(.*?)\",\"containsComments";
+    private final static String PUBLICATION_REGEX = "\"publishedFirst\":\"(.*?)\",\"publishedLast\"";
+    private final static String TOPICS_REGEX = ",\"name\":\"(?![A-Z][A-Z])(?![A-Z][a-z]*\\s[A-Z])([A-Z][a-z]+)\"}},";
+    private final static String ARTICLE_REGEX = ",\"@type\":\"(.*?)\",\"mainEntityOfPage";
+    private final static String BODY_REGEX = "\"articleBody\":\"(.*?)\",\"datePublished\"";
+    private final static String PERMALINK_REGEX = "lay-Sharing_PermalinkUrl\">(.*?)</span>";
 
     private String title;
     private TreeSet<String> keywords;

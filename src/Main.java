@@ -1,6 +1,4 @@
 import java.io.*;
-import java.nio.Buffer;
-import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.TreeSet;
 import java.util.regex.Matcher;
@@ -20,14 +18,20 @@ public class Main {
         Download.mainPage();
         extractSubsections();
         int i = 0;
+        // int debug = 0;
         for (String subsection : subsections) {
             System.out.println(subsection);
             Download.fromPath(subsection);
             fetchSubs();
+            // debug++;
+            // if (debug == 10) break;
         }
+        // debug = 0;
         for (String sub : finalSubs) {
             System.out.printf("%d\t" + sub + "\n", i++);
             mine(sub);
+            // debug++;
+            // if (debug == 10) break;
         }
         pageList.forEach(Page -> Page.printPage());
     }
@@ -62,7 +66,7 @@ public class Main {
             if (p.getType() != null) {
                 for (Page page : pageList) {
                     try {
-                        if ((p.getTitle().compareTo(page.getTitle()) != 0 && p.getLastUpdated().getDate().compareTo(page.getPublication().getDate()) != 0) || (p.getPublication().getDate() == null)) {
+                        if ((p.getTitle().compareTo(page.getTitle()) == 0 && p.getLastUpdated().getDate().compareTo(page.getPublication().getDate()) == 0) || (p.getPublication().getDate() == null)) {
                             pageExists = true;
                         }
                     } catch (NullPointerException e) {}
