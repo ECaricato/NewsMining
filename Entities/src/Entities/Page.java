@@ -1,3 +1,5 @@
+package Entities;
+
 import org.jetbrains.annotations.NotNull;
 import java.util.LinkedList;
 import java.util.TreeSet;
@@ -20,6 +22,7 @@ public class Page {
     private final static String ARTICLE_REGEX = ",\"@type\":\"(.*?)\",\"mainEntityOfPage";
     private final static String BODY_REGEX = "\"articleBody\":\"(.*?)\",\"datePublished\"";
     private final static String PERMALINK_REGEX = "lay-Sharing_PermalinkUrl\">(.*?)</span>";
+    final static String SUBPAGE_REGEX = "href=\"https://www.faz.net/aktuell(?!/news-des-tages-per-whatsapp-telegram)(?!/reise/routenplaner/)(?!ueber-uns/)(?!hilfe/)(?!faz-net-services/)(?!datenschutzerklaerung)(?!asv/vor-denker/)(?!allgemeine-nutzungsbedingungen)(.*?).html\"";
 
     private String title;
     private TreeSet<String> keywords;
@@ -166,10 +169,10 @@ public class Page {
 
     public void createPage(String line) {
         String buffer;
-        if ((buffer = Main.extractString(TITLE_REGEX, line)) != null) {
+        if ((buffer = extractString(TITLE_REGEX, line)) != null) {
             this.setTitle(buffer);
         }
-        if ((buffer = Main.extractString(KEYWORDS_REGEX, line)) != null) {
+        if ((buffer = extractString(KEYWORDS_REGEX, line)) != null) {
             String[] kwds = buffer.split(", ");
             Pattern pattern = Pattern.compile("[^A-Za-z]+");
             TreeSet<String> t = new TreeSet<>();
@@ -180,26 +183,26 @@ public class Page {
             }
             this.setKeywords(t);
         }
-        if ((buffer = Main.extractString(DESCRIPTION_REGEX, line)) != null) {
+        if ((buffer = extractString(DESCRIPTION_REGEX, line)) != null) {
             this.setDescription(buffer);
         }
-        if ((buffer = Main.extractString(AUTHOR_REGEX, line)) != null) {
+        if ((buffer = extractString(AUTHOR_REGEX, line)) != null) {
             this.setAuthor(buffer);
         }
-        if ((buffer = Main.extractString(TYPE_REGEX, line)) != null) {
+        if ((buffer = extractString(TYPE_REGEX, line)) != null) {
             this.setType(buffer);
         }
-        if ((buffer = Main.extractString(LASTUPDATED_REGEX, line)) != null) {
+        if ((buffer = extractString(LASTUPDATED_REGEX, line)) != null) {
             Date lastUpdate = new Date();
             lastUpdate.setDate(buffer.split(" ")[0]);
             this.setLastUpdated(lastUpdate);
         }
-        if ((buffer = Main.extractString(PUBLICATION_REGEX, line)) != null) {
+        if ((buffer = extractString(PUBLICATION_REGEX, line)) != null) {
             Date publication = new Date();
             publication.setDate(buffer.split(" ")[0]);
             this.setPublication(publication);
         }
-        if ((buffer = Main.extractString(TOPICS_REGEX, line)) != null) {
+        if ((buffer = extractString(TOPICS_REGEX, line)) != null) {
             if (this.getTopics() == null) {
                 this.setTopics(new LinkedList<String>());
                 this.getTopics().add(buffer);
@@ -207,17 +210,17 @@ public class Page {
                 this.getTopics().add(buffer);
             }
         }
-        if ((buffer = Main.extractString(ARTICLE_REGEX, line)) != null) {
+        if ((buffer = extractString(ARTICLE_REGEX, line)) != null) {
             if (buffer.equals("Article")) this.setArticle(true);
             else this.setArticle(false);
         }
-        if ((buffer = Main.extractString(BODY_REGEX, line)) != null) {
+        if ((buffer = extractString(BODY_REGEX, line)) != null) {
             this.setBody(buffer);
         }
-        if ((buffer = Main.extractString(PERMALINK_REGEX, line)) != null) {
+        if ((buffer = extractString(PERMALINK_REGEX, line)) != null) {
             this.setPermalink(buffer);
         }
-        if ((buffer = Main.extractString(Main.SUBPAGE_REGEX, line)) != null) {
+        if ((buffer = extractString(SUBPAGE_REGEX, line)) != null) {
             if (this.getSubpages() == null) {
                 this.setSubpages(new TreeSet<>());
                 this.addSubpage("https://www.faz.net/aktuell" + buffer + ".html");
@@ -234,6 +237,15 @@ public class Page {
         else System.out.println("Test");
         if (this.getTopics() != null) this.getTopics().forEach(String -> System.out.println(String));
         //if (this.getSubpages() != null) this.getSubpages().forEach(String -> System.out.println(String));
+    }
+
+    public static String extractString(String regex, String line) {
+        Pattern pattern = Pattern.compile(regex);
+        Matcher matcher = pattern.matcher(line);
+        if (matcher.find()) {
+            return matcher.group(1);
+        }
+        else return null;
     }
 
 }

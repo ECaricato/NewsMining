@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="130.59166666666667" y="22.0">Type</node>
+    <node x="0.0" y="166.0">Page</node>
+    <node x="11.358333333333348" y="884.0">Main</node>
+    <node x="217.0" y="464.0">Download</node>
+    <node x="22.591666666666697" y="0.0">Date</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Main" target="Download">
+      <point x="89.60000000000002" y="-146.5" />
+      <point x="212.95833333333337" y="859.0" />
+      <point x="298.0" y="859.0" />
+      <point x="0.0" y="36.0" />
+    </edge>
+    <edge source="Page" target="Main">
+      <point x="73.875" y="334.0" />
+      <point x="172.375" y="859.0" />
+      <point x="168.15833333333336" y="859.0" />
+      <point x="44.80000000000001" y="-146.5" />
+    </edge>
+    <edge source="Main" target="Page">
+      <point x="0.0" y="-146.5" />
+      <point x="24.625" y="334.0" />
+    </edge>
+    <edge source="Page" target="Type">
+      <point x="39.39999999999998" y="-334.0" />
+      <point x="137.89999999999998" y="141.0" />
+      <point x="149.09166666666667" y="141.0" />
+      <point x="-18.5" y="36.0" />
+    </edge>
+    <edge source="Page" target="Date">
+      <point x="-78.80000000000004" y="-334.0" />
+      <point x="19.69999999999996" y="141.0" />
+      <point x="37.25833333333338" y="141.0" />
+      <point x="-29.333333333333314" y="58.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9" x="543.5" y="481.2499999999999" />
+  <SelectedNodes>
+    <node>Main</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

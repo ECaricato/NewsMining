@@ -1,15 +1,18 @@
+package Implementation;
+
+import Entities.Page;
+
 import java.io.*;
 import java.util.LinkedList;
 import java.util.TreeSet;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+import static Entities.Page.extractString;
 
 public class Main {
 
     private static TreeSet<String> subsections = new TreeSet<>();
     private static TreeSet<String> finalSubs = new TreeSet<>();
     private static LinkedList<Page> pageList = new LinkedList<>();
-    private final static String FILE_NAME = "raw.txt";
+    private final static String FILE_NAME = "./raw.txt";
     private final static String SUBSECTION_REGEX = "<a href=\"https://www.faz.net/aktuell/(.*?)\"";
     private final static String NEXTLINE = "class=\"lay-MegaMenu_SubsectionLink\"";
     final static String SUBPAGE_REGEX = "href=\"https://www.faz.net/aktuell(?!/news-des-tages-per-whatsapp-telegram)(?!/reise/routenplaner/)(?!ueber-uns/)(?!hilfe/)(?!faz-net-services/)(?!datenschutzerklaerung)(?!asv/vor-denker/)(?!allgemeine-nutzungsbedingungen)(.*?).html\"";
@@ -102,13 +105,6 @@ public class Main {
         }
     }
 
-    static String extractString(String regex, String line) {
-        Pattern pattern = Pattern.compile(regex);
-        Matcher matcher = pattern.matcher(line);
-        if (matcher.find()) {
-            return matcher.group(1);
-        }
-        else return null;
-    }
+
 
 }
